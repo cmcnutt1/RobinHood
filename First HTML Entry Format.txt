@@ -1,3 +1,30 @@
+Variable Names:
+
+ - departure_location
+
+ - port_of_call_list (Array of full port locations)
+
+ - standard_price
+
+
+Explanation:
+    
+    This is the format of the (very long) string that needs to be inputted into the textbox.
+    In python, concatenate strings using +, make new lines with "\n" (I'm sure you already
+    know both of those things, but just clarifying). Test with print(string_name). Then once
+    testing matches the format, return that string.
+    
+    There's a surprisingly low amount of variables here, although I may be unclear on what
+    gets changed by cruise ship. What I'm thinking is that if more things need to be changed
+    by ship, simply make different functions for each ship, and then decide which function to
+    call with a series of if statements (switch statements are ideal, but non-existent in Python).
+
+
+
+
+
+HTML FORMAT
+---------------------------------------------------------------------------------------------------------
 <table class="table table-bordered tours-tabs__table" style="height: 233px; width: 844px;">
 <tbody>
 <tr>
@@ -65,3 +92,4 @@
 </tr>
 </tbody>
 </table>
+---------------------------------------------------------------------------------------------------------
