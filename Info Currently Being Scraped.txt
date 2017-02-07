@@ -1,0 +1,28 @@
+Scraped Info per listing:
+
+ - Cruise Title (4 Night - ______)
+
+ - Cruise Ship Name
+
+ - Cruise Subtitle (Location -> Location ....)
+
+ - Departure Location
+
+ - List of Port Locations
+
+ - List of Port tags (State/Country)
+
+ - Regular Price
+
+ - 40% off Price
+
+ - Learn More URL (used for other scrape)
+
+ - List of available dates
+
+
+Learn More Scrape:
+
+ - List of itinerary info
+
+

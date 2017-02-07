@@ -1,0 +1,13 @@
+To Do:
+----------
+
+Scraper:
+    
+    - Integrate Database
+
+    - Once Database integrated, export all "Learn More" URLs to txt file, make LearnMoreScrape use
+        those URLs to run its scrape
+
+Input:
+
+    - Fucking Everything

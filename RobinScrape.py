@@ -23,7 +23,9 @@ def get_page_results(driver, page_link):
 
 
     # Will be replaced by driver.get(page_link) after testing
-    driver.get("https://secure.royalcaribbean.com/cruises")
+    driver.get(page_link)
+
+    time.sleep(10)
 
     results = driver.find_element_by_class_name("bottom-section")
 
@@ -34,10 +36,69 @@ def get_page_results(driver, page_link):
     return childList
 
 
+def format_cruise_name(cruise_name):
 
-# ******************************************
+    word_list = cruise_name.split()
+
+    i = 0
+
+    formatted_word_list = []
+    
+    formatted_title = ""
+
+    for word in word_list:
+        if(i==0):
+            formatted_word = word
+        else:
+            lower_word = word[1:].lower()
+            formatted_word = word[0] + lower_word
+            if(i==1):
+                formatted_word = formatted_word + " -"
+
+        formatted_word_list.append(formatted_word)
+        i+=1
+
+    for word in formatted_word_list:
+        formatted_title = formatted_title + word + " "
+
+    return formatted_title
+        
+
+def get_sale_price(regular_price):
+
+    sale = '{0: .2f}'.format(round((regular_price*0.6),2))[1:]
+
+    #print(sale)
+    
+    return sale
+
+
+def format_price_text(price):
+
+    price_text = '{0: .2f}'.format(price)
+
+    return price_text
+
+
+def get_cruise_subtitle(port_tag_list):
+
+    i = 0
+
+    subtitle = ""
+
+    for tag in port_tag_list:
+
+        if not (i == (len(port_tag_list) - 1)):
+            subtitle = subtitle + tag + str(" → ")
+        else:
+            subtitle = subtitle + tag
+        i+=1
+
+    return subtitle
+
+# ********************************************
 # SCRAPING FUNCTIONS. GET CRUISE INFORMATION
-# ******************************************
+# ********************************************
 
 def get_cruise_name(cruise_listing):
 
@@ -49,6 +110,10 @@ def get_departure_location(cruise_listing):
     return cruise_listing.find_element_by_class_name("cruise-details").find_element_by_tag_name("strong").text
 
 
+def get_ship_name(cruise_listing):
+
+    return cruise_listing.find_element_by_class_name("cruise-details").find_element_by_xpath("./label/span/strong").text
+
 def get_port_list(cruise_listing):
 
     port_visit_list = cruise_listing.find_element_by_class_name("list-ports").find_elements_by_xpath("./*")
@@ -59,13 +124,41 @@ def get_port_list(cruise_listing):
         #Extra li element at beginning. This if case weeds it out
         if not (port.get_attribute("class") == "show-for-small-only"):
             city_text = port.find_element_by_tag_name("strong").text
-            state_text = port.find_element_by_tag_name("span").text
+            try:
+                state_text = port.find_element_by_tag_name("span").text
+            except NoSuchElementException:
+                state_text = ""
+                pass
             combined_text = (city_text + " " + state_text)
             #print(combined_text)
             port_text_list.append(combined_text)
 
     return port_text_list
 
+
+def get_port_tags(cruise_listing):
+
+    port_visit_list = cruise_listing.find_element_by_class_name("list-ports").find_elements_by_xpath("./*")
+
+    port_tag_list = []
+
+    for port in port_visit_list:
+        #Extra li element at beginning. If case weeds out
+        if not (port.get_attribute("class") == "show-for-small-only"):
+            try:
+                state_text = port.find_element_by_tag_name("span").text
+            except NoSuchElementException:
+                state_text = port.find_element_by_tag_name("strong").text
+                pass
+            if state_text not in port_tag_list:
+                port_tag_list.append(state_text)
+
+    return port_tag_list
+
+
+#def get_cruise_subtitle(port_tag_list):
+
+    
 
 def get_price(cruise_listing):
 
@@ -86,6 +179,8 @@ def get_departure_dates(cruise_listing, iterator, driver):
     #Currently have to manually scroll during wait time. Don't know how to fix this at the moment...
     if not (iterator==0):
         driver.execute_script("return arguments[0].scrollIntoView(true);", view_dates_button)
+        time.sleep(1)
+        driver.execute_script("window.scrollBy(0,-350)")
         time.sleep(3)
 
     view_dates_button.click()
@@ -153,17 +248,27 @@ def get_individual_result_info(result_list,driver):
     # For every result, get info.
     for cruise_listing in result_list:
 
-        cruise_title_text = get_cruise_name(cruise_listing)
+        cruise_title = get_cruise_name(cruise_listing)
 
-        cruise_duration = int(cruise_title_text.split()[0])
+        cruise_title_text = format_cruise_name(cruise_title)
+
+        cruise_duration = int(cruise_title.split()[0])
+
+        cruise_ship = get_ship_name(cruise_listing)
 
         departure_location_text = get_departure_location(cruise_listing)
 
         port_text_list = get_port_list(cruise_listing)
 
-        price_text = get_price(cruise_listing)
+        port_tag_list = get_port_tags(cruise_listing)
+
+        price_text = get_price(cruise_listing)[1:]
+
+        sale_price_text = get_sale_price(int(price_text))
 
         learn_more_url = get_learn_more_url(cruise_listing)
+
+        cruise_subtitle = get_cruise_subtitle(port_tag_list)
         
         unformatted_departure_dates = get_departure_dates(cruise_listing, i, driver)
 
@@ -181,11 +286,20 @@ def get_individual_result_info(result_list,driver):
 
         print("\nDeparture Location: " + departure_location_text)
 
+        print("\nShip Name: " + cruise_ship)
+
         print("\nPort Locations:")
         for entry in port_text_list:
 	        print(entry)
+        
+        for entry in port_tag_list:
+            print(entry)
 
-        print("\nPrice: " + price_text + "\n")
+        print("\nCruise Subtitle: " + cruise_subtitle)
+
+        print("\nRegular Price: " + price_text + "\n")
+
+        print("\nSale Price: " + sale_price_text + "\n")
 
         print("\nLearn More URL: " + learn_more_url)
 
@@ -198,10 +312,17 @@ def get_individual_result_info(result_list,driver):
             n += 1
 
 
+
 if __name__ == "__main__":
+
     drive = init_driver()
-    listing = get_page_results(drive,"testing")
-    get_individual_result_info(listing,drive)
+    it = 0
+    while(it < 70):
+        link = "https://secure.royalcaribbean.com/cruises?currentPage=" + str(it) + "&action=update"
+        listing = get_page_results(drive,link)
+        get_individual_result_info(listing,drive)
+        it += 1
+
     drive.get("https://www.google.com")
     drive.close()
 

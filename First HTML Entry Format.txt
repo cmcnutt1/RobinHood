@@ -1,0 +1,67 @@
+<table class="table table-bordered tours-tabs__table" style="height: 233px; width: 844px;">
+<tbody>
+<tr>
+<td style="width: 296px;"><strong>DEPARTURE/RETURN LOCATION</strong></td>
+<td style="width: 550px;">****Departure Location Here****</td>
+</tr>
+<tr>
+<td style="width: 296px;"><strong>PORTS OF CALL</strong></td>
+<td style="width: 550px;">****Full****
+****Ports****
+****Of****
+****Call****
+****List****
+****(City, State/Country)****
+****Here****</td>
+</tr>
+<tr>
+<td style="width: 296px;"><strong>INCLUDED</strong></td>
+<td style="width: 550px;">
+<table class="table table-bordered" style="height: 62px;" width="300">
+<tbody>
+<tr>
+<td>[icon_tick state="on"]Taxes, Fees, Port Expenses</td>
+<td>[icon_tick state="on"]Onboard Entertainment</td>
+</tr>
+<tr>
+<td>[icon_tick state="on"]Dining</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 296px;"><b>NOT INCLUDED</b></td>
+<td style="width: 550px;">
+<table class="table table-bordered" style="height: 62px;" width="300">
+<tbody>
+<tr>
+<td>[icon_tick state="off"]Gratuities</td>
+</tr>
+<tr>
+<td>[icon_tick state="off"]Premium Dining</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="width: 296px;"><b>CABIN TYPES</b></td>
+<td style="width: 550px;">
+<table class="table table-bordered" style="height: 62px;" width="300">
+<tbody>
+<tr>
+<td>• Interior</td>
+<td>• Outside View</td>
+</tr>
+<tr>
+<td>• Balcony</td>
+<td>• Royal Suite Class</td>
+</tr>
+</tbody>
+</table>
+<span style="font-size: 8pt;"><strong>Note: </strong>Prices start at <strong>****Regular Price****</strong> but vary by cabin type and are always changing. Consult an Interline Advantage representative using the booking form for the most up-to-date pricing.</span></td>
+</tr>
+</tbody>
+</table>
