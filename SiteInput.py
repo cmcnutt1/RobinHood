@@ -34,9 +34,38 @@ def insert_cruise_main_info(info_html,driver):
 
     textarea.send_keys(info_html + "\nThis should be a new line\n\n\n\n4 Lines Down")
 
-    
 
-#.find_element_by_class_name("wp-editor-area").send_keys(info_html)
+def select_badge_dropdown(driver):
+
+    # Find dropdownbutton, click it
+    dropdown_button = driver.find_element_by_id("tour_tabs_meta[tour_badge]").find_element_by_class_name("select2-choice")    
+
+    driver.execute_script("return arguments[0].scrollIntoView(true);",dropdown_button)
+
+    time.sleep(5)
+
+    driver.execute_script("window.scrollBy(0,-350)")
+
+    time.sleep(3)
+
+    dropdown_button.click()
+
+    time.sleep(3)
+
+    # Once dropdown displayed, click on 'Starting From: ' selection
+
+    dropdown_selection = driver.find_element_by_id("select2-drop").find_element_by_class_name("select2-results").find_elements_by_xpath("./*")[3]
+
+    dropdown_selection.click()
+
+def insert_iten_title(driver):
+
+    driver.find_element_by_id("tour_tabs_meta[tabs][0][title]").find_element_by_class_name("vp-input").send_keys("Itinerary")
+
+
+def insert_day_by_day(intinerary, driver):
+
+    
 
 def get_individual_result_info(driver):
 
@@ -65,6 +94,8 @@ def get_individual_result_info(driver):
 
     cruise_subtitle = "Port 1 -> Port 2 -> Port 3 -> Port 4 -> Port 5"
 
+    itinerary = ["Depart from Cape Testing, NJ", "Day at Sea", "Day at Sea", "Docked at San Test, Puerto Rico", "Docked at Testburg, St. Maarten", "Docked at St. Test, Antigua", "Tendered at Fort de Test, Martinique", "Docked at Testtown, Barbados", "Docked at Basseterre, St. Test", "Day at Sea", "Day at Sea", "Day at Sea", "Return to Cape Testing, NJ"]
+
     unformatted_departure_dates = []
 
     formatted_departure_dates = ["2017-01-01","2017-02-01","2017-03-01"]
@@ -76,7 +107,11 @@ def get_individual_result_info(driver):
 
     insert_cruise_main_info(departure_location_text,driver)
 
+    select_badge_dropdown(driver)
 
+    insert_iten_title(driver)
+
+    insert_day_by_day(itinerary, driver)
 
     time.sleep(10)
 
