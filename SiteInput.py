@@ -5,6 +5,7 @@ from tinydb import TinyDB, Query
 import time
 import os
 from datetime import datetime, timedelta
+from Cruise_Details import create_port_list, test_HTML_input
 
 #Some globals for sleep time lengths
 NAP = 2
@@ -48,7 +49,7 @@ def insert_cruise_main_info(info_html,driver):
 
     #Send HTML chunk to text area 
     textarea = driver.find_element_by_id("wp-content-editor-container").find_element_by_class_name("wp-editor-area")
-    textarea.send_keys(info_html + "\nThis should be a new line\n\n\n\n4 Lines Down")
+    textarea.send_keys(info_html)
 
     time.sleep(NAP)
 
@@ -104,19 +105,9 @@ def insert_day_by_day(itinerary, driver):
 
     time.sleep(NAP)
 
-    driver.find_element_by_id("mceu_174-open").click()
-
-    time.sleep(NAP)
-
-    driver.find_element_by_id("mceu_211").click()
-
-    time.sleep(NAP)
-
-    driver.find_element_by_id("mceu_214").send_keys(big_ass_string)
+    driver.find_element_by_id("tour_tabs_meta[tabs][0][content]_ce").send_keys(big_ass_string)
 
     time.sleep(REST)
-
-    driver.find_element_by_id("mceu_216").find_element_by_xpath("./button").click()
 
 
 def insert_ship_info(driver, ship_info):
@@ -135,28 +126,66 @@ def insert_ship_info(driver, ship_info):
 
     time.sleep(NAP)
 
-    #click tools on top bar
-    driver.find_element_by_id("mceu_252-open").click()
+    text_area = driver.find_element_by_id("tour_tabs_meta[tabs][1][content]_ce")
+
+    text_area.send_keys(ship_info)
 
     time.sleep(NAP)
 
-    #click "Source Code" under tools
-    driver.find_element_by_id("mceu_289").click()
 
-    time.sleep(REST)
+def complete_header_information(subtitle, ship_img, driver):
 
-    text_area = driver.find_element_by_id("mceu_292")
+    image_radio = driver.find_element_by_id("header_section_meta_metabox").find_element_by_class_name("input").find_elements_by_xpath("./*")[1].find_element_by_xpath("./input")
 
-    text_area.click()
+    image_radio.click()
 
-    text_area.send_keys("Testing Testing 1,2,3")
+    time.sleep(SLUMBER)
+
+    #Enter subtitle
+
+    sub_input = driver.find_element_by_id("header_section_meta[banner_subtitle]")
+
+    sub_input.click()
+
+    sub_input.send_keys(subtitle)
 
     time.sleep(NAP)
 
-    submit_button = driver.find_element_by_id("mceu_294").find_element_by_xpath("./button")
+    #Will input image here
+
+    image_add_button = driver.find_element_by_id("header_section_meta[banner_image]").find_element_by_class_name("buttons").find_elements_by_xpath("./*")[0]
+
+    image_add_button.click()
+
+    time.sleep(NAP)
+
+    #"Insert from URL" button
+
+    insert_url_link = driver.find_element_by_id("__wp-uploader-id-0").find_element_by_class_name("media-menu").find_elements_by_xpath("./*")[6]
+
+    insert_url_link.click()
+
+    time.sleep(NAP)
+
+    #Insert URL
+
+    url_box = driver.find_element_by_id("embed-url-field")
+
+    url_box.click()
+
+    url_box.send_keys("")
+
+    url_box.send_keys(ship_img)
+
+    time.sleep(NAP)
+
+    #Click submit button
+
+    submit_button = driver.find_element_by_class_name("media-frame-toolbar").find_element_by_class_name("media-button-select")
 
     submit_button.click()
 
+    time.sleep(REST)
     
 
 def get_individual_result_info(driver):
@@ -173,7 +202,11 @@ def get_individual_result_info(driver):
 
     cruise_ship = "sample ship"
 
+    img_source = "http://7eb.8aa.myftpupload.com/wp-content/uploads/2017/02/anthem2.jpg"
+
     departure_location_text = "leaving location"
+
+    arrival_location_text = "arriving location"
 
     port_text_list = ["Port 1","Port 2","Port 3","Port 4","Port 5"]
 
@@ -185,7 +218,7 @@ def get_individual_result_info(driver):
 
     learn_more_url = "not important"
 
-    cruise_subtitle = "Port 1 -> Port 2 -> Port 3 -> Port 4 -> Port 5"
+    cruise_subtitle = "Cape Liberty → Puerto Rico → St. Maarten → Antigua → Martinique → Barbados → St. Kitts"
 
     itinerary = ["Depart from Cape Testing, NJ", "Day at Sea", "Day at Sea", "Docked at San Test, Puerto Rico", "Docked at Testburg, St. Maarten", "Docked at St. Test, Antigua", "Tendered at Fort de Test, Martinique", "Docked at Testtown, Barbados", "Docked at Basseterre, St. Test", "Day at Sea", "Day at Sea", "Day at Sea", "Return to Cape Testing, NJ"]
 
@@ -203,8 +236,11 @@ def get_individual_result_info(driver):
     #Insert Title
     insert_cruise_title(cruise_title,driver)
 
+    port_string = create_port_list(port_text_list)
+    html_input = test_HTML_input(departure_location_text, arrival_location_text, port_string, price_text)
+
     #Insert Departure, port, features HTML
-    insert_cruise_main_info(departure_location_text,driver)
+    insert_cruise_main_info(html_input,driver)
 
     #Select Badge (Starting From:)
     select_badge_dropdown(driver)
@@ -218,6 +254,8 @@ def get_individual_result_info(driver):
     #
     insert_ship_info(driver, "test info")
 
+    complete_header_information(cruise_subtitle, img_source, driver)
+
     time.sleep(HIBERNATE)
 
 
@@ -229,7 +267,11 @@ if __name__ == "__main__":
 
     drive = init_driver()
 
-    link = "file:///home/chris/Downloads/blank_input.html"
+    link = "http://7eb.8aa.myftpupload.com/wp-admin/post-new.php?post_type=product"
+
+    drive.get(link)
+
+    time.sleep(HIBERNATE)
 
     drive.get(link)
 
