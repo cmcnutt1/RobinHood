@@ -73,7 +73,7 @@ def select_badge_dropdown(driver):
 
     # Once dropdown displayed, choose 'Starting From: '
 
-    dropdown_selection = driver.find_element_by_id("select2-drop").find_element_by_class_name("select2-results").find_elements_by_xpath("./*")[3]
+    dropdown_selection = driver.find_element_by_id("tour_tabs_meta[tour_badge]").find_element_by_class_name("select2-results").find_elements_by_xpath("./*")[3]
 
     dropdown_selection.click()
 
@@ -143,9 +143,13 @@ def complete_header_information(subtitle, ship_img, driver):
 
     #Enter subtitle
 
-    sub_input = driver.find_element_by_id("header_section_meta[banner_subtitle]")
+    sub_input = driver.find_element_by_id("header_section_meta[banner_subtitle]").find_element_by_class_name("vp-input")
 
     sub_input.click()
+
+    #driver.execute_script("arguments[0].focus();",sub_input)
+
+    time.sleep(NAP)
 
     sub_input.send_keys(subtitle)
 
@@ -186,7 +190,23 @@ def complete_header_information(subtitle, ship_img, driver):
     submit_button.click()
 
     time.sleep(REST)
+
+    #Turn off parallax
+
+    lax_button = driver.find_element_by_id("header_section_meta[is_banner_image_parallax]").find_element_by_class_name("vp-input")
+
+    lax_button.click()
+
+    #Turn off image repeat
+
+    '''repeat_dropdown = driver.find_element_by_id("header_section_meta[banner_image_repeat]").find_element_by_class_name("select2-choice")
+
+    repeat_dropdown.click()
+
+    no_repeat_choice = driver.find_element_by_id("select2-drop").find_elements_by_xpath("./ul/*")[1].find_elements_by_xpath("./*")[0]
     
+    no_repeat_choice.click()'''
+
 
 def get_individual_result_info(driver):
 
@@ -218,7 +238,7 @@ def get_individual_result_info(driver):
 
     learn_more_url = "not important"
 
-    cruise_subtitle = "Cape Liberty → Puerto Rico → St. Maarten → Antigua → Martinique → Barbados → St. Kitts"
+    cruise_subtitle = "Cape Liberty -> Puerto Rico -> St. Maarten -> Antigua -> Martinique -> Barbados -> St. Kitts"
 
     itinerary = ["Depart from Cape Testing, NJ", "Day at Sea", "Day at Sea", "Docked at San Test, Puerto Rico", "Docked at Testburg, St. Maarten", "Docked at St. Test, Antigua", "Tendered at Fort de Test, Martinique", "Docked at Testtown, Barbados", "Docked at Basseterre, St. Test", "Day at Sea", "Day at Sea", "Day at Sea", "Return to Cape Testing, NJ"]
 
@@ -243,7 +263,7 @@ def get_individual_result_info(driver):
     insert_cruise_main_info(html_input,driver)
 
     #Select Badge (Starting From:)
-    select_badge_dropdown(driver)
+    #select_badge_dropdown(driver)
 
     #Insert 'Itinary' Title
     insert_iten_title(driver)
@@ -252,7 +272,7 @@ def get_individual_result_info(driver):
     insert_day_by_day(itinerary, driver)
 
     #
-    insert_ship_info(driver, "test info")
+    #insert_ship_info(driver, "test info")
 
     complete_header_information(cruise_subtitle, img_source, driver)
 
@@ -267,11 +287,11 @@ if __name__ == "__main__":
 
     drive = init_driver()
 
-    link = "http://7eb.8aa.myftpupload.com/wp-admin/post-new.php?post_type=product"
+    link = "file:///home/chris/Documents/Add%20New%20Product%20%E2%80%B9%20Interline%20Advantage%20%E2%80%94%20WordPress.html"
 
-    drive.get(link)
+    #drive.get(link)
 
-    time.sleep(HIBERNATE)
+    #time.sleep(HIBERNATE)
 
     drive.get(link)
 

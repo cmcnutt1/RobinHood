@@ -23,6 +23,8 @@ def get_page_result(driver, page_link):
     # Open up link in WebDriver
     driver.get(page_link)
 
+    time.sleep(3)
+
     results = driver.find_element_by_class_name("col-8")
 
     results = results.find_elements_by_xpath("./*")
@@ -45,10 +47,18 @@ def get_dock_detail(day_info):
 
 def get_formatted_info(port_detail, dock_detail, indicator):
 
+    include_entry = True
+
     if(indicator == "Welcome:"):
         day_info = "Depart from " + port_detail[9:]
-    elif(indicator == "Cruising:"):
+    elif(indicator == "Cruising:" or indicator == "Disembark:" or "AT SEA" in port_detail):
+        if(port_detail.split()[1] == "International"):
+            include_entry = False
         day_info = "Day at Sea"
+        if("Sound" in port_detail):
+            day_info = port_detail.split()[1] + " " + port_detail.split()[2]
+        
+
     else:
         indicator = port_detail.split()[0] + " " + port_detail.split()[1] + " " + port_detail.split()[2]
 
@@ -63,7 +73,12 @@ def get_formatted_info(port_detail, dock_detail, indicator):
             else:
                 day_info = "Tendered at " + port_detail[14:]
 
+    if not(include_entry):
+        day_info = "exclude"
+    
     return day_info
+
+ 
 
 #************************
 # END SCRAPING FUNCTIONS
@@ -71,35 +86,71 @@ def get_formatted_info(port_detail, dock_detail, indicator):
 
 
 # Get day-by-day info for cruises
-def get_individual_result_info(result_list,driver):
+def get_itin_learn_more(link):
+
+    driver = init_driver()
+
+    result_list = get_page_result(driver, link)
 
     day_by_day = []
 
+    sound_list = []
+
+    sound_day = ""
+
     for day_info in result_list:
+        
+        if not (day_info.get_attribute("class") == "itenerary-alert"):
 
-        port_detail = get_port_detail(day_info)
+            port_detail = get_port_detail(day_info)
 
-        dock_detail = get_dock_detail(day_info)
+            dock_detail = get_dock_detail(day_info)
 
-        indicator = port_detail.split()[0]
+            indicator = port_detail.split()[0]
 
-        iten_info = get_formatted_info(port_detail, dock_detail, indicator)
+            itin_info = get_formatted_info(port_detail, dock_detail, indicator)
 
-        day_by_day.append(iten_info)
+            #Sounds fucking everything up
+            if(len(sound_list) > 1 and not "Sound" in itin_info):
+                for item in sound_list:
+                    sound_day = sound_day + item + ", "
+                day_by_day.append("Cruising Through " + sound_day[:(len(sound_day) - 2)])
+                day_by_day.append(itin_info)
+                sound_list = []
 
-        #Print, for testing purposes
+            elif("Sound" in itin_info):
+                sound_list.append(itin_info)
 
-        print(iten_info)
+            elif not (itin_info == "exclude"):
+                day_by_day.append(itin_info)
 
+            else:
+                print("International Dateline")
+
+            #Print, for testing purposes
+
+    for item in day_by_day:
+        print(item)
+
+    driver.close()
+    
+    return day_by_day
 
 if __name__ == "__main__":
-    drive = init_driver()
+    #drive = init_driver()
 
-    link = "https://secure.royalcaribbean.com/cruises/4NightBahamasCruise-MJ04S135?currencyCode=USD&sCruiseType=CO&sailDate=11%2F27%2F2017"
+    link = "https://secure.royalcaribbean.com/cruises/EX07A146"
 
-    listing = get_page_result(drive,link)
-    get_individual_result_info(listing,drive)
-    drive.get("https://www.google.com")
-    drive.close()
+    #link = "https://secure.royalcaribbean.com/cruises/17NightAustraliaNewZealandCruise-RD17K025?currencyCode=USD&sCruiseType=CO&sailDate=02%2F25%2F2017"
+
+    #link = "https://secure.royalcaribbean.com/cruises/24NightTranspacificCruise-EX24T003?currencyCode=USD&sCruiseType=CO&sailDate=04%2F22%2F2017"
+
+    #link = "https://secure.royalcaribbean.com/cruises/4NightBahamasCruise-MJ04S135?currencyCode=USD&sCruiseType=CO&sailDate=11%2F27%2F2017"
+
+    #listing = get_page_result(drive,link)
+
+    get_itin_learn_more(link)
+    #drive.get("https://www.google.com")
+    #drive.close()
 
     
