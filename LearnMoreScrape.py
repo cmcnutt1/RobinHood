@@ -63,7 +63,7 @@ def get_formatted_info(port_detail, dock_detail, indicator):
         indicator = port_detail.split()[0] + " " + port_detail.split()[1] + " " + port_detail.split()[2]
 
         if(indicator == "Port of Arrival:"):
-            day_info = "Arrive at " + port_detail[17:]
+            day_info = "Disembark at " + port_detail[17:]
         else:
             indicator = dock_detail.split()
             indicator = indicator[(len(indicator) - 1)]
@@ -129,8 +129,9 @@ def get_itin_learn_more(link):
 
             #Print, for testing purposes
 
-    for item in day_by_day:
-        print(item)
+    '''for item in day_by_day:
+        #print(item)
+    TESTING^^'''
 
     driver.close()
     

@@ -17,7 +17,7 @@ def init_driver():
 #Initialize TinyDB for storing cruise info
 def init_db():
 
-    db = TinyDB('testingCruiseDB.json')
+    db = TinyDB('cruise2.json')
     return db
 
 #Get list of search result HTML elements (10 per page)
@@ -296,6 +296,9 @@ def get_individual_result_info(result_list,driver):
 
     i = 0
 
+    print("\n*********************************************\n*********************************************")
+
+
     # For every result, get info.
     for cruise_listing in result_list:
 
@@ -329,19 +332,21 @@ def get_individual_result_info(result_list,driver):
             write_to_database = False
             pass
 
-        learn_more_url = get_learn_more_url(cruise_listing)
+        
+        if(write_to_database):
+            learn_more_url = get_learn_more_url(cruise_listing)
 
-        time.sleep(2)
+            time.sleep(2)
 
-        day_by_day = get_itin_learn_more(learn_more_url)
+            day_by_day = get_itin_learn_more(learn_more_url)
     
-        itin_len = len(day_by_day)
+            itin_len = len(day_by_day)
 
-        time.sleep(2)
+            time.sleep(2)
 
-        return_location = day_by_day[(itin_len - 1)]
+            return_location = day_by_day[(itin_len - 1)]
 
-        return_location_text = return_location[10:]
+            return_location_text = return_location[13:]
 
         cruise_subtitle = get_cruise_subtitle(port_tag_list)
         
@@ -404,16 +409,17 @@ def get_individual_result_info(result_list,driver):
             print("\n\n ****WRITING TO DATABASE****\n\n")
 
             db.insert({'cruise_name': cruise_title_text, 'ship_name': cruise_ship, 'departure_loc': departure_location_text, 'return_loc': return_location_text, 'port_list': port_text_list, "cruise_sub": cruise_subtitle, 'port_tags': port_tag_list, 'cruise_itin': day_by_day, 'available_departure_dates': formatted_departure_dates, 'available_return_dates': formatted_return_dates, 'regular_price': price_text, 'sale_price': sale_price_text})
-        
 
-        time.sleep(10)
+        print("*********************************************\n*********************************************")
+
+        time.sleep(4)
 
 
 if __name__ == "__main__":
 
     drive = init_driver()
     #Testing scrape is currently on page 27
-    it = 26
+    it = 42
     while(it < 70):
 
         #link = "https://secure.royalcaribbean.com/cruises?currentPage=" + str(it) + "&action=update"
