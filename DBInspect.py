@@ -46,6 +46,14 @@ def print_individual_entry():
 
     pricing_errors = []
 
+    diff_depart = []
+
+    diff_arrive = []
+
+    same_depart = []
+
+    all_ports = []
+
      
     i =1
 
@@ -65,11 +73,31 @@ def print_individual_entry():
 
         return_loc = entry['return_loc']
 
+        if(departure_loc == return_loc):
+            state_name = departure_loc
+            if not (state_name in same_depart):
+                same_depart.append(state_name)
+        else:
+            depart_state_name = departure_loc
+            arrive_state_name = return_loc
+
+            if not(depart_state_name in diff_depart):
+                diff_depart.append(depart_state_name)
+
+            if not (arrive_state_name in diff_arrive):
+                diff_arrive.append(arrive_state_name)
+
         ship_name = entry['ship_name']
 
         port_list = entry['port_list']
+
+        for item in port_list:
+            if not (item in all_ports):
+                all_ports.append(item)
  
         port_tags = entry['port_tags']
+
+        
 
         cruise_sub = entry['cruise_sub']
 
@@ -97,7 +125,7 @@ def print_individual_entry():
     #************************
     # Testing Print Outs
     #************************
-    print("\n\nMore/Less Days Errors:\n**********************\n")
+    '''print("\n\nMore/Less Days Errors:\n**********************\n")
     
     if(len(more_days_errors) == 0):
         print("\nNo difference in expected cruise lengths. Nice")
@@ -123,7 +151,39 @@ def print_individual_entry():
     else:
         for err in pricing_errors:
             print(err)
-        print("\n\n")
+        print("\n\n")'''
+
+    print("\n\nWhere departure/return location is same:\n*****************************************")
+    for item in same_depart:
+        print(item)
+
+    print("\n\nWhere departure/return locations are different:\n************************************************")
+
+    print("\nDepartures:\n")
+
+    for item in diff_depart:
+        if(item in same_depart):
+            something = 0
+
+        else:
+            print(item)
+
+    print("\nArrivals:\n")
+
+    for item in diff_arrive:
+        if(item in same_depart or item in diff_depart):
+            something = 0
+
+        else:
+            print(item)
+
+    print("\n\nAll unique ports (Excluding arrival/departures):\n*************************************************")
+
+    for item in all_ports:
+        if(item in diff_depart or item in diff_arrive or item in same_depart):
+            something = 0
+        else:
+            print(item)
             
         
 

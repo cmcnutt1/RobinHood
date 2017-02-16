@@ -1,0 +1,264 @@
+
+
+Where departure/return location is same:
+*****************************************
+Shenzhen, China
+Sydney, Australia
+Miami, Florida
+Southampton, England
+San Juan, Puerto Rico
+Shanghai (Baoshan), China
+Orlando (Port Canaveral), Florida
+Fort Lauderdale, Florida
+Cape Liberty, New Jersey
+Tampa, Florida
+Seattle, Washington
+Tianjin, China
+Galveston, Texas
+Hong Kong, China
+Baltimore, Maryland
+Boston, Massachusetts
+Venice, Italy
+Barcelona, Spain
+Rome (Civitavecchia), Italy
+Copenhagen, Denmark
+Stockholm, Sweden
+Dubai, United Arab Emirates
+Amsterdam, Netherlands
+
+
+Where departure/return locations are different:
+************************************************
+
+Departures:
+
+Singapore
+Seward, Alaska
+Vancouver, British Columbia
+Honolulu (Oahu), Hawaii
+Brisbane, Australia
+Quebec City, Quebec, Canada
+Auckland, New Zealand
+Perth (Fremantle), Australia
+
+Arrivals:
+
+Singapore, Singapore
+SOUTHAMPTON, ENGLAND
+
+
+All unique ports (Excluding arrival/departures):
+*************************************************
+CocoCay, Bahamas
+Nassau, Bahamas
+Brussels (Zeebrugge), Belgium
+Paris/Normandy (Le Havre), France
+Basseterre, St. Kitts
+Philipsburg, St. Maarten
+Singapore 
+Penang, Malaysia
+Kuala Lumpur (Port Klang), Malaysia
+Jeju Island, South Korea
+Grand Bahama, Bahamas
+Key West, Florida
+King's Wharf, Bermuda
+Cozumel, Mexico
+Nanaimo, British Columbia
+Victoria, British Columbia
+Phuket, Thailand
+Langkawi, Malaysia
+Nagasaki, Japan
+Fukuoka, Japan
+Okinawa (Naha), Japan
+Kumamoto, Japan
+Seoul (Incheon), South Korea
+Busan, South Korea
+Havana, Cuba
+Jeju, South Korea
+Kitayushu, Japan
+Sanya, China
+Hue/Danang (Chan May), Vietnam
+Kaohsiung, Taiwan
+Taipei (Keelung), Taiwan
+Nha Trang, Vietnam
+Bar Harbor, Maine
+Halifax, Nova Scotia
+George Town, Grand Cayman
+Rotterdam, Netherlands
+Cherbourg, France
+Puerto Costa Maya, Mexico
+Labadee, Haiti
+Falmouth, Jamaica
+Hiroshima, Japan
+Kochi, Japan
+Miyazaki, Japan
+Bilbao, Spain
+Bangkok (Laem Chabang), Thailand
+Nha Trang (Cam Ranh), Vietnam
+Hobart, Australia
+Sakaiminato, Japan
+Saint John, New Brunswick (Bay of Fundy)
+Melbourne, Australia
+Belize City, Belize
+Gijon, Spain
+Split, Croatia
+Athens (Piraeus), Greece
+Katakolon, Greece
+St. Johns, Antigua
+Castries, St. Lucia
+Bridgetown, Barbados
+Charlotte Amalie, St. Thomas
+Willemstad, Curacao
+Oranjestad, Aruba
+Kralendijk, Bonaire
+Roatan, Honduras
+Alaska Inside Passage, Alaska
+Juneau, Alaska
+Skagway, Alaska
+Tracy Arm Fjord, Alaska
+Noumea, New Caledonia
+Lifou, Loyalty Island
+Wollongong (Port Kembla), Australia
+Astoria, Oregon
+San Francisco, California
+Provence (Marseilles), France
+Nice (Villefranche), France
+Florence/Pisa (La Spezia), Italy
+Naples (Capri), Italy
+Palma de Mallorca, Spain
+St. Croix, U.S. Virgin Islands
+Roseau, Dominica
+St. George's, Grenada
+Monte Carlo (Cannes), France
+Ajaccio, Corsica
+Sardinia (Cagliari), Italy
+Santorini, Greece
+Mykonos, Greece
+Ibiza, Spain
+Ho Chi Minh (Phu My), Vietnam
+Lisbon, Portugal
+Vigo, Spain
+Hubbard Glacier (Cruising), 
+Icy Strait Point, Alaska
+Ketchikan, Alaska
+Inside Passage, 
+Naples (Salerno), Italy
+Catania, Sicily
+Dubrovnik, Croatia
+Ephesus (Kusadasi), Turkey
+Kotor, Montenegro
+Corfu, Greece
+Argostoli, Greece
+Portland, Maine
+Stavanger, Norway
+Bergen, Norway
+Alesund, Norway
+Geiranger, Norway
+Tallinn, Estonia
+St. Petersburg, Russia
+Helsinki, Finland
+Riga, Latvia
+Khasab, Oman
+Muscat, Oman
+Abu Dhabi, United Arab Emirates
+Mystery Island, Vanuatu
+Maré, New Caledonia
+Kristiansand, Norway
+Oslo, Norway
+Skagen, Denmark
+Hamburg, Germany
+La Coruna, Spain
+Adelaide, Australia
+Newcastle, Australia
+Airlie Beach, Queensland, Australia
+Florence/Pisa (Livorno), Italy
+Willis Island (Cruising), Australia
+Vila, Vanuatu
+Charleston, South Carolina
+Sicily (Messina), Italy
+Chania, Crete
+Xiamen, China
+Milford Sound
+Doubtful Sound
+Dusky Sound
+Dunedin, New Zealand
+Wellington, New Zealand
+Picton, New Zealand
+Sitka, Alaska
+Haines, Alaska
+Isle of Pines, New Caledonia
+Cartagena, Spain
+Provence (Toulon), France
+Cochin, India
+Bombay (Mumbai), India
+Madeira (Funchal), Portugal
+Tenerife, Canary Islands
+Las Palmas, Canary Islands
+Lanzarote, Canary Islands
+Napier, New Zealand
+Maui (Lahaina), Hawaii
+Kailua Kona, Hawaii
+Kauai (Nawiliwili), Hawaii
+Hilo, Hawaii
+Tortola, British Virgin Islands
+Klaipeda, Lithuania
+Gibraltar, United Kingdom
+St. Peter Port, Channel Islands
+Rockland, Maine
+Sydney, Nova Scotia
+Corner Brook, New Foundland
+Gdansk, Poland
+Suva, Fiji
+Lautoka, Fiji
+Cairns, Australia
+Darwin, Australia
+Akaroa, New Zealand
+Bay of Islands, New Zealand
+Ponce, Puerto Rico
+Arctic Circle (Cruising), 
+Tromso, Norway
+Honningsvag, Norway
+Olden, Norway
+Fredericia, Denmark
+Berlin (Rostock), Germany
+Valletta, Malta
+Charlottetown, Prince Edward Island
+Newport, Rhode Island
+Berlin (Warnemunde), Germany
+Fort de France, Martinique
+Ravenna, Italy
+Zadar, Croatia
+Valencia, Spain
+Tauranga, New Zealand
+Dover, England
+Edinburgh, Scotland
+Inverness/Loch Ness, Scotland
+Greenock, Scotland
+Dublin, Ireland
+Arhus, Denmark
+Cork (Cobh), Ireland
+Malaga, Spain
+Seville (Cadiz), Spain
+La Palma, Canary Islands
+Alicante, Spain
+Ponta Delgada, Azores
+New York City, New York
+Genoa, Italy
+Agadir, Morocco
+Vavau (Neiafu), Tonga
+Nuku ' Alofa, Tonga
+Cairns, Yorkey's Knob
+Port Douglas, Australia
+Reykjavik, Iceland
+Akureyri, Iceland
+Bali (Benoa), Indonesia
+Port Hedland, Australia
+Geraldton, Australia
+Papeete, Tahiti, French Polynesia
+Bora Bora, French Polynesia
+Aqaba, Jordan
+Suez Canal (Passage), 
+Jerusalem (Ashdod), Israel
+Haifa, Israel
+Esperance, Australia
+Moorea, French Polynesia
