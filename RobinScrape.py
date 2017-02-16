@@ -57,6 +57,8 @@ def format_cruise_name(cruise_name):
     for word in word_list:
         if(i==0):
             formatted_word = word
+        elif(len(word) < 2):
+            formatted_word = word
         else:
             #Rare formatting case, where there is a second "-" in the title
             if(word[0]=="-"):
@@ -362,44 +364,46 @@ def get_individual_result_info(result_list,driver):
         # Print Results (For Testing Purposes)
         #*************************************
 
-        print("\nCruise Title: " + cruise_title_text)
+        if(write_to_database):
 
-        print("\nDeparture Location: " + departure_location_text)
+            print("\nCruise Title: " + cruise_title_text)
 
-        print("\nReturn Location: " + return_location_text)
+            print("\nDeparture Location: " + departure_location_text)
 
-        print("\nShip Name: " + cruise_ship)
+            print("\nReturn Location: " + return_location_text)
 
-        print("\nPort Locations:")
-        for entry in port_text_list:
-	        print(entry)
+            print("\nShip Name: " + cruise_ship)
+
+            print("\nPort Locations:")
+            for entry in port_text_list:
+	            print(entry)
  
-        print("\nPort Tags:")       
-        for entry in port_tag_list:
-            print(entry)
+            print("\nPort Tags:")       
+            for entry in port_tag_list:
+                print(entry)
 
-        print("\nCruise Subtitle: " + cruise_subtitle)
+            print("\nCruise Subtitle: " + cruise_subtitle)
 
-        print("\nLearn More URL: " + learn_more_url)
+            print("\nLearn More URL: " + learn_more_url)
 
-        print("\nDates\n")
+            print("\nDates\n")
 
-        n = 0
+            n = 0
 
-        for item in formatted_departure_dates:
-            print(item + " - " + formatted_return_dates[n])
-            n += 1
+            for item in formatted_departure_dates:
+                print(item + " - " + formatted_return_dates[n])
+                n += 1
 
 
-        print("\nRegular Price: " + price_text + "\n")
+            print("\nRegular Price: " + price_text + "\n")
 
-        print("\nSale Price: " + sale_price_text + "\n")
+            print("\nSale Price: " + sale_price_text + "\n")
 
-        print("\nItinerary:\n")
-        for item in day_by_day:
-            print(item)
+            print("\nItinerary:\n")
+            for item in day_by_day:
+                print(item)
 
-        print("\nWRITE TO DATABASE: " + str(write_to_database))
+            print("\nWRITE TO DATABASE: " + str(write_to_database))
 
         #********************
         # Database Entry
@@ -419,12 +423,12 @@ if __name__ == "__main__":
 
     drive = init_driver()
     #Testing scrape is currently on page 27
-    it = 42
-    while(it < 70):
+    it = 35
+    while(it < 64):
 
         #link = "https://secure.royalcaribbean.com/cruises?currentPage=" + str(it) + "&action=update"
             
-        link = "https://secure.royalcaribbean.com/cruises?vacationTypeCode_CO=true&currentPage=" + str(it) + "&action=update&sort-by=DURATION_HIGH_TO_LOW"
+        link = "https://secure.royalcaribbean.com/cruises?vacationTypeCode_CO=true&currentPage=" + str(it) + "&action=update&sort-by=DURATION_LOW_TO_HIGH"
 
         listing = get_page_results(drive,link)
         get_individual_result_info(listing,drive)
