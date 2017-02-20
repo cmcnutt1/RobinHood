@@ -158,16 +158,16 @@ def get_individual_entry(query):
 
         return_loc = entry['return_loc']
 
-        if (query in return_loc):
-            target_items.append(i)
+        '''if (query in return_loc):
+            target_items.append(i)'''
 
         ship_name = entry['ship_name']
 
         port_list = entry['port_list']
 
-        '''for item in port_list:
+        for item in port_list:
             if (query in item):
-                target_items.append(i)'''
+                target_items.append(i)
  
         port_tags = entry['port_tags']
 
@@ -258,18 +258,18 @@ def get_individual_entry(query):
 
 if __name__ == "__main__":
     
-    list_query = "Singapore, Singapore"
-    list_entry = "Singapore"
+    list_query = "Gibraltar"
+    list_entry = "Gibraltar"
 
-    tag_query = "Tahiti"
-    tag_entry = "Tahiti"
+    tag_query = "United Kingdom"
+    tag_entry = "Gibraltar"
 
     print(list_query + "\n")
 
     a_list = get_individual_entry(list_query)
 
     #fix city (db_list, list_search, list_entry, tag_search, tag_entry)
-    #fix_city(a_list, list_query, list_entry, tag_query, tag_entry)
+    fix_city(a_list, list_query, list_entry, tag_query, tag_entry)
 
-    fix_depart(a_list, list_query, list_entry)
+    #fix_depart(a_list, list_query, list_entry)
     
