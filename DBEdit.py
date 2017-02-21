@@ -166,8 +166,12 @@ def get_individual_entry(query):
         port_list = entry['port_list']
 
         for item in port_list:
-            if (query in item):
-                target_items.append(i)
+            word_list = item.split(', ')
+            city = word_list[0]
+            if(len(word_list) > 1):
+                state = word_list[1]
+                if ( '(' in state):
+                    target_items.append(i)
  
         port_tags = entry['port_tags']
 
@@ -258,7 +262,7 @@ def get_individual_entry(query):
 
 if __name__ == "__main__":
     
-    list_query = "Gibraltar"
+    list_query = "Canada"
     list_entry = "Gibraltar"
 
     tag_query = "United Kingdom"
@@ -269,7 +273,7 @@ if __name__ == "__main__":
     a_list = get_individual_entry(list_query)
 
     #fix city (db_list, list_search, list_entry, tag_search, tag_entry)
-    fix_city(a_list, list_query, list_entry, tag_query, tag_entry)
+    # zadqwfix_city(a_list, list_query, list_entry, tag_query, tag_entry)
 
     #fix_depart(a_list, list_query, list_entry)
     

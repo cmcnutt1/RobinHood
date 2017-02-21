@@ -207,6 +207,91 @@ def complete_header_information(subtitle, ship_img, driver):
     
     no_repeat_choice.click()'''
 
+#port list should not include depart port. 
+def check_boxes(port_list, departure_loc, ship_name, driver):
+
+    usa_state_list = ['Alaska', 'California', 'Florida', 'Hawaii', 'Maine', 'Maryland', 'Massachusetts', 'New Jersey', 'New York', 'Oregon', 'Rhode Island', 'South Carolina', 'Texas', 'Washington']
+
+    ca_province_list = ['British Columbia', 'New Brunswick', 'Newfoundland', 'Nova Scotia', 'Prince Edward Island', 'Quebec']    
+
+    check_boxes = driver.find_element_by_id("tour_categorychecklist")
+
+    usa_dep_checkbox = check_boxes.find_element_by_id("in-tour_category-344")
+    usa_dest_checkbox = check_boxes.find_element_by_id("in-tour_category-498")
+    ca_dep_checkbox = check_boxes.find_element_by_id("in-tour_category-332")
+    ca_dest_checkbox = check_boxes.find_element_by_id("in-tour_category-431")
+
+    usa_dep_clicked = False
+    usa_dest_clicked = False
+    ca_dep_clicked = False
+    ca_dest_clicked = False
+
+    cruise_box = check_boxes.find_element_by_id("in-tour_category-97")
+
+    cruise_box.click()
+
+    for item in port_list:
+        state = item.split(', ')[1].strip()
+        print(state)
+        if (state in usa_state_list and usa_dest_clicked == False):
+            usa_dest_checkbox.click()
+            usa_dest_clicked = True
+        if (state in ca_province_list and ca_dest_clicked == False):
+            ca_dest_checkbox.click()
+            ca_dest_clicked = True
+
+    if(departure_loc.split(', ')[1].strip() in usa_state_list):
+        usa_dep_checkbox.click()
+    if(departure_loc.split(', ')[1].strip() in ca_province_list):
+        ca_dep_checkbox.click()
+
+    royal_caribbean_section = check_boxes.find_element_by_id("tour_category-185")
+    royal_caribbean_box = check_boxes.find_element_by_id("in-tour_category-185")
+
+    royal_caribbean_box.click()
+
+    rc_ships = royal_caribbean_section.find_elements_by_xpath('./ul/*')
+
+    for element in rc_ships:
+        list_item = element.find_element_by_xpath('./label')        
+        list_text = list_item.text
+        list_box = list_item.find_element_by_xpath('./input')
+
+        if(ship_name in list_text):
+            list_box.click()
+
+
+    departures = check_boxes.find_element_by_id("tour_category-326")
+
+    departure_children = departures.find_elements_by_xpath('.//label')
+
+    destinations = check_boxes.find_element_by_id("tour_category-216")  
+    
+    destination_children = destinations.find_elements_by_xpath(".//label")
+
+    for item in port_list:
+        text = item.split(', ')
+        city = text[0].strip()
+        state = text[1].strip()
+        for element in destination_children:
+            if (city in element.text):
+                element.find_element_by_xpath('./input').click()
+            if (state in element.text):
+                element.find_element_by_xpath('./input').click()
+    
+    dep_text = departure_loc.split(', ')
+    dep_city = dep_text[0].strip()
+    dep_state = dep_text[1].strip()
+
+    print("city: " + dep_city)
+    print("state: " + dep_state)
+    for item in departure_children:
+        if(dep_city in item.text):
+            item.find_element_by_xpath('./input').click()
+        if(dep_state in item.text):
+            item.find_element_by_xpath('./input').click()
+    
+
 
 def get_individual_result_info(driver):
 
@@ -220,15 +305,15 @@ def get_individual_result_info(driver):
 
     cruise_duration = int(cruise_title.split()[0])
 
-    cruise_ship = "sample ship"
+    cruise_ship = "Voyager of the Seas"
 
     img_source = "http://7eb.8aa.myftpupload.com/wp-content/uploads/2017/02/anthem2.jpg"
 
-    departure_location_text = "leaving location"
+    departure_location_text = "Brisbane, Australia"
 
     arrival_location_text = "arriving location"
 
-    port_text_list = ["Port 1","Port 2","Port 3","Port 4","Port 5"]
+    port_text_list = ["Icy Strait Point, Alaska","Hue/Danang, Vietnam","Charleston, South Carolina","Mystery Island, Vanuatu","Phuket, Thailand"]
 
     port_tag_list = ["Tag 1","Tag 2","Tag 3","Tag 4","Tag 5"]
 
@@ -253,7 +338,7 @@ def get_individual_result_info(driver):
     # RUN INTERACTION FUNCTIONS
     #*****************************
 
-    #Insert Title
+    '''#Insert Title
     insert_cruise_title(cruise_title,driver)
 
     port_string = create_port_list(port_text_list)
@@ -276,6 +361,10 @@ def get_individual_result_info(driver):
 
     complete_header_information(cruise_subtitle, img_source, driver)
 
+    '''
+
+    check_boxes(port_text_list, departure_location_text, cruise_ship, driver)
+
     time.sleep(HIBERNATE)
 
 
@@ -287,7 +376,7 @@ if __name__ == "__main__":
 
     drive = init_driver()
 
-    link = "file:///home/chris/Documents/Add%20New%20Product%20%E2%80%B9%20Interline%20Advantage%20%E2%80%94%20WordPress.html"
+    link = "file:///home/chris/Downloads/Add%20New%20Product%20%E2%80%B9%20Interline%20Advantage%20%E2%80%94%20WordPress.html"
 
     #drive.get(link)
 
