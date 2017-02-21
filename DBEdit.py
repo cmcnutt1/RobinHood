@@ -165,14 +165,14 @@ def get_individual_entry(query):
 
         port_list = entry['port_list']
 
-        for item in port_list:
+        '''for item in port_list:
             word_list = item.split(', ')
             city = word_list[0]
             if(len(word_list) > 1):
                 state = word_list[1]
                 if ( '(' in state):
                     target_items.append(i)
- 
+        '''
         port_tags = entry['port_tags']
 
         
@@ -187,6 +187,10 @@ def get_individual_entry(query):
         sale_price = entry['sale_price']
 
         cruise_itin = entry['cruise_itin']
+
+        for stuff in cruise_itin:
+            if('YUCATAN' in stuff):
+                target_items.append(i)
 
         i += 1
 
