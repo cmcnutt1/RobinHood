@@ -492,9 +492,41 @@ def insert_short_description(driver, cruise_title, port_tags):
     short_desc.send_keys(new_title)
     
 
+def fill_out_product_tags(driver, port_tags, cruise_ship):
+
+    new_title = ""    
+
+    for port in port_tags:
+        if('(' in port):
+            state = port.split('(')[0].strip()
+        else:
+            state = port.strip()
+
+        new_title = new_title + state + ", "
+
+    tag_input = driver.find_element_by_id("new-tag-product_tag")
+
+    new_title = new_title + cruise_ship + ", Royal Caribbean"
+
+    tag_input.send_keys(new_title)
+
+    tag_submit = driver.find_element_by_id("product_tag").find_element_by_class_name('tagadd')
+
+    add_media = driver.find_element_by_id("setting-error-tgmpa")
+
+    #Scroll to it
+    driver.execute_script("return arguments[0].scrollIntoView(true);",add_media)
+    driver.execute_script("window.scrollBy(0,400)")
+
+    time.sleep(NAP)
+
+    tag_submit.click()
+
+    time.sleep(NAP)
+
     
+
         
-    
         
 
 def get_individual_result_info(driver):
@@ -565,6 +597,8 @@ def get_individual_result_info(driver):
     set_product_image(driver, cruise_ship)
 
     complete_header_information(cruise_subtitle, cruise_ship, driver)
+
+    fill_out_product_tags(driver, port_tag_list, cruise_ship)
 
     check_boxes(port_text_list, departure_location_text, cruise_ship, driver)
 
