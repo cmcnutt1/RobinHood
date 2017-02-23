@@ -178,14 +178,16 @@ def print_individual_entry():
             print(item)
 
     print("\n\nAll unique ports (Excluding arrival/departures):\n*************************************************")
+    the_ports = []
 
     for item in all_ports:
         if(item in diff_depart or item in diff_arrive or item in same_depart):
             something = 0
         else:
             print(item)
+            the_ports.append(item.strip())
             
-        
+    return the_ports
 
 if __name__ == "__main__":
 

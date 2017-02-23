@@ -24,6 +24,26 @@ def get_dbs():
 
     return dbList
 
+def fix_name(db_list):
+    db = init_db()
+    for entry in db_list:
+        new_name = ""
+        name = db.get(eid=entry)['cruise_name']
+        name_list = name.split()
+        
+        for item in name_list:
+            if('/' in item):
+                capi_word = 'New'
+                split_word = item.split('/')[0] + " " + capi_word
+                new_name = new_name + " " + split_word
+            else:
+
+                new_name = new_name + " " + item
+
+        print(new_name.strip())
+        db.update({'cruise_name': new_name.strip()}, eids = [entry])
+    
+
 def fix_depart(db_list, list_search, list_entry):
 
     new_itin = []
@@ -152,6 +172,9 @@ def get_individual_entry(query):
 
         cruise_name = entry['cruise_name']
 
+        if(query in cruise_name):
+            target_items.append(i)
+
         cruise_len = cruise_name.split()[0]
 
         departure_loc = entry['departure_loc']
@@ -188,10 +211,10 @@ def get_individual_entry(query):
 
         cruise_itin = entry['cruise_itin']
 
-        for stuff in cruise_itin:
+        '''for stuff in cruise_itin:
             if('YUCATAN' in stuff):
                 target_items.append(i)
-
+        '''
         i += 1
 
     #************************
@@ -260,13 +283,13 @@ def get_individual_entry(query):
 
     print(target_items)
     for item in target_items:
-        print(mainDb.get(eid=item))
+        print(mainDb.get(eid=item)['cruise_name'])
     return target_items        
         
 
 if __name__ == "__main__":
     
-    list_query = "Canada"
+    list_query = "Canada New England Cruise"
     list_entry = "Gibraltar"
 
     tag_query = "United Kingdom"
@@ -275,6 +298,8 @@ if __name__ == "__main__":
     print(list_query + "\n")
 
     a_list = get_individual_entry(list_query)
+
+    #fix_name(a_list)
 
     #fix city (db_list, list_search, list_entry, tag_search, tag_entry)
     # zadqwfix_city(a_list, list_query, list_entry, tag_query, tag_entry)
