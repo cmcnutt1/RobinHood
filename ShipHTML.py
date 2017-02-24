@@ -11,6 +11,60 @@
 
 def get_anthem():
 
+    return """<h1 style="text-align: center;">
+
+<img src="http://oi65.tinypic.com/fd84dj.jpg" />
+
+</h1>
+
+<p style="text-align: center;">
+<span style="font-size: 8pt;">a <strong>sampling</strong> of<br /></span>
+<strong><span style="font-size: 24pt;">• Anthem of the Seas •</span></strong>
+</p>
+
+<table class="table table-bordered tours-tabs__table" style="height: 233px; width: 844px;">
+<tbody>
+
+<tr>
+<td style="width: 296px;"><strong>Entertainment Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Original Productions</li>
+<li>3D Movies</li>
+<li>Live Orchestra</li>
+<li>Salsa Dancing</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>Dining Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Chef's Table</li>
+<li>Wonderland</li>
+<li>Solarium Bistro</li>
+<li>Michael's Genuine Pub</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>On-board Activities</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>North Star</li>
+<li>Ripcord by iFly</li>
+<li>Rock Climbing</li>
+<li>Flowrider</li>
+</ul>
+</td>
+</tr>
+
+</tbody>
+</table>"""
+
+'''
 def get_ovation():
 
 def get_quantum():
@@ -54,6 +108,7 @@ def get_vision():
 def get_majesty():
 
 def get_empress():
+'''
 
 def switch_ship(ship):
 
@@ -61,6 +116,7 @@ def switch_ship(ship):
 
     if(ship_name == 'anthem of the seas'):
         chunk = get_anthem()
+'''
     elif(ship_name == 'ovation of the seas'):
         chunk = get_ovation()
     elif(ship_name == 'quantum of the seas'):
@@ -109,6 +165,7 @@ def switch_ship(ship):
         chunk = get_majesty()
     elif(ship_name == 'empress of the seas'):
         chunk = get_empress()
+'''
     else:
         chunk = "SHIP NOT FOUND"
 

@@ -7,6 +7,7 @@ import os
 from datetime import datetime, timedelta
 from Cruise_Details import create_port_list, test_HTML_input
 from DBInspect import print_individual_entry
+from ShipHTML import switch_ship
 
 #Some globals for sleep time lengths
 NAP = 2
@@ -27,6 +28,7 @@ def init_db():
 
     db = TinyDB('cruisedb.json')
 
+    return db
 
 
 #************************************************
@@ -123,7 +125,7 @@ def insert_ship_info(driver, ship_info):
 
     title_bar = driver.find_element_by_id("tour_tabs_meta[tabs][1]").find_element_by_class_name("vp-input")
 
-    title_bar.send_keys("THE BEST CRUISE SHIP IN THE WORLD")
+    title_bar.send_keys("Ship Details")
 
     time.sleep(NAP)
 
@@ -541,9 +543,9 @@ def get_individual_result_info(driver):
 
     cruise_duration = int(cruise_title.split()[0])
 
-    cruise_ship = "Voyager of the Seas"
+    cruise_ship = "Anthem of the Seas"
 
-    img_source = "http://7eb.8aa.myftpupload.com/wp-content/uploads/2017/02/anthem2.jpg"
+    cruise_html_chunk = switch_ship(cruise_ship)
 
     departure_location_text = "Brisbane, Australia"
 

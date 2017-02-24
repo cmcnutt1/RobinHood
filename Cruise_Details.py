@@ -9,6 +9,7 @@ def create_port_list(port_of_call_list):
     return port_list
 
 def test_HTML_input(departure_location, arrival_location, port_list, standard_price):
+    html_port_list = create_port_list(port_list)
     HTML_input = """<table class ="table table-bordered tours-tabs__table" style="height: 233px; width: 844px;">
     <tbody>
 
@@ -19,7 +20,7 @@ def test_HTML_input(departure_location, arrival_location, port_list, standard_pr
 
     <tr>
     <td style = "width: 296px;"><strong>PORTS OF CALL</strong></td>
-    <td style = "width: 550px;" >""" + port_list + """</td>
+    <td style = "width: 550px;" >""" + html_port_list + """</td>
     </tr>
 
     <tr>
