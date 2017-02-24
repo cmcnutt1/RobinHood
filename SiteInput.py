@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException, UnexpectedAlertPresentException, WebDriverException, TimeoutException
 from tinydb import TinyDB, Query
 import time
 import os
@@ -26,7 +26,7 @@ def init_driver():
 #Initialize TinyDB for retrieving cruise info
 def init_db():
 
-    db = TinyDB('cruisedb.json')
+    db = TinyDB('individual_ships/anthem.json')
 
     return db
 
@@ -46,7 +46,7 @@ def insert_cruise_title(cruise_title,driver):
 def insert_cruise_main_info(info_html,driver):
 
     #Switch to text tab
-    driver.find_element_by_id("content-html").click()
+    #driver.find_element_by_id("content-html").click()
 
     time.sleep(NAP)
 
@@ -88,19 +88,19 @@ def insert_iten_title(driver):
 # Make a big chunk of HTML using the itinerary list, and then do a bunch of 
 def insert_day_by_day(itinerary, driver):
 
-    big_ass_string = "<p>[timeline]<br />"
+    big_ass_string = "[timeline]"
 
     n = 1
 
     for day in itinerary:
 
-        day_string = '[timeline_item item_number="' + str(n) + '" title="Day ' + str(n) + '"]' + day + '[/timeline_item]<br />'
+        day_string = '[timeline_item item_number="' + str(n) + '" title="Day ' + str(n) + '"]' + day + '[/timeline_item]'
 
         big_ass_string = big_ass_string + day_string
 
         n+=1
 
-    big_ass_string = big_ass_string + '[/timeline]</p>'
+    big_ass_string = big_ass_string + '[/timeline]'
 
     print(big_ass_string)
 
@@ -458,6 +458,8 @@ def enter_dates(driver, departure_dates, return_dates):
 
         limit_button.click()
 
+        time.sleep(NAP)
+
         i+=1
 
     #driver.find_element_by_class_name("save_ranges_btn").click()
@@ -476,23 +478,38 @@ def insert_short_description(driver, cruise_title, port_tags):
     for word in split_title:
         if("-" not in word):
             new_title = new_title + word + " "
-    new_title = new_title + "with stops at "
-    
-    last_port = port_tags[(len(port_tags)-1)]
-    port_tags = port_tags[:(len(port_tags)-1)]
 
-    for port in port_tags:
-        if('(' in port):
-            state = port.split('(')[0].strip()
+    port_tags = port_tags[1:]
+
+    if(len(port_tags) > 1):
+        new_title = new_title + "with stops at "
+        
+        last_port = port_tags[(len(port_tags)-1)]
+        port_tags = port_tags[:(len(port_tags)-1)]
+
+        for port in port_tags:
+            if('(' in port):
+                state = port.split('(')[0].strip()
+            else:
+                state = port.strip()
+
+            new_title = new_title + state + ", "
+
+        new_title = new_title[:(len(new_title) - 2)]
+
+        new_title = new_title + " and " + last_port
+
+        short_desc.send_keys(new_title)
+
+    else:
+        new_title = new_title + "that visits "
+        if('(' in port_tags[0]):
+            port_name = port_tags[0].split('(')[0].strip()
         else:
-            state = port.strip()
+            port_name = port_tags[0]
+        new_title = new_title + port_name
 
-        new_title = new_title + state + ", "
-
-    new_title = new_title + "and " + last_port
-
-    short_desc.send_keys(new_title)
-    
+        short_desc.send_keys(new_title)
 
 def fill_out_product_tags(driver, port_tags, cruise_ship):
 
@@ -508,11 +525,15 @@ def fill_out_product_tags(driver, port_tags, cruise_ship):
 
     tag_input = driver.find_element_by_id("new-tag-product_tag")
 
-    new_title = new_title + cruise_ship + ", Royal Caribbean"
+    new_title = new_title + cruise_ship + ", Royal Caribbean, Cruises"
 
     tag_input.send_keys(new_title)
 
+    time.sleep(NAP)
+
     tag_submit = driver.find_element_by_id("product_tag").find_element_by_class_name('tagadd')
+    
+    time.sleep(NAP)
 
     add_media = driver.find_element_by_id("setting-error-tgmpa")
 
@@ -526,6 +547,26 @@ def fill_out_product_tags(driver, port_tags, cruise_ship):
 
     time.sleep(NAP)
 
+def publish_ship(driver):
+
+    publish_button = driver.find_element_by_id("publish")
+
+    add_media = driver.find_element_by_id("setting-error-tgmpa")
+
+    #Scroll to it
+    driver.execute_script("return arguments[0].scrollIntoView(true);",add_media)
+    driver.execute_script("window.scrollBy(0,200)")
+
+    time.sleep(NAP)
+
+    publish_button.click()
+
+    time.sleep(1)
+    try:
+        publish_button.click()
+    except StaleElementReferenceException:
+        pass
+
     
 
         
@@ -537,101 +578,128 @@ def get_individual_result_info(driver):
     # SAMPLE TESTING DATA
     #**********************
 
-    cruise_title = "4 Night - sample title"
+    db = init_db()
 
-    cruise_title_text = "4 sample title"
+    db_len = len(db.all())
 
-    cruise_duration = int(cruise_title.split()[0])
+    i = 1
 
-    cruise_ship = "Anthem of the Seas"
+    while(i < (db_len + 1)):
 
-    cruise_html_chunk = switch_ship(cruise_ship)
+        entry = db.get(eid=i)
 
-    departure_location_text = "Brisbane, Australia"
+        try:
 
-    arrival_location_text = "arriving location"
+            cruise_title = entry['cruise_name']
 
-    port_text_list = print_individual_entry()
+            cruise_duration = int(cruise_title.split()[0])
 
-    port_text_list = port_text_list[:5]
+            cruise_ship = entry['ship_name']
 
-    port_tag_list = ["Tag 1","Tag 2","Tag 3","Tag 4","Tag 5"]
+            cruise_html_chunk = switch_ship(cruise_ship)
 
-    price_text = "400"
+            departure_location_text = entry['departure_loc']
 
-    sale_price_text = "40"
+            arrival_location_text = entry['return_loc']
 
-    cruise_subtitle = "Cape Liberty -> Puerto Rico -> St. Maarten -> Antigua -> Martinique -> Barbados -> St. Kitts"
+            port_text_list = entry['port_list']
 
-    itinerary = ["Depart from Cape Testing, NJ", "Day at Sea", "Day at Sea", "Docked at San Test, Puerto Rico", "Docked at Testburg, St. Maarten", "Docked at St. Test, Antigua", "Tendered at Fort de Test, Martinique", "Docked at Testtown, Barbados", "Docked at Basseterre, St. Test", "Day at Sea", "Day at Sea", "Day at Sea", "Return to Cape Testing, NJ"]
+            check_port_list = port_text_list[1:]
 
-    unformatted_departure_dates = []
+            port_tag_list = entry['port_tags']
 
-    departure_dates = ["2017-01-01","2017-02-01","2017-03-01", "2017-04-01"]
+            price_text = entry['regular_price']
 
-    return_dates = ["2017-01-05","2017-02-05","2017-03-05", "2017-04-05"]
+            sale_price_text = entry['sale_price']
 
+            cruise_subtitle = entry['cruise_sub']
 
-    #*****************************
-    # RUN INTERACTION FUNCTIONS
-    #*****************************
+            itinerary = entry['cruise_itin']
 
-    #Insert Title
-    insert_cruise_title(cruise_title,driver)
+            departure_dates = entry['available_departure_dates']
 
-    port_string = create_port_list(port_text_list)
-    html_input = test_HTML_input(departure_location_text, arrival_location_text, port_string, price_text)
-
-    #Insert Departure, port, features HTML
-    insert_cruise_main_info(html_input,driver)
-
-    #Select Badge (Starting From:)
-    select_badge_dropdown(driver)
-
-    #Insert 'Itinary' Title
-    insert_iten_title(driver)
-
-    #Insert HTML chunk for day by day locations
-    insert_day_by_day(itinerary, driver)
-
-    insert_ship_info(driver, "test info")
-
-    set_product_image(driver, cruise_ship)
-
-    complete_header_information(cruise_subtitle, cruise_ship, driver)
-
-    fill_out_product_tags(driver, port_tag_list, cruise_ship)
-
-    check_boxes(port_text_list, departure_location_text, cruise_ship, driver)
-
-    change_product_data(driver)
-
-    time.sleep(3)
-
-    insert_prices(driver, price_text, sale_price_text)
-
-    time.sleep(3)
-
-    click_tour_booking(driver)
-
-    time.sleep(3)
-
-    enter_dates(driver, departure_dates, return_dates)
-
-    time.sleep(3)
-
-    enter_keyword(driver, cruise_title)
-
-    time.sleep(3)
-
-    insert_short_description(driver, cruise_title, port_tag_list)
-    print("Input finished. You've got 5 minutes")
-
-    time.sleep(HIBERNATE)
-    time.sleep(300)
+            return_dates = entry['available_return_dates']
 
 
+            #*****************************
+            # RUN INTERACTION FUNCTIONS
+            #*****************************
 
+            #Insert Title
+            insert_cruise_title(cruise_title,driver)
+
+            if(arrival_location_text == departure_location_text):
+                port_string = create_port_list(port_text_list[1:])
+                html_input = test_HTML_input(departure_location_text, arrival_location_text, port_string, price_text)
+
+            fill_out_product_tags(driver, port_tag_list, cruise_ship)
+
+            #Insert Departure, port, features HTML
+            insert_cruise_main_info(html_input,driver)
+
+            #Select Badge (Starting From:)
+            select_badge_dropdown(driver)
+
+            #Insert 'Itinary' Title
+            insert_iten_title(driver)
+
+            #Insert HTML chunk for day by day locations
+            insert_day_by_day(itinerary, driver)
+
+            insert_ship_info(driver, cruise_html_chunk)
+
+            set_product_image(driver, cruise_ship)
+
+            complete_header_information(cruise_subtitle, cruise_ship, driver)
+
+            check_boxes(check_port_list, departure_location_text, cruise_ship, driver)
+
+            change_product_data(driver)
+
+            time.sleep(3)
+
+            insert_prices(driver, price_text, sale_price_text)
+
+            time.sleep(3)
+
+            click_tour_booking(driver)
+
+            time.sleep(3)
+
+            enter_dates(driver, departure_dates, return_dates)
+
+            time.sleep(3)
+
+            enter_keyword(driver, cruise_title)
+
+            time.sleep(3)
+
+            insert_short_description(driver, cruise_title, port_tag_list)
+
+            time.sleep(3)
+
+            publish_ship(driver)
+            print("Input finished. You've got 5 minutes")
+
+            time.sleep(HIBERNATE)
+
+        except(WebDriverException) as e:
+            i -= 1
+            pass
+    
+        i += 1
+
+        try:
+            drive.get("http://7eb.8aa.myftpupload.com/wp-admin/post-new.php?post_type=product")
+        except (UnexpectedAlertPresentException) as e:
+            alert = drive.switch_to_alert()
+            alert.accept()
+            time.sleep(NAP)
+            drive.get("http://7eb.8aa.myftpupload.com/wp-admin/post-new.php?post_type=product")
+        except(TimeoutException) as e:
+            drive.get("http://7eb.8aa.myftpupload.com/wp-admin/post-new.php?post_type=product")
+
+        time.sleep(REST)
 
 
 

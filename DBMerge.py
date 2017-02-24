@@ -38,7 +38,7 @@ def print_individual_entry(ship_prefix):
     db_len = len(mainDb)
 
 
-    while(i < (len(db) + 1)):
+    while(i < (db_len + 1)):
 
         entry = mainDb.get(eid=i)
 
@@ -80,7 +80,7 @@ def print_individual_entry(ship_prefix):
 if __name__ == "__main__":
 
     print("Working...")
-    print_individual_entry()
+    print_individual_entry("Anthem")
     print("Done")
 
     

@@ -116,7 +116,9 @@ def switch_ship(ship):
 
     if(ship_name == 'anthem of the seas'):
         chunk = get_anthem()
-'''
+    else:
+        chunk = "SHIP NOT FOUND"
+    '''
     elif(ship_name == 'ovation of the seas'):
         chunk = get_ovation()
     elif(ship_name == 'quantum of the seas'):
@@ -165,8 +167,8 @@ def switch_ship(ship):
         chunk = get_majesty()
     elif(ship_name == 'empress of the seas'):
         chunk = get_empress()
-'''
-    else:
-        chunk = "SHIP NOT FOUND"
+    '''
+
 
     return chunk
+

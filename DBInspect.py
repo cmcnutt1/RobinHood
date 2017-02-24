@@ -115,6 +115,9 @@ def print_individual_entry():
 
         sale_price = entry['sale_price']
 
+        if(float(sale_price) < 100.0):
+            pricing_errors.append(cruise_name)
+
         cruise_itin = entry['cruise_itin']
 
         i += 1
@@ -142,7 +145,7 @@ def print_individual_entry():
     else:
         for err in dating_errors:
             print(err)
-
+    '''
     print("\n\nPricing Errors:\n***************\n")
 
     if(len(pricing_errors) == 0):
@@ -151,8 +154,9 @@ def print_individual_entry():
     else:
         for err in pricing_errors:
             print(err)
-        print("\n\n")'''
+        print("\n\n")
 
+    '''
     print("\n\nWhere departure/return location is same:\n*****************************************")
     for item in same_depart:
         print(item)
@@ -186,8 +190,10 @@ def print_individual_entry():
         else:
             print(item)
             the_ports.append(item.strip())
+
+    '''
             
-    return the_ports
+    #return the_ports
 
 if __name__ == "__main__":
 
