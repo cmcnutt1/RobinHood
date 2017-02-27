@@ -1,0 +1,2422 @@
+
+
+**************************************************************
+2 Night - Best Of Hong Kong Cruise 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 2 Night - Best Of Hong Kong Cruise 
+
+Departure Location: Shenzhen, China
+
+Return Location: Shenzhen, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Shenzhen, China
+Hong Kong, China
+
+Port Tags:
+China
+
+Cruise Subtitle: China
+
+Dates:
+2017-09-15 - 2017-09-17
+2017-10-06 - 2017-10-08
+
+Prices:
+Regular Price: 251
+Sale Price: 150.60
+
+Itinerary:
+Depart from Shenzhen, China
+Docked at Hong Kong, China
+Disembark at Shenzhen, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+2 Night - Best Of Hong Kong Cruise 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 2 Night - Best Of Hong Kong Cruise 
+
+Departure Location: Shenzhen, China
+
+Return Location: Shenzhen, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Shenzhen, China
+Hong Kong, China
+
+Port Tags:
+China
+
+Cruise Subtitle: China
+
+Dates:
+2017-06-30 - 2017-07-02
+
+Prices:
+Regular Price: 251
+Sale Price: 150.60
+
+Itinerary:
+Depart from Shenzhen, China
+Docked at Hong Kong, China
+Disembark at Shenzhen, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+2 Night - Sampler Cruise 
+**************************************************************
+
+Index: 3
+
+Cruise Title: 2 Night - Sampler Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+
+Port Tags:
+Australia
+
+Cruise Subtitle: Australia
+
+Dates:
+2017-12-01 - 2017-12-03
+
+Prices:
+Regular Price: 334
+Sale Price: 200.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+3 Night - Port Klang Getaway Cruise 
+**************************************************************
+
+Index: 4
+
+Cruise Title: 3 Night - Port Klang Getaway Cruise 
+
+Departure Location: Singapore
+
+Return Location: Singapore
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Singapore 
+Kuala Lumpur (Port Klang), Malaysia
+
+Port Tags:
+Singapore
+Malaysia
+
+Cruise Subtitle: Singapore → Malaysia
+
+Dates:
+2017-05-12 - 2017-05-15
+2017-05-19 - 2017-05-22
+
+Prices:
+Regular Price: 391
+Sale Price: 234.60
+
+Itinerary:
+Depart from Singapore
+Docked at Kuala Lumpur (Port Klang), Malaysia
+Day at Sea
+Disembark at Singapore
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+3 Night - Port Klang Getaway Cruise 
+**************************************************************
+
+Index: 5
+
+Cruise Title: 3 Night - Port Klang Getaway Cruise 
+
+Departure Location: Singapore
+
+Return Location: Singapore
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Singapore 
+Kuala Lumpur (Port Klang), Malaysia
+
+Port Tags:
+Singapore
+Malaysia
+
+Cruise Subtitle: Singapore → Malaysia
+
+Dates:
+2017-05-26 - 2017-05-29
+2017-06-02 - 2017-06-05
+2017-06-09 - 2017-06-12
+
+Prices:
+Regular Price: 335
+Sale Price: 201.00
+
+Itinerary:
+Depart from Singapore
+Docked at Kuala Lumpur (Port Klang), Malaysia
+Day at Sea
+Disembark at Singapore
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+3 Night - Sampler Cruise 
+**************************************************************
+
+Index: 6
+
+Cruise Title: 3 Night - Sampler Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+
+Port Tags:
+Australia
+
+Cruise Subtitle: Australia
+
+Dates:
+2018-02-02 - 2018-02-05
+
+Prices:
+Regular Price: 446
+Sale Price: 267.60
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Penang & Phuket Cruise 
+**************************************************************
+
+Index: 7
+
+Cruise Title: 4 Night - Penang & Phuket Cruise 
+
+Departure Location: Singapore
+
+Return Location: Singapore
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Singapore 
+Penang, Malaysia
+Phuket, Thailand
+
+Port Tags:
+Singapore
+Malaysia
+Thailand
+
+Cruise Subtitle: Singapore → Malaysia → Thailand
+
+Dates:
+2017-05-08 - 2017-05-12
+2017-05-15 - 2017-05-19
+
+Prices:
+Regular Price: 426
+Sale Price: 255.60
+
+Itinerary:
+Depart from Singapore
+Docked at Penang, Malaysia
+Tendered at Phuket, Thailand
+Day at Sea
+Disembark at Singapore
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Penang & Phuket Cruise 
+**************************************************************
+
+Index: 8
+
+Cruise Title: 4 Night - Penang & Phuket Cruise 
+
+Departure Location: Singapore
+
+Return Location: Singapore
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Singapore 
+Penang, Malaysia
+Phuket, Thailand
+
+Port Tags:
+Singapore
+Malaysia
+Thailand
+
+Cruise Subtitle: Singapore → Malaysia → Thailand
+
+Dates:
+2017-05-22 - 2017-05-26
+2017-05-29 - 2017-06-02
+2017-06-05 - 2017-06-09
+
+Prices:
+Regular Price: 349
+Sale Price: 209.40
+
+Itinerary:
+Depart from Singapore
+Docked at Penang, Malaysia
+Tendered at Phuket, Thailand
+Day at Sea
+Disembark at Singapore
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Sanya & Chan May Cruise 
+**************************************************************
+
+Index: 9
+
+Cruise Title: 4 Night - Sanya & Chan May Cruise 
+
+Departure Location: Hong Kong, China
+
+Return Location: Hong Kong, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Hong Kong, China
+Sanya, China
+Hue/Danang (Chan May), Vietnam
+
+Port Tags:
+China
+Vietnam
+
+Cruise Subtitle: China → Vietnam
+
+Dates:
+2017-07-14 - 2017-07-18
+2017-09-01 - 2017-09-05
+
+Prices:
+Regular Price: 533
+Sale Price: 319.80
+
+Itinerary:
+Depart from Hong Kong, China
+Docked at Sanya, China
+Docked at Hue/Danang (Chan May), Vietnam
+Day at Sea
+Disembark at Hong Kong, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Kaohsiung & Taipei Cruise 
+**************************************************************
+
+Index: 10
+
+Cruise Title: 4 Night - Kaohsiung & Taipei Cruise 
+
+Departure Location: Hong Kong, China
+
+Return Location: Hong Kong, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Hong Kong, China
+Kaohsiung, Taiwan
+Taipei (Keelung), Taiwan
+
+Port Tags:
+China
+Taiwan
+
+Cruise Subtitle: China → Taiwan
+
+Dates:
+2017-08-02 - 2017-08-06
+2017-08-16 - 2017-08-20
+
+Prices:
+Regular Price: 642
+Sale Price: 385.20
+
+Itinerary:
+Depart from Hong Kong, China
+Docked at Kaohsiung, Taiwan
+Docked at Taipei (Keelung), Taiwan
+Day at Sea
+Disembark at Hong Kong, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Best Of Nha Trang Cruise 
+**************************************************************
+
+Index: 11
+
+Cruise Title: 4 Night - Best Of Nha Trang Cruise 
+
+Departure Location: Shenzhen, China
+
+Return Location: Shenzhen, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Shenzhen, China
+Nha Trang, Vietnam
+
+Port Tags:
+China
+Vietnam
+
+Cruise Subtitle: China → Vietnam
+
+Dates:
+2017-09-22 - 2017-09-26
+
+Prices:
+Regular Price: 533
+Sale Price: 319.80
+
+Itinerary:
+Depart from Shenzhen, China
+Day at Sea
+Tendered at Nha Trang, Vietnam
+Day at Sea
+Disembark at Shenzhen, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Spice Of Southeast Asia Cruise 
+**************************************************************
+
+Index: 12
+
+Cruise Title: 5 Night - Spice Of Southeast Asia Cruise 
+
+Departure Location: Singapore
+
+Return Location: Singapore
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Singapore 
+Kuala Lumpur (Port Klang), Malaysia
+Penang, Malaysia
+Phuket, Thailand
+
+Port Tags:
+Singapore
+Malaysia
+Thailand
+
+Cruise Subtitle: Singapore → Malaysia → Thailand
+
+Dates:
+2017-05-03 - 2017-05-08
+
+Prices:
+Regular Price: 615
+Sale Price: 369.00
+
+Itinerary:
+Depart from Singapore
+Docked at Kuala Lumpur (Port Klang), Malaysia
+Docked at Penang, Malaysia
+Tendered at Phuket, Thailand
+Day at Sea
+Disembark at Singapore
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Spice Of Southeast Asia Cruise 
+**************************************************************
+
+Index: 13
+
+Cruise Title: 5 Night - Spice Of Southeast Asia Cruise 
+
+Departure Location: Singapore
+
+Return Location: Singapore
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Singapore 
+Penang, Malaysia
+Langkawi, Malaysia
+Phuket, Thailand
+
+Port Tags:
+Singapore
+Malaysia
+Thailand
+
+Cruise Subtitle: Singapore → Malaysia → Thailand
+
+Dates:
+2017-06-12 - 2017-06-17
+
+Prices:
+Regular Price: 489
+Sale Price: 293.40
+
+Itinerary:
+Depart from Singapore
+Docked at Penang, Malaysia
+Docked at Langkawi, Malaysia
+Tendered at Phuket, Thailand
+Day at Sea
+Disembark at Singapore
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Best Of Okinawa Cruise 
+**************************************************************
+
+Index: 14
+
+Cruise Title: 5 Night - Best Of Okinawa Cruise 
+
+Departure Location: Hong Kong, China
+
+Return Location: Hong Kong, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Hong Kong, China
+Okinawa (Naha), Japan
+
+Port Tags:
+China
+Japan
+
+Cruise Subtitle: China → Japan
+
+Dates:
+2017-07-09 - 2017-07-14
+2017-08-06 - 2017-08-11
+
+Prices:
+Regular Price: 828
+Sale Price: 496.80
+
+Itinerary:
+Depart from Hong Kong, China
+Day at Sea
+Docked at Okinawa (Naha), Japan
+Docked at Okinawa (Naha), Japan
+Day at Sea
+Disembark at Hong Kong, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Best Of Vietnam Cruise 
+**************************************************************
+
+Index: 15
+
+Cruise Title: 5 Night - Best Of Vietnam Cruise 
+
+Departure Location: Hong Kong, China
+
+Return Location: Hong Kong, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Hong Kong, China
+Hue/Danang (Chan May), Vietnam
+Nha Trang, Vietnam
+
+Port Tags:
+China
+Vietnam
+
+Cruise Subtitle: China → Vietnam
+
+Dates:
+2017-07-18 - 2017-07-23
+
+Prices:
+Regular Price: 873
+Sale Price: 523.80
+
+Itinerary:
+Depart from Hong Kong, China
+Day at Sea
+Docked at Hue/Danang (Chan May), Vietnam
+Tendered at Nha Trang, Vietnam
+Day at Sea
+Disembark at Hong Kong, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Best Of Okinawa Cruise 
+**************************************************************
+
+Index: 16
+
+Cruise Title: 5 Night - Best Of Okinawa Cruise 
+
+Departure Location: Hong Kong, China
+
+Return Location: Hong Kong, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Hong Kong, China
+Okinawa (Naha), Japan
+
+Port Tags:
+China
+Japan
+
+Cruise Subtitle: China → Japan
+
+Dates:
+2017-07-23 - 2017-07-28
+2017-08-20 - 2017-08-25
+
+Prices:
+Regular Price: 937
+Sale Price: 562.20
+
+Itinerary:
+Depart from Hong Kong, China
+Day at Sea
+Docked at Okinawa (Naha), Japan
+Docked at Okinawa (Naha), Japan
+Day at Sea
+Disembark at Hong Kong, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Best Of Okinawa Cruise 
+**************************************************************
+
+Index: 17
+
+Cruise Title: 5 Night - Best Of Okinawa Cruise 
+
+Departure Location: Hong Kong, China
+
+Return Location: Hong Kong, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Hong Kong, China
+Okinawa (Naha), Japan
+
+Port Tags:
+China
+Japan
+
+Cruise Subtitle: China → Japan
+
+Dates:
+2017-07-28 - 2017-08-02
+
+Prices:
+Regular Price: 1058
+Sale Price: 634.80
+
+Itinerary:
+Depart from Hong Kong, China
+Day at Sea
+Docked at Okinawa (Naha), Japan
+Docked at Okinawa (Naha), Japan
+Day at Sea
+Disembark at Hong Kong, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Best Of Vietnam Cruise 
+**************************************************************
+
+Index: 18
+
+Cruise Title: 5 Night - Best Of Vietnam Cruise 
+
+Departure Location: Hong Kong, China
+
+Return Location: Hong Kong, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Hong Kong, China
+Hue/Danang (Chan May), Vietnam
+Nha Trang, Vietnam
+
+Port Tags:
+China
+Vietnam
+
+Cruise Subtitle: China → Vietnam
+
+Dates:
+2017-08-11 - 2017-08-16
+
+Prices:
+Regular Price: 873
+Sale Price: 523.80
+
+Itinerary:
+Depart from Hong Kong, China
+Day at Sea
+Docked at Hue/Danang (Chan May), Vietnam
+Tendered at Nha Trang, Vietnam
+Day at Sea
+Disembark at Hong Kong, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Best Of Okinawa Cruise 
+**************************************************************
+
+Index: 19
+
+Cruise Title: 5 Night - Best Of Okinawa Cruise 
+
+Departure Location: Shenzhen, China
+
+Return Location: Shenzhen, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Shenzhen, China
+Okinawa (Naha), Japan
+
+Port Tags:
+China
+Japan
+
+Cruise Subtitle: China → Japan
+
+Dates:
+2017-09-17 - 2017-09-22
+2017-10-01 - 2017-10-06
+
+Prices:
+Regular Price: 828
+Sale Price: 496.80
+
+Itinerary:
+Depart from Shenzhen, China
+Day at Sea
+Docked at Okinawa (Naha), Japan
+Docked at Okinawa (Naha), Japan
+Day at Sea
+Disembark at Shenzhen, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Best Of Okinawa Cruise 
+**************************************************************
+
+Index: 20
+
+Cruise Title: 5 Night - Best Of Okinawa Cruise 
+
+Departure Location: Shenzhen, China
+
+Return Location: Shenzhen, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Shenzhen, China
+Okinawa (Naha), Japan
+
+Port Tags:
+China
+Japan
+
+Cruise Subtitle: China → Japan
+
+Dates:
+2017-09-26 - 2017-10-01
+
+Prices:
+Regular Price: 828
+Sale Price: 496.80
+
+Itinerary:
+Depart from Shenzhen, China
+Day at Sea
+Docked at Okinawa (Naha), Japan
+Docked at Okinawa (Naha), Japan
+Day at Sea
+Disembark at Shenzhen, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Best Of Okinawa Cruise 
+**************************************************************
+
+Index: 21
+
+Cruise Title: 5 Night - Best Of Okinawa Cruise 
+
+Departure Location: Shenzhen, China
+
+Return Location: Shenzhen, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Shenzhen, China
+Okinawa (Naha), Japan
+
+Port Tags:
+China
+Japan
+
+Cruise Subtitle: China → Japan
+
+Dates:
+2017-06-25 - 2017-06-30
+
+Prices:
+Regular Price: 809
+Sale Price: 485.40
+
+Itinerary:
+Depart from Shenzhen, China
+Day at Sea
+Docked at Okinawa (Naha), Japan
+Docked at Okinawa (Naha), Japan
+Day at Sea
+Disembark at Shenzhen, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Best Of Vietnam Cruise 
+**************************************************************
+
+Index: 22
+
+Cruise Title: 5 Night - Best Of Vietnam Cruise 
+
+Departure Location: Hong Kong, China
+
+Return Location: Hong Kong, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Hong Kong, China
+Hue/Danang (Chan May), Vietnam
+Nha Trang, Vietnam
+
+Port Tags:
+China
+Vietnam
+
+Cruise Subtitle: China → Vietnam
+
+Dates:
+2017-08-27 - 2017-09-01
+
+Prices:
+Regular Price: 725
+Sale Price: 435.00
+
+Itinerary:
+Depart from Hong Kong, China
+Day at Sea
+Docked at Hue/Danang (Chan May), Vietnam
+Tendered at Nha Trang, Vietnam
+Day at Sea
+Disembark at Hong Kong, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Best Of Okinawa Cruise 
+**************************************************************
+
+Index: 23
+
+Cruise Title: 5 Night - Best Of Okinawa Cruise 
+
+Departure Location: Hong Kong, China
+
+Return Location: Hong Kong, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Hong Kong, China
+Okinawa (Naha), Japan
+
+Port Tags:
+China
+Japan
+
+Cruise Subtitle: China → Japan
+
+Dates:
+2017-09-05 - 2017-09-10
+
+Prices:
+Regular Price: 828
+Sale Price: 496.80
+
+Itinerary:
+Depart from Hong Kong, China
+Day at Sea
+Docked at Okinawa (Naha), Japan
+Docked at Okinawa (Naha), Japan
+Day at Sea
+Disembark at Hong Kong, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Best Of Vietnam Cruise 
+**************************************************************
+
+Index: 24
+
+Cruise Title: 5 Night - Best Of Vietnam Cruise 
+
+Departure Location: Hong Kong, China
+
+Return Location: Hong Kong, China
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Hong Kong, China
+Hue/Danang (Chan May), Vietnam
+Nha Trang, Vietnam
+
+Port Tags:
+China
+Vietnam
+
+Cruise Subtitle: China → Vietnam
+
+Dates:
+2017-09-10 - 2017-09-15
+
+Prices:
+Regular Price: 725
+Sale Price: 435.00
+
+Itinerary:
+Depart from Hong Kong, China
+Day at Sea
+Docked at Hue/Danang (Chan May), Vietnam
+Tendered at Nha Trang, Vietnam
+Day at Sea
+Disembark at Hong Kong, China
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 25
+
+Cruise Title: 7 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+
+Cruise Subtitle: Australia → Loyalty Island → New Caledonia
+
+Dates:
+2018-03-20 - 2018-03-27
+
+Prices:
+Regular Price: 737
+Sale Price: 442.20
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Queensland Cruise 
+**************************************************************
+
+Index: 26
+
+Cruise Title: 8 Night - Queensland Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Brisbane, Australia
+Willis Island, Australia
+Airlie Beach, Australia
+
+Port Tags:
+Australia
+
+Cruise Subtitle: Australia
+
+Dates:
+2017-11-13 - 2017-11-21
+
+Prices:
+Regular Price: 707
+Sale Price: 424.20
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Docked at Brisbane, Australia
+Day at Sea
+Day at Sea
+Tendered at Airlie Beach, Australia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 27
+
+Cruise Title: 8 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Mystery Island, Vanuatu
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → Loyalty Island → Vanuatu → New Caledonia
+
+Dates:
+2017-12-12 - 2017-12-20
+
+Prices:
+Regular Price: 856
+Sale Price: 513.60
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 28
+
+Cruise Title: 9 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Vila, Vanuatu
+Mystery Island, Vanuatu
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → Loyalty Island → Vanuatu → New Caledonia
+
+Dates:
+2017-12-03 - 2017-12-12
+
+Prices:
+Regular Price: 898
+Sale Price: 538.80
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Docked at Vila, Vanuatu
+Tendered at Mystery Island, Vanuatu
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 29
+
+Cruise Title: 9 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Vila, Vanuatu
+Lifou, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu → Loyalty Island
+
+Dates:
+2018-03-11 - 2018-03-20
+
+Prices:
+Regular Price: 878
+Sale Price: 526.80
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Docked at Vila, Vanuatu
+Tendered at Lifou, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 30
+
+Cruise Title: 9 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Vila, Vanuatu
+Maré, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu
+
+Dates:
+2018-03-27 - 2018-04-05
+
+Prices:
+Regular Price: 913
+Sale Price: 547.80
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Docked at Vila, Vanuatu
+Tendered at Maré, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - Hong Kong To Singapore Cruise 
+**************************************************************
+
+Index: 31
+
+Cruise Title: 10 Night - Hong Kong To Singapore Cruise 
+
+Departure Location: Hong Kong, China
+
+Return Location: Singapore
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Hong Kong, China
+Kaohsiung, Taiwan
+Nha Trang, Vietnam
+Hue/Danang (Chan May), Vietnam
+Ho Chi Minh (Phu My), Vietnam
+Singapore 
+
+Port Tags:
+China
+Taiwan
+Vietnam
+Singapore
+
+Cruise Subtitle: China → Taiwan → Vietnam → Singapore
+
+Dates:
+2017-10-08 - 2017-10-18
+
+Prices:
+Regular Price: 853
+Sale Price: 511.80
+
+Itinerary:
+Depart from Hong Kong, China
+Day at Sea
+Docked at Kaohsiung, Taiwan
+Day at Sea
+Day at Sea
+Tendered at Nha Trang, Vietnam
+Docked at Hue/Danang (Chan May), Vietnam
+Day at Sea
+Docked at Ho Chi Minh (Phu My), Vietnam
+Day at Sea
+Disembark at Singapore
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 32
+
+Cruise Title: 10 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Maré, New Caledonia
+Vila, Vanuatu
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu
+
+Dates:
+2017-03-05 - 2017-03-15
+
+Prices:
+Regular Price: 769
+Sale Price: 461.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Tendered at Maré, New Caledonia
+Docked at Vila, Vanuatu
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 33
+
+Cruise Title: 10 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Lifou, New Caledonia
+Vila, Vanuatu
+Mystery Island, Vanuatu
+Maré, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Loyalty Island → Vanuatu
+
+Dates:
+2017-11-21 - 2017-12-01
+
+Prices:
+Regular Price: 1058
+Sale Price: 634.80
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Lifou, New Caledonia
+Docked at Vila, Vanuatu
+Tendered at Mystery Island, Vanuatu
+Tendered at Maré, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Holiday Cruise 
+**************************************************************
+
+Index: 34
+
+Cruise Title: 10 Night - South Pacific Holiday Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Lifou, New Caledonia
+Maré, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu → Loyalty Island
+
+Dates:
+2017-12-20 - 2017-12-30
+
+Prices:
+Regular Price: 1497
+Sale Price: 898.20
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Day at Sea
+Tendered at Mystery Island, Vanuatu
+Tendered at Lifou, New Caledonia
+Tendered at Maré, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 35
+
+Cruise Title: 10 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Vila, Vanuatu
+Maré, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu
+
+Dates:
+2018-01-13 - 2018-01-23
+
+Prices:
+Regular Price: 1420
+Sale Price: 852.00
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Day at Sea
+Docked at Vila, Vanuatu
+Tendered at Maré, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 36
+
+Cruise Title: 10 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Vila, Vanuatu
+Lifou, New Caledonia
+Maré, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu → Loyalty Island
+
+Dates:
+2018-01-23 - 2018-02-02
+
+Prices:
+Regular Price: 1061
+Sale Price: 636.60
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Docked at Vila, Vanuatu
+Tendered at Lifou, New Caledonia
+Tendered at Maré, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 37
+
+Cruise Title: 10 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Vila, Vanuatu
+Mystery Island, Vanuatu
+Maré, New Caledonia
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → Loyalty Island → Vanuatu → New Caledonia
+
+Dates:
+2018-02-05 - 2018-02-15
+
+Prices:
+Regular Price: 1025
+Sale Price: 615.00
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Docked at Vila, Vanuatu
+Tendered at Mystery Island, Vanuatu
+Tendered at Maré, New Caledonia
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 38
+
+Cruise Title: 10 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Vila, Vanuatu
+Mystery Island, Vanuatu
+Noumea, New Caledonia
+Maré, New Caledonia
+
+Port Tags:
+Australia
+Vanuatu
+New Caledonia
+
+Cruise Subtitle: Australia → Vanuatu → New Caledonia
+
+Dates:
+2018-02-15 - 2018-02-25
+
+Prices:
+Regular Price: 1026
+Sale Price: 615.60
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Vila, Vanuatu
+Tendered at Mystery Island, Vanuatu
+Docked at Noumea, New Caledonia
+Tendered at Maré, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - Singapore To Perth Cruise 
+**************************************************************
+
+Index: 39
+
+Cruise Title: 10 Night - Singapore To Perth Cruise 
+
+Departure Location: Singapore
+
+Return Location: Perth (Fremantle), Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Singapore 
+Kuala Lumpur (Port Klang), Malaysia
+Langkawi, Malaysia
+Phuket, Thailand
+Perth (Fremantle), Australia
+
+Port Tags:
+Singapore
+Malaysia
+Thailand
+Australia
+
+Cruise Subtitle: Singapore → Malaysia → Thailand → Australia
+
+Dates:
+2017-10-18 - 2017-10-28
+
+Prices:
+Regular Price: 1370
+Sale Price: 822.00
+
+Itinerary:
+Depart from Singapore, Singapore
+Docked at Kuala Lumpur (Port Klang), Malaysia
+Docked at Langkawi, Malaysia
+Tendered at Phuket, Thailand
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Perth (Fremantle), Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - South Pacific & Fiji Cruise 
+**************************************************************
+
+Index: 40
+
+Cruise Title: 11 Night - South Pacific & Fiji Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Lautoka, Fiji
+Vila, Vanuatu
+Mystery Island, Vanuatu
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+Fiji
+Vanuatu
+New Caledonia
+
+Cruise Subtitle: Australia → Fiji → Vanuatu → New Caledonia
+
+Dates:
+2017-03-15 - 2017-03-26
+
+Prices:
+Regular Price: 705
+Sale Price: 423.00
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Lautoka, Fiji
+Day at Sea
+Docked at Vila, Vanuatu
+Tendered at Mystery Island, Vanuatu
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - South Pacific & Fiji Cruise 
+**************************************************************
+
+Index: 41
+
+Cruise Title: 11 Night - South Pacific & Fiji Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Isle of Pines, New Caledonia
+Lautoka, Fiji
+Mystery Island, Vanuatu
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Fiji
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Fiji → Vanuatu
+
+Dates:
+2017-03-26 - 2017-04-06
+
+Prices:
+Regular Price: 710
+Sale Price: 426.00
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Isle of Pines, New Caledonia
+Day at Sea
+Docked at Lautoka, Fiji
+Day at Sea
+Tendered at Mystery Island, Vanuatu
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 42
+
+Cruise Title: 11 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Lautoka, Fiji
+Suva, Fiji
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Fiji
+
+Cruise Subtitle: Australia → Loyalty Island → Fiji → New Caledonia
+
+Dates:
+2018-04-05 - 2018-04-16
+
+Prices:
+Regular Price: 1062
+Sale Price: 637.20
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Day at Sea
+Docked at Lautoka, Fiji
+Docked at Suva, Fiji
+Day at Sea
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - South Pacific & Fiji Cruise 
+**************************************************************
+
+Index: 43
+
+Cruise Title: 12 Night - South Pacific & Fiji Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Lautoka, Fiji
+Suva, Fiji
+Mystery Island, Vanuatu
+Isle of Pines, New Caledonia
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+Fiji
+Vanuatu
+New Caledonia
+
+Cruise Subtitle: Australia → Fiji → Vanuatu → New Caledonia
+
+Dates:
+2017-02-21 - 2017-03-05
+
+Prices:
+Regular Price: 908
+Sale Price: 544.80
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Lautoka, Fiji
+Docked at Suva, Fiji
+Day at Sea
+Tendered at Mystery Island, Vanuatu
+Tendered at Isle of Pines, New Caledonia
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+13 Night - South Pacific & Fiji Cruise 
+**************************************************************
+
+Index: 44
+
+Cruise Title: 13 Night - South Pacific & Fiji Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Isle of Pines, New Caledonia
+Lautoka, Fiji
+Suva, Fiji
+Mystery Island, Vanuatu
+
+Port Tags:
+Australia
+New Caledonia
+Fiji
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Fiji → Vanuatu
+
+Dates:
+2017-04-06 - 2017-04-19
+
+Prices:
+Regular Price: 768
+Sale Price: 460.80
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Isle of Pines, New Caledonia
+Day at Sea
+Docked at Lautoka, Fiji
+Docked at Suva, Fiji
+Day at Sea
+Tendered at Mystery Island, Vanuatu
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - South Pacific & Fiji Holiday Cruise 
+**************************************************************
+
+Index: 45
+
+Cruise Title: 14 Night - South Pacific & Fiji Holiday Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Mystery Island, Vanuatu
+Vila, Vanuatu
+Suva, Fiji
+Lautoka, Fiji
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+Vanuatu
+Fiji
+New Caledonia
+
+Cruise Subtitle: Australia → Vanuatu → Fiji → New Caledonia
+
+Dates:
+2017-12-30 - 2018-01-13
+
+Prices:
+Regular Price: 1866
+Sale Price: 1119.60
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Day at Sea
+Tendered at Mystery Island, Vanuatu
+Docked at Vila, Vanuatu
+Day at Sea
+Docked at Suva, Fiji
+Docked at Lautoka, Fiji
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - South Pacific & Fiji Cruise 
+**************************************************************
+
+Index: 46
+
+Cruise Title: 14 Night - South Pacific & Fiji Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Lautoka, Fiji
+Suva, Fiji
+Vila, Vanuatu
+Mystery Island, Vanuatu
+Maré, New Caledonia
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Fiji
+Vanuatu
+
+Cruise Subtitle: Australia → Loyalty Island → Fiji → Vanuatu → New Caledonia
+
+Dates:
+2018-02-25 - 2018-03-11
+
+Prices:
+Regular Price: 1325
+Sale Price: 795.00
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Day at Sea
+Docked at Lautoka, Fiji
+Docked at Suva, Fiji
+Day at Sea
+Docked at Vila, Vanuatu
+Tendered at Mystery Island, Vanuatu
+Tendered at Maré, New Caledonia
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - Asia Repositioning Cruise 
+**************************************************************
+
+Index: 47
+
+Cruise Title: 14 Night - Asia Repositioning Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Singapore
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Brisbane, Australia
+Airlie Beach, Australia
+Cairns, Australia
+Port Douglas, Australia
+Darwin, Australia
+Singapore 
+
+Port Tags:
+Australia
+Singapore
+
+Cruise Subtitle: Australia → Yorkey's Knob → Singapore
+
+Dates:
+2017-04-19 - 2017-05-03
+
+Prices:
+Regular Price: 1259
+Sale Price: 755.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Docked at Brisbane, Australia
+Day at Sea
+Tendered at Airlie Beach, Australia
+Tendered at Cairns, Australia
+Tendered at Port Douglas, Australia
+Day at Sea
+Day at Sea
+Docked at Darwin, Australia
+Day at Sea
+Day at Sea
+Docked at Cruising
+Day at Sea
+Disembark at Singapore
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - Sydney To Singapore Cruise 
+**************************************************************
+
+Index: 48
+
+Cruise Title: 14 Night - Sydney To Singapore Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Singapore
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Sydney, Australia
+Brisbane, Australia
+Airlie Beach, Australia
+Cairns, Australia
+Darwin, Australia
+Singapore 
+
+Port Tags:
+Australia
+Singapore
+
+Cruise Subtitle: Australia → Yorkey's Knob → Singapore
+
+Dates:
+2018-04-16 - 2018-04-30
+
+Prices:
+Regular Price: 1573
+Sale Price: 943.80
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Docked at Brisbane, Australia
+Day at Sea
+Tendered at Airlie Beach, Australia
+Tendered at Cairns, Australia
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Darwin, Australia
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Singapore
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+16 Night - Round Australia - Bottom End Cruise 
+**************************************************************
+
+Index: 49
+
+Cruise Title: 16 Night - Round Australia - Bottom End Cruise 
+
+Departure Location: Perth (Fremantle), Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Voyager of the Seas
+
+Port Locations:
+Perth (Fremantle), Australia
+Adelaide, Australia
+Melbourne, Australia
+Milford Sound
+Doubtful Sound
+Dusky Sound
+Dunedin, New Zealand
+Akaroa, New Zealand
+Picton, New Zealand
+Wellington, New Zealand
+Sydney, Australia
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2017-10-28 - 2017-11-13
+
+Prices:
+Regular Price: 1999
+Sale Price: 1199.40
+
+Itinerary:
+Depart from Perth (Fremantle), Australia
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Adelaide, Australia
+Day at Sea
+Docked at Melbourne, Australia
+Day at Sea
+Day at Sea
+Cruising Through Milford Sound, Doubtful Sound, Dusky Sound
+Docked at Dunedin, New Zealand
+Tendered at Akaroa, New Zealand
+Docked at Picton, New Zealand
+Docked at Wellington, New Zealand
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (0):
+

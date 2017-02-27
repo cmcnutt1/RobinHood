@@ -1,0 +1,1115 @@
+
+
+**************************************************************
+4 Night - Key West & Nassau Cruise 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 4 Night - Key West & Nassau Cruise 
+
+Departure Location: Miami, Florida
+
+Return Location: Miami, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Miami, Florida
+Key West, Florida
+Nassau, Bahamas
+
+Port Tags:
+Florida
+Bahamas
+
+Cruise Subtitle: Florida → Bahamas
+
+Dates:
+
+Prices:
+Regular Price: 299
+Sale Price: 179.40
+
+Itinerary:
+Depart from Miami, Florida
+Docked at Key West, Florida
+Day at Sea
+Docked at Nassau, Bahamas
+Disembark at Miami, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 4 Night - Bahamas Cruise 
+
+Departure Location: Miami, Florida
+
+Return Location: Miami, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Miami, Florida
+CocoCay, Bahamas
+Nassau, Bahamas
+
+Port Tags:
+Florida
+Bahamas
+
+Cruise Subtitle: Florida → Bahamas
+
+Dates:
+2017-04-10 - 2017-04-14
+
+Prices:
+Regular Price: 419
+Sale Price: 251.40
+
+Itinerary:
+Depart from Miami, Florida
+Tendered at CocoCay, Bahamas
+Docked at Nassau, Bahamas
+Day at Sea
+Disembark at Miami, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Key West & Havana Cruise 
+**************************************************************
+
+Index: 3
+
+Cruise Title: 4 Night - Key West & Havana Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Havana, Cuba
+
+Port Tags:
+Florida
+Cuba
+
+Cruise Subtitle: Florida → Cuba
+
+Dates:
+2017-06-17 - 2017-06-21
+2017-07-01 - 2017-07-05
+2017-07-15 - 2017-07-19
+2017-07-29 - 2017-08-02
+2017-08-12 - 2017-08-16
+2017-08-26 - 2017-08-30
+2017-09-09 - 2017-09-13
+2017-09-23 - 2017-09-27
+2017-10-07 - 2017-10-11
+2017-10-21 - 2017-10-25
+
+Prices:
+Regular Price: 499
+Sale Price: 299.40
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Docked at Havana, Cuba
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 4
+
+Cruise Title: 4 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-05-07 - 2017-05-11
+
+Prices:
+Regular Price: 299
+Sale Price: 179.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 5
+
+Cruise Title: 4 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-05-11 - 2017-05-15
+2017-05-25 - 2017-05-29
+
+Prices:
+Regular Price: 309
+Sale Price: 185.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 6
+
+Cruise Title: 4 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-06-03 - 2017-06-07
+
+Prices:
+Regular Price: 379
+Sale Price: 227.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Labadee & Key West Cruise 
+**************************************************************
+
+Index: 7
+
+Cruise Title: 5 Night - Labadee & Key West Cruise 
+
+Departure Location: Miami, Florida
+
+Return Location: Miami, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Miami, Florida
+Labadee, Haiti
+Key West, Florida
+
+Port Tags:
+Florida
+Haiti
+
+Cruise Subtitle: Florida → Haiti
+
+Dates:
+2017-03-13 - 2017-03-18
+
+Prices:
+Regular Price: 449
+Sale Price: 269.40
+
+Itinerary:
+Depart from Miami, Florida
+Day at Sea
+Docked at Labadee, Haiti
+Day at Sea
+Docked at Key West, Florida
+Disembark at Miami, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Grand Cayman & Key West Cruise 
+**************************************************************
+
+Index: 8
+
+Cruise Title: 5 Night - Grand Cayman & Key West Cruise 
+
+Departure Location: Miami, Florida
+
+Return Location: Miami, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Miami, Florida
+George Town, Cayman Islands
+Key West, Florida
+
+Port Tags:
+Florida
+Cayman Islands
+
+Cruise Subtitle: Florida → Grand Cayman
+
+Dates:
+2017-04-14 - 2017-04-19
+
+Prices:
+Regular Price: 349
+Sale Price: 209.40
+
+Itinerary:
+Depart from Miami, Florida
+Day at Sea
+Tendered at George Town, Cayman Islands
+Day at Sea
+Docked at Key West, Florida
+Disembark at Miami, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 9
+
+Cruise Title: 5 Night - Western Caribbean Cruise 
+
+Departure Location: Miami, Florida
+
+Return Location: Miami, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Miami, Florida
+Key West, Florida
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-03-18 - 2017-03-23
+2017-04-01 - 2017-04-06
+
+Prices:
+Regular Price: 309
+Sale Price: 185.40
+
+Itinerary:
+Depart from Miami, Florida
+Docked at Key West, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Miami, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 10
+
+Cruise Title: 5 Night - Western Caribbean Cruise 
+
+Departure Location: Miami, Florida
+
+Return Location: Miami, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Miami, Florida
+Cozumel, Mexico
+CocoCay, Bahamas
+
+Port Tags:
+Florida
+Mexico
+Bahamas
+
+Cruise Subtitle: Florida → Mexico → Bahamas
+
+Dates:
+2017-03-27 - 2017-04-01
+
+Prices:
+Regular Price: 379
+Sale Price: 227.40
+
+Itinerary:
+Depart from Miami, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Tendered at CocoCay, Bahamas
+Disembark at Miami, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Inaugural Sailing To Cuba 
+**************************************************************
+
+Index: 11
+
+Cruise Title: 5 Night - Inaugural Sailing To Cuba 
+
+Departure Location: Miami, Florida
+
+Return Location: Miami, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Miami, Florida
+Puerto Costa Maya, Mexico
+Havana, Cuba
+
+Port Tags:
+Florida
+Mexico
+Cuba
+
+Cruise Subtitle: Florida → Mexico → Cuba
+
+Dates:
+2017-04-19 - 2017-04-24
+
+Prices:
+Regular Price: 909
+Sale Price: 545.40
+
+Itinerary:
+Depart from Miami, Florida
+Day at Sea
+Docked at Puerto Costa Maya, Mexico
+Day at Sea
+Docked at Havana, Cuba
+Disembark at Miami, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 12
+
+Cruise Title: 5 Night - Western Caribbean Cruise 
+
+Departure Location: Miami, Florida
+
+Return Location: Miami, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Miami, Florida
+Cozumel, Mexico
+Key West, Florida
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-04-24 - 2017-04-29
+
+Prices:
+Regular Price: 499
+Sale Price: 299.40
+
+Itinerary:
+Depart from Miami, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Docked at Key West, Florida
+Disembark at Miami, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Havana Overnight 
+**************************************************************
+
+Index: 13
+
+Cruise Title: 5 Night - Havana Overnight 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Havana, Cuba
+
+Port Tags:
+Florida
+Cuba
+
+Cruise Subtitle: Florida → Cuba
+
+Dates:
+2017-07-24 - 2017-07-29
+
+Prices:
+Regular Price: 679
+Sale Price: 407.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Havana, Cuba
+Docked at Havana, Cuba
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Key West & Havana Overnight 
+**************************************************************
+
+Index: 14
+
+Cruise Title: 5 Night - Key West & Havana Overnight 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Havana, Cuba
+
+Port Tags:
+Florida
+Cuba
+
+Cruise Subtitle: Florida → Cuba
+
+Dates:
+2017-08-21 - 2017-08-26
+2017-09-04 - 2017-09-09
+2017-10-02 - 2017-10-07
+2017-10-16 - 2017-10-21
+2017-10-30 - 2017-11-04
+
+Prices:
+Regular Price: 629
+Sale Price: 377.40
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Docked at Havana, Cuba
+Docked at Havana, Cuba
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Havana Overnight 
+**************************************************************
+
+Index: 15
+
+Cruise Title: 5 Night - Havana Overnight 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Havana, Cuba
+
+Port Tags:
+Florida
+Cuba
+
+Cruise Subtitle: Florida → Cuba
+
+Dates:
+2017-09-18 - 2017-09-23
+
+Prices:
+Regular Price: 629
+Sale Price: 377.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Havana, Cuba
+Docked at Havana, Cuba
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Key West & Havana Overnight 
+**************************************************************
+
+Index: 16
+
+Cruise Title: 5 Night - Key West & Havana Overnight 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Havana, Cuba
+
+Port Tags:
+Florida
+Cuba
+
+Cruise Subtitle: Florida → Cuba
+
+Dates:
+2017-06-26 - 2017-07-01
+2017-07-10 - 2017-07-15
+2017-08-07 - 2017-08-12
+
+Prices:
+Regular Price: 699
+Sale Price: 419.40
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Docked at Havana, Cuba
+Docked at Havana, Cuba
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 17
+
+Cruise Title: 5 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Cozumel, Mexico
+Puerto Costa Maya, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-05-15 - 2017-05-20
+
+Prices:
+Regular Price: 409
+Sale Price: 245.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Docked at Puerto Costa Maya, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Key West, Havana, & Cozumel 
+**************************************************************
+
+Index: 18
+
+Cruise Title: 5 Night - Key West, Havana, & Cozumel 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Havana, Cuba
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Cuba
+Mexico
+
+Cruise Subtitle: Florida → Cuba → Mexico
+
+Dates:
+2017-05-20 - 2017-05-25
+
+Prices:
+Regular Price: 959
+Sale Price: 575.40
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Docked at Havana, Cuba
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Key West, Havana, & Cozumel 
+**************************************************************
+
+Index: 19
+
+Cruise Title: 5 Night - Key West, Havana, & Cozumel 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Havana, Cuba
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Cuba
+Mexico
+
+Cruise Subtitle: Florida → Cuba → Mexico
+
+Dates:
+2017-05-29 - 2017-06-03
+
+Prices:
+Regular Price: 909
+Sale Price: 545.40
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Docked at Havana, Cuba
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 20
+
+Cruise Title: 5 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Cozumel, Mexico
+Puerto Costa Maya, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-06-12 - 2017-06-17
+
+Prices:
+Regular Price: 449
+Sale Price: 269.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Docked at Puerto Costa Maya, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Key West, Havana, & Cozumel 
+**************************************************************
+
+Index: 21
+
+Cruise Title: 5 Night - Key West, Havana, & Cozumel 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Havana, Cuba
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Cuba
+Mexico
+
+Cruise Subtitle: Florida → Cuba → Mexico
+
+Dates:
+2017-06-07 - 2017-06-12
+2017-06-21 - 2017-06-26
+2017-07-05 - 2017-07-10
+2017-07-19 - 2017-07-24
+2017-08-02 - 2017-08-07
+2017-08-16 - 2017-08-21
+2017-08-30 - 2017-09-04
+2017-09-13 - 2017-09-18
+2017-09-27 - 2017-10-02
+2017-10-11 - 2017-10-16
+2017-10-25 - 2017-10-30
+
+Prices:
+Regular Price: 599
+Sale Price: 359.40
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Docked at Havana, Cuba
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+6 Night - Yucatan Escape Cruise 
+**************************************************************
+
+Index: 22
+
+Cruise Title: 6 Night - Yucatan Escape Cruise 
+
+Departure Location: Miami, Florida
+
+Return Location: Miami, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Miami, Florida
+Cozumel, Mexico
+Belize City, Belize
+Puerto Costa Maya, Mexico
+
+Port Tags:
+Florida
+Mexico
+Belize
+
+Cruise Subtitle: Florida → Mexico → Belize
+
+Dates:
+2017-02-17 - 2017-02-23
+
+Prices:
+Regular Price: 527
+Sale Price: 316.20
+
+Itinerary:
+Depart from Miami, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Tendered at Belize City, Belize
+Docked at Puerto Costa Maya, Mexico
+Day at Sea
+Disembark at Miami, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+6 Night - Havana Overnight & Cozumel 
+**************************************************************
+
+Index: 23
+
+Cruise Title: 6 Night - Havana Overnight & Cozumel 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Havana, Cuba
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Cuba
+Mexico
+
+Cruise Subtitle: Florida → Cuba → Mexico
+
+Dates:
+2017-11-04 - 2017-11-10
+
+Prices:
+Regular Price: 759
+Sale Price: 455.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Havana, Cuba
+Docked at Havana, Cuba
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Havana & Yucatan Cruise 
+**************************************************************
+
+Index: 24
+
+Cruise Title: 7 Night - Havana & Yucatan Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Empress of the Seas
+
+Port Locations:
+Tampa, Florida
+Cozumel, Mexico
+Belize City, Belize
+Havana, Cuba
+
+Port Tags:
+Florida
+Mexico
+Belize
+Cuba
+
+Cruise Subtitle: Florida → Mexico → Belize → Cuba
+
+Dates:
+2017-04-30 - 2017-05-07
+
+Prices:
+Regular Price: 1029
+Sale Price: 617.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Tendered at Belize City, Belize
+Day at Sea
+Docked at Havana, Cuba
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (0):
+

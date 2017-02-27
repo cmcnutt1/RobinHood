@@ -79,7 +79,7 @@ def test_HTML_input(departure_location, arrival_location, port_list, standard_pr
     </tbody>
     </table>
     <span style = "font-size: 8pt;">
-    <strong>Note:</strong>Prices start at <strong>$""" + standard_price + """ </strong>but vary by cabin type and are always changing. Consult an Interline Advantage representative using the booking form for the most up-to-date pricing.</span></td>
+    <strong>Note:</strong> Prices start at <strong>$""" + standard_price + """ </strong> but vary by cabin type and are always changing. Consult an Interline Advantage representative using the booking form for the most up-to-date pricing.</span></td>
     </tr>
     </tbody>
     </table>"""

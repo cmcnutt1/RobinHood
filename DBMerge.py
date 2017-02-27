@@ -13,10 +13,10 @@ def init_db():
     db = TinyDB('cruise.json')
     return db
 
-def get_dbs():
+def get_dbs(ship_name):
     
     db1 = TinyDB('cruise.json')
-    db2 = TinyDB('individual_ships/anthem.json')
+    db2 = TinyDB('individual_ships/' + ship_name + '.json')
 
     dbList = []
     dbList.append(db1)
@@ -27,7 +27,7 @@ def get_dbs():
 
 def print_individual_entry(ship_prefix):
 
-    two_dbs = get_dbs()
+    two_dbs = get_dbs(ship_prefix.lower())
 
     mainDb = two_dbs[0]
 
@@ -80,7 +80,7 @@ def print_individual_entry(ship_prefix):
 if __name__ == "__main__":
 
     print("Working...")
-    print_individual_entry("Anthem")
+    print_individual_entry("Empress")
     print("Done")
 
     

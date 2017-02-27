@@ -44,6 +44,8 @@ def print_individual_entry():
     #Don't think this is a problem. But I'll test for it anyways
     less_days_errors = []
 
+    
+
     pricing_errors = []
 
     diff_depart = []
@@ -66,6 +68,9 @@ def print_individual_entry():
     #********************************************
 
         cruise_name = entry['cruise_name']
+
+        if("Sample" in cruise_name):
+            print(cruise_name)
 
         cruise_len = cruise_name.split()[0]
 

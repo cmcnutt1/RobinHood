@@ -26,7 +26,7 @@ def init_driver():
 #Initialize TinyDB for retrieving cruise info
 def init_db():
 
-    db = TinyDB('individual_ships/anthem.json')
+    db = TinyDB('individual_ships/empress.json')
 
     return db
 
@@ -305,10 +305,13 @@ def check_boxes(port_list, departure_loc, ship_name, driver):
             ca_dest_checkbox.click()
             ca_dest_clicked = True
 
-    if(departure_loc.split(', ')[1].strip() in usa_state_list):
-        usa_dep_checkbox.click()
-    if(departure_loc.split(', ')[1].strip() in ca_province_list):
-        ca_dep_checkbox.click()
+    if(len(departure_loc.split(', ')) > 1):
+        if(departure_loc.split(', ')[1].strip() in usa_state_list):
+            usa_dep_checkbox.click()
+        if(departure_loc.split(', ')[1].strip() in ca_province_list):
+            ca_dep_checkbox.click()
+    else:
+        irrelevant_string = "suck a dick"
 
     royal_caribbean_section = check_boxes.find_element_by_id("tour_category-185")
     royal_caribbean_box = check_boxes.find_element_by_id("in-tour_category-185")
@@ -466,7 +469,7 @@ def enter_dates(driver, departure_dates, return_dates):
 
     time.sleep(NAP)
 
-def insert_short_description(driver, cruise_title, port_tags):
+def insert_short_description(driver, cruise_title, cruise_ship, port_tags):
 
     short_desc = driver.find_element_by_id("excerpt")
 
@@ -479,10 +482,10 @@ def insert_short_description(driver, cruise_title, port_tags):
         if("-" not in word):
             new_title = new_title + word + " "
 
-    port_tags = port_tags[1:]
+    new_title = new_title.strip()
 
     if(len(port_tags) > 1):
-        new_title = new_title + "with stops at "
+        new_title = new_title + ", aboard the " + cruise_ship + ", that visits "
         
         last_port = port_tags[(len(port_tags)-1)]
         port_tags = port_tags[:(len(port_tags)-1)]
@@ -502,7 +505,8 @@ def insert_short_description(driver, cruise_title, port_tags):
         short_desc.send_keys(new_title)
 
     else:
-        new_title = new_title + "that visits "
+        new_title = new_title + ", aboard the " + cruise_ship + ", that visits "
+
         if('(' in port_tags[0]):
             port_name = port_tags[0].split('(')[0].strip()
         else:
@@ -582,7 +586,10 @@ def get_individual_result_info(driver):
 
     db_len = len(db.all())
 
-    i = 1
+    not_written = []
+
+    #Change for index to start at in input
+    i = 5
 
     while(i < (db_len + 1)):
 
@@ -592,96 +599,111 @@ def get_individual_result_info(driver):
 
             cruise_title = entry['cruise_name']
 
-            cruise_duration = int(cruise_title.split()[0])
-
-            cruise_ship = entry['ship_name']
-
-            cruise_html_chunk = switch_ship(cruise_ship)
-
-            departure_location_text = entry['departure_loc']
-
-            arrival_location_text = entry['return_loc']
-
             port_text_list = entry['port_list']
+    
+            if not ("Sampler" in cruise_title or len(port_text_list)<2):
 
-            check_port_list = port_text_list[1:]
+                cruise_duration = int(cruise_title.split()[0])
 
-            port_tag_list = entry['port_tags']
+                cruise_ship = entry['ship_name']
 
-            price_text = entry['regular_price']
+                cruise_html_chunk = switch_ship(cruise_ship)
 
-            sale_price_text = entry['sale_price']
+                departure_location_text = entry['departure_loc']
 
-            cruise_subtitle = entry['cruise_sub']
+                arrival_location_text = entry['return_loc']
 
-            itinerary = entry['cruise_itin']
+                check_port_list = port_text_list[1:]
 
-            departure_dates = entry['available_departure_dates']
+                port_tag_list = entry['port_tags']
 
-            return_dates = entry['available_return_dates']
+                price_text = entry['regular_price']
+
+                sale_price_text = entry['sale_price']
+
+                cruise_subtitle = entry['cruise_sub']
+
+                itinerary = entry['cruise_itin']
+
+                departure_dates = entry['available_departure_dates']
+
+                return_dates = entry['available_return_dates']
 
 
-            #*****************************
-            # RUN INTERACTION FUNCTIONS
-            #*****************************
+                #*****************************
+                # RUN INTERACTION FUNCTIONS
+                #*****************************
 
-            #Insert Title
-            insert_cruise_title(cruise_title,driver)
+                #Insert Title
+                insert_cruise_title(cruise_title,driver)
 
-            if(arrival_location_text == departure_location_text):
-                port_string = create_port_list(port_text_list[1:])
+                if(arrival_location_text == departure_location_text):
+                    port_string = create_port_list(port_text_list[1:])
+                    
+                else:
+                    port_string = create_port_list(port_text_list[1:(len(port_text_list) - 1)])
+
                 html_input = test_HTML_input(departure_location_text, arrival_location_text, port_string, price_text)
 
-            fill_out_product_tags(driver, port_tag_list, cruise_ship)
 
-            #Insert Departure, port, features HTML
-            insert_cruise_main_info(html_input,driver)
+                fill_out_product_tags(driver, port_tag_list, cruise_ship)
 
-            #Select Badge (Starting From:)
-            select_badge_dropdown(driver)
+                #Insert Departure, port, features HTML
+                insert_cruise_main_info(html_input,driver)
 
-            #Insert 'Itinary' Title
-            insert_iten_title(driver)
+                #Select Badge (Starting From:)
+                select_badge_dropdown(driver)
 
-            #Insert HTML chunk for day by day locations
-            insert_day_by_day(itinerary, driver)
+                #Insert 'Itinary' Title
+                insert_iten_title(driver)
 
-            insert_ship_info(driver, cruise_html_chunk)
+                #Insert HTML chunk for day by day locations
+                insert_day_by_day(itinerary, driver)
 
-            set_product_image(driver, cruise_ship)
+                insert_ship_info(driver, cruise_html_chunk)
 
-            complete_header_information(cruise_subtitle, cruise_ship, driver)
+                set_product_image(driver, cruise_ship)
 
-            check_boxes(check_port_list, departure_location_text, cruise_ship, driver)
+                complete_header_information(cruise_subtitle, cruise_ship, driver)
 
-            change_product_data(driver)
+                check_boxes(check_port_list, departure_location_text, cruise_ship, driver)
 
-            time.sleep(3)
+                change_product_data(driver)
 
-            insert_prices(driver, price_text, sale_price_text)
+                time.sleep(3)
 
-            time.sleep(3)
+                insert_prices(driver, price_text, sale_price_text)
 
-            click_tour_booking(driver)
+                time.sleep(3)
 
-            time.sleep(3)
+                click_tour_booking(driver)
 
-            enter_dates(driver, departure_dates, return_dates)
+                time.sleep(3)
 
-            time.sleep(3)
+                enter_dates(driver, departure_dates, return_dates)
 
-            enter_keyword(driver, cruise_title)
+                time.sleep(3)
 
-            time.sleep(3)
+                enter_keyword(driver, cruise_title)
 
-            insert_short_description(driver, cruise_title, port_tag_list)
+                time.sleep(3)
 
-            time.sleep(3)
+                try:
+                    insert_short_description(driver, cruise_title, cruise_ship, port_tag_list[1:])
+                except IndexError:
+                    insert_short_description(driver, cruise_title, cruise_ship, check_port_list)
 
-            publish_ship(driver)
-            print("Input finished. You've got 5 minutes")
+                time.sleep(3)
 
-            time.sleep(HIBERNATE)
+                publish_ship(driver)
+                print("Finished index: " + str(i))
+
+                time.sleep(REST)
+
+            else:
+                not_written.append("Index " + str(i) + " was not written: " + cruise_title)
+
+                print("Index " + str(i) + " was not written: " + cruise_title)
 
         except(WebDriverException) as e:
             i -= 1
@@ -698,6 +720,13 @@ def get_individual_result_info(driver):
             drive.get("http://7eb.8aa.myftpupload.com/wp-admin/post-new.php?post_type=product")
         except(TimeoutException) as e:
             drive.get("http://7eb.8aa.myftpupload.com/wp-admin/post-new.php?post_type=product")
+
+        if(len(not_written) > 0):
+            print("Indexes not written: ")
+            for item in not_written:
+                print(item)
+        else:
+            print("All indexes written. Nice.")
 
         time.sleep(REST)
 

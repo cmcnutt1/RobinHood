@@ -64,13 +64,283 @@ def get_anthem():
 </tbody>
 </table>"""
 
-'''
+
 def get_ovation():
+
+    return """<h1 style="text-align: center;">
+
+<img src="../../wp-content/uploads/2017/02/ovation_cutaway.jpg" />
+
+</h1>
+
+<p style="text-align: center;">
+<span style="font-size: 8pt;">a <strong>sampling</strong> of<br /></span>
+<strong><span style="font-size: 24pt;">• Ovation of the Seas •</span></strong>
+</p>
+
+<table class="table table-bordered tours-tabs__table" style="height: 233px; width: 844px;">
+<tbody>
+
+<tr>
+<td style="width: 296px;"><strong>Entertainment Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Piano Sing-alongs</li>
+<li>Live Bands</li>
+<li>Original Productions</li>
+<li>Guest Entertainers</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>Dining Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Bionic Bar (Powered by Makr Shakr)</li>
+<li>Chops Grille</li>
+<li>Jamie's Italian</li>
+<li>Windjammer Marketplace</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>On-board Activities</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Two70°</li>
+<li>Seaplex</li>
+<li>Fitness Center</li>
+<li>North star</li>
+</ul>
+</td>
+</tr>
+
+</tbody>
+</table>"""
 
 def get_quantum():
 
+    return """<h1 style="text-align: center;">
+
+<img src="../../wp-content/uploads/2017/02/quantum_cutaway.jpg" />
+
+</h1>
+
+<p style="text-align: center;">
+<span style="font-size: 8pt;">a <strong>sampling</strong> of<br /></span>
+<strong><span style="font-size: 24pt;">• Quantum of the Seas •</span></strong>
+</p>
+
+<table class="table table-bordered tours-tabs__table" style="height: 233px; width: 844px;">
+<tbody>
+
+<tr>
+<td style="width: 296px;"><strong>Entertainment Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Broadway Musical: Mamma Mia</li>
+<li>Guest Entertainers</li>
+<li>Live Bands</li>
+<li>Parades</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>Dining Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Wonderland</li>
+<li>Solarium Bistro</li>
+<li>Jamie's Italian</li>
+<li>Café Promenade</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>On-board Activities</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Seaplex</li>
+<li>Rock Climbing</li>
+<li>Pool Deck</li>
+<li>Ripcord by iFly</li>
+</ul>
+</td>
+</tr>
+
+</tbody>
+</table>"""
+
 def get_allure():
 
+    return """<h1 style="text-align: center;">
+
+<img src="../../wp-content/uploads/2017/02/allure_cutaway.jpg" />
+
+</h1>
+
+<p style="text-align: center;">
+<span style="font-size: 8pt;">a <strong>sampling</strong> of<br /></span>
+<strong><span style="font-size: 24pt;">• Allure of the Seas •</span></strong>
+</p>
+
+<table class="table table-bordered tours-tabs__table" style="height: 233px; width: 844px;">
+<tbody>
+
+<tr>
+<td style="width: 296px;"><strong>Entertainment Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Original Productions</li>
+<li>Ice Skating Shows</li>
+<li>Live Orchestra</li>
+<li>Arcade</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>Dining Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Chef's Table</li>
+<li>Izumi Hibachi Experience</li>
+<li>Vitality Café</li>
+<li>Sabor Taqueria & Tequila Bar</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>On-board Activities</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Zip Line</li>
+<li>Mini Golf</li>
+<li>Ice Skating</li>
+<li>Flowrider</li>
+</ul>
+</td>
+</tr>
+
+</tbody>
+</table>"""
+
+def get_voyager():
+
+    return """<h1 style="text-align: center;">
+
+<img src="../../wp-content/uploads/2017/02/allure_cutaway.jpg" />
+
+</h1>
+
+<p style="text-align: center;">
+<span style="font-size: 8pt;">a <strong>sampling</strong> of<br /></span>
+<strong><span style="font-size: 24pt;">• Voyager of the Seas •</span></strong>
+</p>
+
+<table class="table table-bordered tours-tabs__table" style="height: 233px; width: 844px;">
+<tbody>
+
+<tr>
+<td style="width: 296px;"><strong>Entertainment Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Ice Skating Shows</li>
+<li>Original Productions</li>
+<li>Guest Entertainers</li>
+<li>Live Orchestra</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>Dining Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Izumi Hibachi Experience</li>
+<li>Giovanni's Table</li>
+<li>Brasserie 30</li>
+<li>Chops Grille</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>On-board Activities</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>FlowRider</li>
+<li>Fitness Center</li>
+<li>Ice Skating</li>
+<li>Rock Climbing</li>
+</ul>
+</td>
+</tr>
+
+</tbody>
+</table>"""
+
+def get_empress():
+
+    return """<h1 style="text-align: center;">
+
+<img src="http://i.imgur.com/pl16QEw.jpg" />
+
+</h1>
+
+<p style="text-align: center;">
+<span style="font-size: 8pt;">a <strong>sampling</strong> of<br /></span>
+<strong><span style="font-size: 24pt;">• Empress of the Seas •</span></strong>
+</p>
+
+<table class="table table-bordered tours-tabs__table" style="height: 233px; width: 844px;">
+<tbody>
+
+<tr>
+<td style="width: 296px;"><strong>Entertainment Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Boleros Latin Themed Lounge</li>
+<li>Sequins & Feathers</li>
+<li>Original Productions</li>
+<li>Salsa Dancing</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>Dining Options</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Chops Grille</li>
+<li>Windjammer Marketplace</li>
+<li>Main Dining Room</li>
+<li>Room Service</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="width: 296px;"><strong>On-board Activities</strong></td>
+<td style="width: 550px;">
+<ul>
+<li>Rock Climbing</li>
+<li>Fitness Center</li>
+<li>Plunge Pool Party</li>
+<li>Arcade</li>
+</ul>
+</td>
+</tr>
+
+</tbody>
+</table>"""
+
+'''
 def get_harmony():
 
 def get_oasis():
@@ -88,8 +358,6 @@ def get_explorer():
 def get_mariner():
 
 def get_navigator():
-
-def get_voyager():
 
 def get_brilliance():
 
@@ -116,15 +384,19 @@ def switch_ship(ship):
 
     if(ship_name == 'anthem of the seas'):
         chunk = get_anthem()
-    else:
-        chunk = "SHIP NOT FOUND"
-    '''
-    elif(ship_name == 'ovation of the seas'):
-        chunk = get_ovation()
     elif(ship_name == 'quantum of the seas'):
         chunk = get_quantum()
     elif(ship_name == 'allure of the seas'):
         chunk = get_allure()
+    elif(ship_name == 'ovation of the seas'):
+        chunk = get_ovation()
+    elif(ship_name == 'voyager of the seas'):
+        chunk = get_voyager()
+    elif(ship_name == 'empress of the seas'):
+        chunk = get_empress()
+    else:
+        chunk = "SHIP NOT FOUND"
+    '''
     elif(ship_name == 'harmony of the seas'):
         chunk = get_harmony()
     elif(ship_name == 'oasis of the seas'):
@@ -143,8 +415,6 @@ def switch_ship(ship):
         chunk = get_mariner()
     elif(ship_name == 'navigator of the seas'):
         chunk = get_navigator()
-    elif(ship_name == 'voyager of the seas'):
-        chunk = get_voyager()
     elif(ship_name == 'brilliance of the seas'):
         chunk = get_brilliance()
     elif(ship_name == 'jewel of the seas'):
@@ -165,8 +435,7 @@ def switch_ship(ship):
         chunk = get_vision()
     elif(ship_name == 'majesty of the seas'):
         chunk = get_majesty()
-    elif(ship_name == 'empress of the seas'):
-        chunk = get_empress()
+
     '''
 
 
