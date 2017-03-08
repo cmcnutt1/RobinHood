@@ -1,0 +1,1431 @@
+
+
+**************************************************************
+3 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 3 Night - Bahamas Cruise 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+Key West, Florida
+Nassau, Bahamas
+
+Port Tags:
+Florida
+Bahamas
+
+Cruise Subtitle: Florida → Bahamas
+
+Dates:
+2018-01-02 - 2018-01-05
+
+Prices:
+Regular Price: 349
+Sale Price: 209.40
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Docked at Key West, Florida
+Docked at Nassau, Bahamas
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+3 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 3 Night - Bahamas Cruise 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+CocoCay, Bahamas
+Nassau, Bahamas
+
+Port Tags:
+Florida
+Bahamas
+
+Cruise Subtitle: Florida → Bahamas
+
+Dates:
+2018-03-09 - 2018-03-12
+
+Prices:
+Regular Price: 299
+Sale Price: 179.40
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Tendered at CocoCay, Bahamas
+Docked at Nassau, Bahamas
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 3
+
+Cruise Title: 4 Night - Western Caribbean Cruise 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-11-13 - 2017-11-17
+
+Prices:
+Regular Price: 359
+Sale Price: 215.40
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Canada New England Cruise
+**************************************************************
+
+Index: 4
+
+Cruise Title: 5 Night - Canada New England Cruise
+
+Departure Location: Boston, Massachusetts
+
+Return Location: Boston, Massachusetts
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Boston, Massachusetts
+Bar Harbor, Maine
+Saint John, New Brunswick
+Halifax, Nova Scotia
+
+Port Tags:
+Massachusetts
+Maine
+New Brunswick
+Nova Scotia
+
+Cruise Subtitle: Massachusetts → Maine → New Brunswick → Nova Scotia
+
+Dates:
+2017-10-15 - 2017-10-20
+
+Prices:
+Regular Price: 566
+Sale Price: 339.60
+
+Itinerary:
+Depart from Boston, Massachusetts
+Tendered at Bar Harbor, Maine
+Docked at Saint John, New Brunswick
+Docked at Halifax, Nova Scotia
+Day at Sea
+Disembark at Boston, Massachusetts
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 5
+
+Cruise Title: 5 Night - Western Caribbean Cruise 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+Puerto Costa Maya, Mexico
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2018-02-16 - 2018-02-21
+
+Prices:
+Regular Price: 419
+Sale Price: 251.40
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Day at Sea
+Docked at Puerto Costa Maya, Mexico
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Canada New England Cruise
+**************************************************************
+
+Index: 6
+
+Cruise Title: 7 Night - Canada New England Cruise
+
+Departure Location: Boston, Massachusetts
+
+Return Location: Boston, Massachusetts
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Boston, Massachusetts
+Bar Harbor, Maine
+Portland, Maine
+Saint John, New Brunswick
+Halifax, Nova Scotia
+
+Port Tags:
+Massachusetts
+Maine
+New Brunswick
+Nova Scotia
+
+Cruise Subtitle: Massachusetts → Maine → New Brunswick → Nova Scotia
+
+Dates:
+2017-09-10 - 2017-09-17
+2017-09-24 - 2017-10-01
+2017-10-08 - 2017-10-15
+
+Prices:
+Regular Price: 567
+Sale Price: 340.20
+
+Itinerary:
+Depart from Boston, Massachusetts
+Tendered at Bar Harbor, Maine
+Docked at Portland, Maine
+Docked at Saint John, New Brunswick
+Day at Sea
+Docked at Halifax, Nova Scotia
+Day at Sea
+Disembark at Boston, Massachusetts
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Canada New England Cruise
+**************************************************************
+
+Index: 7
+
+Cruise Title: 7 Night - Canada New England Cruise
+
+Departure Location: Boston, Massachusetts
+
+Return Location: Boston, Massachusetts
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Boston, Massachusetts
+Portland, Maine
+Bar Harbor, Maine
+Saint John, New Brunswick
+Halifax, Nova Scotia
+
+Port Tags:
+Massachusetts
+Maine
+New Brunswick
+Nova Scotia
+
+Cruise Subtitle: Massachusetts → Maine → New Brunswick → Nova Scotia
+
+Dates:
+2017-09-17 - 2017-09-24
+
+Prices:
+Regular Price: 567
+Sale Price: 340.20
+
+Itinerary:
+Depart from Boston, Massachusetts
+Docked at Portland, Maine
+Tendered at Bar Harbor, Maine
+Docked at Saint John, New Brunswick
+Day at Sea
+Docked at Halifax, Nova Scotia
+Day at Sea
+Disembark at Boston, Massachusetts
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Canada New England Cruise
+**************************************************************
+
+Index: 8
+
+Cruise Title: 7 Night - Canada New England Cruise
+
+Departure Location: Boston, Massachusetts
+
+Return Location: Boston, Massachusetts
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Boston, Massachusetts
+Halifax, Nova Scotia
+Saint John, New Brunswick
+Portland, Maine
+Bar Harbor, Maine
+
+Port Tags:
+Massachusetts
+Nova Scotia
+New Brunswick
+Maine
+
+Cruise Subtitle: Massachusetts → Nova Scotia → New Brunswick → Maine
+
+Dates:
+2017-10-01 - 2017-10-08
+
+Prices:
+Regular Price: 667
+Sale Price: 400.20
+
+Itinerary:
+Depart from Boston, Massachusetts
+Day at Sea
+Docked at Halifax, Nova Scotia
+Day at Sea
+Docked at Saint John, New Brunswick
+Docked at Portland, Maine
+Tendered at Bar Harbor, Maine
+Disembark at Boston, Massachusetts
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Norwegian Fjords Cruise 
+**************************************************************
+
+Index: 9
+
+Cruise Title: 7 Night - Norwegian Fjords Cruise 
+
+Departure Location: Copenhagen, Denmark
+
+Return Location: Copenhagen, Denmark
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Copenhagen, Denmark
+Stavanger, Norway
+Bergen, Norway
+Alesund, Norway
+Geiranger, Norway
+
+Port Tags:
+Denmark
+Norway
+
+Cruise Subtitle: Denmark → Norway
+
+Dates:
+2017-05-13 - 2017-05-20
+
+Prices:
+Regular Price: 1024
+Sale Price: 614.40
+
+Itinerary:
+Depart from Copenhagen, Denmark
+Day at Sea
+Docked at Stavanger, Norway
+Docked at Bergen, Norway
+Docked at Alesund, Norway
+Tendered at Geiranger, Norway
+Day at Sea
+Disembark at Copenhagen, Denmark
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Scandinavia And Russia Cruise 
+**************************************************************
+
+Index: 10
+
+Cruise Title: 7 Night - Scandinavia And Russia Cruise 
+
+Departure Location: Copenhagen, Denmark
+
+Return Location: Copenhagen, Denmark
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Copenhagen, Denmark
+Stockholm, Sweden
+Tallinn, Estonia
+St. Petersburg, Russia
+Helsinki, Finland
+
+Port Tags:
+Denmark
+Sweden
+Estonia
+Russia
+Finland
+
+Cruise Subtitle: Denmark → Sweden → Estonia → Russia → Finland
+
+Dates:
+2017-05-20 - 2017-05-27
+2017-05-27 - 2017-06-03
+2017-08-12 - 2017-08-19
+
+Prices:
+Regular Price: 1118
+Sale Price: 670.80
+
+Itinerary:
+Depart from Copenhagen, Denmark
+Day at Sea
+Docked at Stockholm, Sweden
+Docked at Tallinn, Estonia
+Docked at St. Petersburg, Russia
+Docked at Helsinki, Finland
+Day at Sea
+Disembark at Copenhagen, Denmark
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Scandinavia And Russia Cruise 
+**************************************************************
+
+Index: 11
+
+Cruise Title: 7 Night - Scandinavia And Russia Cruise 
+
+Departure Location: Stockholm, Sweden
+
+Return Location: Stockholm, Sweden
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Stockholm, Sweden
+Helsinki, Finland
+St. Petersburg, Russia
+Tallinn, Estonia
+Riga, Latvia
+
+Port Tags:
+Sweden
+Finland
+Russia
+Estonia
+Latvia
+
+Cruise Subtitle: Sweden → Finland → Russia → Estonia → Latvia
+
+Dates:
+2017-06-25 - 2017-07-02
+2017-07-02 - 2017-07-09
+2017-07-09 - 2017-07-16
+2017-07-16 - 2017-07-23
+2017-07-23 - 2017-07-30
+
+Prices:
+Regular Price: 1047
+Sale Price: 628.20
+
+Itinerary:
+Depart from Stockholm, Sweden
+Docked at Helsinki, Finland
+Docked at St. Petersburg, Russia
+Docked at St. Petersburg, Russia
+Docked at Tallinn, Estonia
+Docked at Riga, Latvia
+Day at Sea
+Disembark at Stockholm, Sweden
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Norwegian Fjords Cruise 
+**************************************************************
+
+Index: 12
+
+Cruise Title: 7 Night - Norwegian Fjords Cruise 
+
+Departure Location: Copenhagen, Denmark
+
+Return Location: Copenhagen, Denmark
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Copenhagen, Denmark
+Stavanger, Norway
+Bergen, Norway
+Alesund, Norway
+Geiranger, Norway
+
+Port Tags:
+Denmark
+Norway
+
+Cruise Subtitle: Denmark → Norway
+
+Dates:
+2017-08-19 - 2017-08-26
+
+Prices:
+Regular Price: 1266
+Sale Price: 759.60
+
+Itinerary:
+Depart from Copenhagen, Denmark
+Day at Sea
+Docked at Stavanger, Norway
+Docked at Bergen, Norway
+Docked at Alesund, Norway
+Tendered at Geiranger, Norway
+Day at Sea
+Disembark at Copenhagen, Denmark
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 13
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+Key West, Florida
+Roatan, Honduras
+Puerto Costa Maya, Mexico
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Honduras
+Mexico
+
+Cruise Subtitle: Florida → Honduras → Mexico
+
+Dates:
+2017-11-17 - 2017-11-24
+2017-12-15 - 2017-12-22
+
+Prices:
+Regular Price: 608
+Sale Price: 364.80
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Docked at Key West, Florida
+Day at Sea
+Docked at Roatan, Honduras
+Docked at Puerto Costa Maya, Mexico
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 14
+
+Cruise Title: 10 Night - Southern Caribbean Cruise 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+Tortola, British Virgin Islands
+Basseterre, St. Kitts
+Roseau, Dominica
+St. Johns, Antigua
+Philipsburg, St. Maarten
+
+Port Tags:
+Florida
+British Virgin Islands
+St. Kitts
+Dominica
+Antigua
+St. Maarten
+
+Cruise Subtitle: Florida → British Virgin Islands → St. Kitts → Dominica → Antigua → St. Maarten
+
+Dates:
+2017-02-24 - 2017-03-06
+2017-03-17 - 2017-03-27
+2017-04-07 - 2017-04-17
+
+Prices:
+Regular Price: 799
+Sale Price: 479.40
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Day at Sea
+Day at Sea
+Docked at St. Croix, U.S. Virgin Islands
+Docked at Tortola, British Virgin Islands
+Docked at Roseau, Dominica
+Docked at St. Johns, Antigua
+Docked at Philipsburg, St. Maarten
+Day at Sea
+Day at Sea
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 15
+
+Cruise Title: 10 Night - Southern Caribbean Cruise 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+St. Thomas, U.S. Virgin Islands
+St. Croix, U.S. Virgin Islands
+Roseau, Dominica
+St. Johns, Antigua
+Philipsburg, St. Maarten
+
+Port Tags:
+Florida
+U.S. Virgin Islands
+Dominica
+Antigua
+St. Maarten
+
+Cruise Subtitle: Florida → St. Thomas → U.S. Virgin Islands → Dominica → Antigua → St. Maarten
+
+Dates:
+2017-11-24 - 2017-12-04
+2018-01-05 - 2018-01-15
+2018-01-26 - 2018-02-05
+2018-03-30 - 2018-04-09
+2018-04-20 - 2018-04-30
+
+Prices:
+Regular Price: 758
+Sale Price: 454.80
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Day at Sea
+Day at Sea
+Docked at St. Thomas, U.S. Virgin Islands
+Docked at St. Croix, U.S. Virgin Islands
+Docked at Roseau, Dominica
+Docked at St. Johns, Antigua
+Docked at Philipsburg, St. Maarten
+Day at Sea
+Day at Sea
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - Scandinavia And Russia Cruise 
+**************************************************************
+
+Index: 16
+
+Cruise Title: 10 Night - Scandinavia And Russia Cruise 
+
+Departure Location: Copenhagen, Denmark
+
+Return Location: Copenhagen, Denmark
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Copenhagen, Denmark
+Riga, Latvia
+Tallinn, Estonia
+St. Petersburg, Russia
+Helsinki, Finland
+Stockholm, Sweden
+Klaipeda, Lithuania
+
+Port Tags:
+Denmark
+Latvia
+Estonia
+Russia
+Finland
+Sweden
+Lithuania
+
+Cruise Subtitle: Denmark → Latvia → Estonia → Russia → Finland → Sweden → Lithuania
+
+Dates:
+2017-05-03 - 2017-05-13
+
+Prices:
+Regular Price: 1569
+Sale Price: 941.40
+
+Itinerary:
+Depart from Copenhagen, Denmark
+Day at Sea
+Docked at Riga, Latvia
+Docked at Tallinn, Estonia
+Docked at St. Petersburg, Russia
+Docked at St. Petersburg, Russia
+Docked at Helsinki, Finland
+Docked at Stockholm, Sweden
+Docked at Klaipeda, Lithuania
+Day at Sea
+Disembark at Copenhagen, Denmark
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 17
+
+Cruise Title: 11 Night - Southern Caribbean Cruise 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+St. Johns, Antigua
+Bridgetown, Barbados
+Castries, St. Lucia
+St. George's, Grenada
+Kralendijk, Bonaire
+Oranjestad, Aruba
+
+Port Tags:
+Florida
+Antigua
+Barbados
+St. Lucia
+Grenada
+Bonaire
+Aruba
+
+Cruise Subtitle: Florida → Antigua → Barbados → St. Lucia → Grenada → Bonaire → Aruba
+
+Dates:
+2017-03-06 - 2017-03-17
+2017-03-27 - 2017-04-07
+
+Prices:
+Regular Price: 1219
+Sale Price: 731.40
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Day at Sea
+Day at Sea
+Docked at St. Johns, Antigua
+Docked at Castries, St. Lucia
+Docked at Bridgetown, Barbados
+Docked at St. George's, Grenada
+Docked at Kralendijk, Bonaire
+Docked at Oranjestad, Aruba
+Day at Sea
+Day at Sea
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 18
+
+Cruise Title: 11 Night - Southern Caribbean Cruise 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+St. Johns, Antigua
+Castries, St. Lucia
+Bridgetown, Barbados
+Willemstad, Curacao
+Oranjestad, Aruba
+
+Port Tags:
+Florida
+Antigua
+St. Lucia
+Barbados
+Curacao
+Aruba
+
+Cruise Subtitle: Florida → Antigua → St. Lucia → Barbados → Curacao → Aruba
+
+Dates:
+2017-12-04 - 2017-12-15
+2018-01-15 - 2018-01-26
+2018-02-26 - 2018-03-09
+2018-04-09 - 2018-04-20
+
+Prices:
+Regular Price: 897
+Sale Price: 538.20
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Day at Sea
+Day at Sea
+Docked at St. Johns, Antigua
+Docked at Castries, St. Lucia
+Docked at Bridgetown, Barbados
+Day at Sea
+Docked at Willemstad, Curacao
+Docked at Oranjestad, Aruba
+Day at Sea
+Day at Sea
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - Southern Caribbean Holiday 
+**************************************************************
+
+Index: 19
+
+Cruise Title: 11 Night - Southern Caribbean Holiday 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+Ponce, Puerto Rico
+Basseterre, St. Kitts
+Castries, St. Lucia
+Bridgetown, Barbados
+St. George's, Grenada
+St. Johns, Antigua
+
+Port Tags:
+Florida
+Puerto Rico
+St. Kitts
+St. Lucia
+Barbados
+Grenada
+Antigua
+
+Cruise Subtitle: Florida → Puerto Rico → St. Kitts → St. Lucia → Barbados → Grenada → Antigua
+
+Dates:
+2017-12-22 - 2018-01-02
+
+Prices:
+Regular Price: 1896
+Sale Price: 1137.60
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Day at Sea
+Day at Sea
+Docked at Ponce, Puerto Rico
+Docked at Basseterre, St. Kitts
+Docked at Castries, St. Lucia
+Docked at Bridgetown, Barbados
+Docked at St. George's, Grenada
+Docked at St. Johns, Antigua
+Day at Sea
+Day at Sea
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 20
+
+Cruise Title: 11 Night - Southern Caribbean Cruise 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+Ponce, Puerto Rico
+Basseterre, St. Kitts
+Castries, St. Lucia
+Bridgetown, Barbados
+St. George's, Grenada
+St. Johns, Antigua
+
+Port Tags:
+Florida
+Puerto Rico
+St. Kitts
+St. Lucia
+Barbados
+Grenada
+Antigua
+
+Cruise Subtitle: Florida → Puerto Rico → St. Kitts → St. Lucia → Barbados → Grenada → Antigua
+
+Dates:
+2018-02-05 - 2018-02-16
+2018-03-19 - 2018-03-30
+
+Prices:
+Regular Price: 897
+Sale Price: 538.20
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Day at Sea
+Day at Sea
+Docked at Ponce, Puerto Rico
+Docked at Basseterre, St. Kitts
+Docked at Castries, St. Lucia
+Docked at Bridgetown, Barbados
+Docked at St. George's, Grenada
+Docked at St. Johns, Antigua
+Day at Sea
+Day at Sea
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - Arctic Circle Cruise 
+**************************************************************
+
+Index: 21
+
+Cruise Title: 11 Night - Arctic Circle Cruise 
+
+Departure Location: Copenhagen, Denmark
+
+Return Location: Copenhagen, Denmark
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Copenhagen, Denmark
+Geiranger, Norway
+Arctic Circle
+Tromso, Norway
+Honningsvag, Norway
+Alesund, Norway
+Olden, Norway
+Bergen, Norway
+
+Port Tags:
+Denmark
+Norway
+
+Cruise Subtitle: Denmark → Norway
+
+Dates:
+2017-06-03 - 2017-06-14
+
+Prices:
+Regular Price: 1826
+Sale Price: 1095.60
+
+Itinerary:
+Depart from Copenhagen, Denmark
+Day at Sea
+Docked at Geiranger, Norway
+Day at Sea
+Docked at Tromso, Norway
+Docked at Honningsvag, Norway
+Day at Sea
+Docked at Alesund, Norway
+Docked at Olden, Norway
+Docked at Bergen, Norway
+Day at Sea
+Disembark at Copenhagen, Denmark
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - Ultimate Scandinavia-russia 
+**************************************************************
+
+Index: 22
+
+Cruise Title: 11 Night - Ultimate Scandinavia-russia 
+
+Departure Location: Copenhagen, Denmark
+
+Return Location: Stockholm, Sweden
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Copenhagen, Denmark
+Fredericia, Denmark
+Berlin (Rostock), Germany
+Klaipeda, Lithuania
+Riga, Latvia
+Tallinn, Estonia
+St. Petersburg, Russia
+Helsinki, Finland
+Stockholm, Sweden
+
+Port Tags:
+Denmark
+Germany
+Lithuania
+Latvia
+Estonia
+Russia
+Finland
+Sweden
+
+Cruise Subtitle: Denmark → Germany → Lithuania → Latvia → Estonia → Russia → Finland → Sweden
+
+Dates:
+2017-06-14 - 2017-06-25
+
+Prices:
+Regular Price: 1817
+Sale Price: 1090.20
+
+Itinerary:
+Depart from Copenhagen, Denmark
+Docked at Fredericia, Denmark
+Docked at Berlin (Rostock), Germany
+Day at Sea
+Docked at Klaipeda, Lithuania
+Docked at Riga, Latvia
+Docked at Tallinn, Estonia
+Docked at St. Petersburg, Russia
+Docked at St. Petersburg, Russia
+Docked at St. Petersburg, Russia
+Docked at Helsinki, Finland
+Disembark at Stockholm, Sweden
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Beantown & Beaches Cruise 
+**************************************************************
+
+Index: 23
+
+Cruise Title: 12 Night - Beantown & Beaches Cruise 
+
+Departure Location: Boston, Massachusetts
+
+Return Location: Fort Lauderdale, Florida
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Boston, Massachusetts
+St. Thomas, U.S. Virgin Islands
+Philipsburg, St. Maarten
+Castries, St. Lucia
+Willemstad, Curacao
+Oranjestad, Aruba
+Fort Lauderdale, Florida
+
+Port Tags:
+Massachusetts
+U.S. Virgin Islands
+St. Maarten
+St. Lucia
+Curacao
+Aruba
+Florida
+
+Cruise Subtitle: Massachusetts → St. Thomas → St. Maarten → St. Lucia → Curacao → Aruba → Florida
+
+Dates:
+2017-10-20 - 2017-11-01
+
+Prices:
+Regular Price: 1009
+Sale Price: 605.40
+
+Itinerary:
+Depart from Boston, Massachusetts
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at St. Thomas, U.S. Virgin Islands
+Docked at Philipsburg, St. Maarten
+Docked at Castries, St. Lucia
+Day at Sea
+Docked at Willemstad, Curacao
+Docked at Oranjestad, Aruba
+Day at Sea
+Day at Sea
+Disembark at Fort Lauderdale, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+13 Night - Ultimate Scandinavia-russia 
+**************************************************************
+
+Index: 24
+
+Cruise Title: 13 Night - Ultimate Scandinavia-russia 
+
+Departure Location: Stockholm, Sweden
+
+Return Location: Copenhagen, Denmark
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Stockholm, Sweden
+Tallinn, Estonia
+St. Petersburg, Russia
+Helsinki, Finland
+Riga, Latvia
+Klaipeda, Lithuania
+Berlin (Warnemunde), Germany
+Fredericia, Denmark
+Copenhagen, Denmark
+
+Port Tags:
+Sweden
+Estonia
+Russia
+Finland
+Latvia
+Lithuania
+Germany
+Denmark
+
+Cruise Subtitle: Sweden → Estonia → Russia → Finland → Latvia → Lithuania → Germany → Denmark
+
+Dates:
+2017-07-30 - 2017-08-12
+
+Prices:
+Regular Price: 2216
+Sale Price: 1329.60
+
+Itinerary:
+Depart from Stockholm, Sweden
+Docked at Stockholm, Sweden
+Docked at Tallinn, Estonia
+Docked at St. Petersburg, Russia
+Docked at St. Petersburg, Russia
+Docked at St. Petersburg, Russia
+Docked at Helsinki, Finland
+Docked at Riga, Latvia
+Docked at Klaipeda, Lithuania
+Day at Sea
+Docked at Berlin (Warnemunde), Germany
+Docked at Fredericia, Denmark
+Docked at Copenhagen, Denmark
+Disembark at Copenhagen, Denmark
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+15 Night - Copenhagen To Boston Cruise 
+**************************************************************
+
+Index: 25
+
+Cruise Title: 15 Night - Copenhagen To Boston Cruise 
+
+Departure Location: Copenhagen, Denmark
+
+Return Location: Boston, Massachusetts
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Copenhagen, Denmark
+Oslo, Norway
+Kristiansand, Norway
+Reykjavik, Iceland
+Akureyri, Iceland
+Halifax, Nova Scotia
+Boston, Massachusetts
+
+Port Tags:
+Denmark
+Norway
+Iceland
+Nova Scotia
+Massachusetts
+
+Cruise Subtitle: Denmark → Norway → Iceland → Nova Scotia → Massachusetts
+
+Dates:
+2017-08-26 - 2017-09-10
+
+Prices:
+Regular Price: 2715
+Sale Price: 1629.00
+
+Itinerary:
+Depart from Copenhagen, Denmark
+Docked at Oslo, Norway
+Docked at Kristiansand, Norway
+Day at Sea
+Day at Sea
+Docked at Reykjavik, Iceland
+Docked at Reykjavik, Iceland
+Docked at Akureyri, Iceland
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Halifax, Nova Scotia
+Day at Sea
+Disembark at Boston, Massachusetts
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+16 Night - South Florida To Copenhagen 
+**************************************************************
+
+Index: 26
+
+Cruise Title: 16 Night - South Florida To Copenhagen 
+
+Departure Location: Fort Lauderdale, Florida
+
+Return Location: Copenhagen, Denmark
+
+Ship Name: Serenade of the Seas
+
+Port Locations:
+Fort Lauderdale, Florida
+Ponta Delgada, Azores
+Cork (Cobh), Ireland
+Paris/Normandy (Le Havre), France
+Brussels (Zeebrugge), Belgium
+Amsterdam, Netherlands
+Copenhagen, Denmark
+
+Port Tags:
+Florida
+Azores
+Ireland
+France
+Belgium
+Netherlands
+Denmark
+
+Cruise Subtitle: Florida → Azores → Ireland → France → Belgium → Netherlands → Denmark
+
+Dates:
+2017-04-17 - 2017-05-03
+
+Prices:
+Regular Price: 699
+Sale Price: 419.40
+
+Itinerary:
+Depart from Fort Lauderdale, Florida
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Ponta Delgada, Azores
+Day at Sea
+Day at Sea
+Docked at Cork (Cobh), Ireland
+Day at Sea
+Docked at Paris/Normandy (Le Havre), France
+Docked at Brussels (Zeebrugge), Belgium
+Docked at Amsterdam, Netherlands
+Day at Sea
+Disembark at Copenhagen, Denmark
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (0):
+

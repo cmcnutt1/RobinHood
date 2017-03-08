@@ -1,0 +1,1759 @@
+
+
+**************************************************************
+3 Night - Sampler Cruise 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 3 Night - Sampler Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+
+Port Tags:
+Australia
+
+Cruise Subtitle: Australia
+
+Dates:
+2017-03-16 - 2017-03-19
+
+Prices:
+Regular Price: 678
+Sale Price: 406.80
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+3 Night - Sampler Cruise 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 3 Night - Sampler Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+
+Port Tags:
+Australia
+
+Cruise Subtitle: Australia
+
+Dates:
+2018-02-09 - 2018-02-12
+
+Prices:
+Regular Price: 559
+Sale Price: 335.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Best Of British Columbia Cruise 
+**************************************************************
+
+Index: 3
+
+Cruise Title: 4 Night - Best Of British Columbia Cruise 
+
+Departure Location: Seattle, Washington
+
+Return Location: Seattle, Washington
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Seattle, Washington
+Nanaimo, British Columbia
+Victoria, British Columbia
+
+Port Tags:
+Washington
+British Columbia
+
+Cruise Subtitle: Washington → British Columbia
+
+Dates:
+2017-05-15 - 2017-05-19
+
+Prices:
+Regular Price: 289
+Sale Price: 173.40
+
+Itinerary:
+Depart from Seattle, Washington
+Day at Sea
+Docked at Nanaimo, British Columbia
+Docked at Victoria, British Columbia
+Disembark at Seattle, Washington
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+6 Night - Tasmania Cruise 
+**************************************************************
+
+Index: 4
+
+Cruise Title: 6 Night - Tasmania Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Melbourne, Australia
+Hobart, Australia
+
+Port Tags:
+Australia
+
+Cruise Subtitle: Australia
+
+Dates:
+2017-12-09 - 2017-12-15
+
+Prices:
+Regular Price: 513
+Sale Price: 307.80
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Docked at Melbourne, Australia
+Day at Sea
+Docked at Hobart, Australia
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Alaska Glacier Cruise 
+**************************************************************
+
+Index: 5
+
+Cruise Title: 7 Night - Alaska Glacier Cruise 
+
+Departure Location: Seattle, Washington
+
+Return Location: Seattle, Washington
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Seattle, Washington
+Alaska Inside Passage, Alaska
+Juneau, Alaska
+Skagway, Alaska
+Tracy Arm Fjord, Alaska
+Victoria, British Columbia
+
+Port Tags:
+Washington
+Alaska
+British Columbia
+
+Cruise Subtitle: Washington → Alaska → British Columbia
+
+Dates:
+2017-05-19 - 2017-05-26
+2017-05-26 - 2017-06-02
+2017-06-02 - 2017-06-09
+2017-06-09 - 2017-06-16
+2017-06-16 - 2017-06-23
+2017-06-23 - 2017-06-30
+2017-06-30 - 2017-07-07
+2017-07-07 - 2017-07-14
+2017-07-14 - 2017-07-21
+2017-07-21 - 2017-07-28
+2017-07-28 - 2017-08-04
+2017-08-04 - 2017-08-11
+2017-08-11 - 2017-08-18
+2017-08-18 - 2017-08-25
+2017-08-25 - 2017-09-01
+2017-09-01 - 2017-09-08
+2017-09-08 - 2017-09-15
+
+Prices:
+Regular Price: 899
+Sale Price: 539.40
+
+Itinerary:
+Depart from Seattle, Washington
+Day at Sea
+Day at Sea
+Docked at Juneau, Alaska
+Docked at Skagway, Alaska
+Day at Sea
+Day at Sea
+Docked at Victoria, British Columbia
+Disembark at Seattle, Washington
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 6
+
+Cruise Title: 7 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Lifou, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+
+Cruise Subtitle: Australia → New Caledonia → Loyalty Island
+
+Dates:
+2017-11-19 - 2017-11-26
+
+Prices:
+Regular Price: 804
+Sale Price: 482.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Lifou, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 7
+
+Cruise Title: 7 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+
+Cruise Subtitle: Australia → Loyalty Island → New Caledonia
+
+Dates:
+2018-03-05 - 2018-03-12
+
+Prices:
+Regular Price: 699
+Sale Price: 419.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Tasmania Cruise 
+**************************************************************
+
+Index: 8
+
+Cruise Title: 7 Night - Tasmania Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Wollongong (Port Kembla), Australia
+Hobart, Australia
+Melbourne, Australia
+
+Port Tags:
+Australia
+
+Cruise Subtitle: Australia
+
+Dates:
+2018-03-12 - 2018-03-19
+
+Prices:
+Regular Price: 699
+Sale Price: 419.40
+
+Itinerary:
+Depart from Sydney, Australia
+Docked at Wollongong (Port Kembla), Australia
+Day at Sea
+Docked at Hobart, Australia
+Day at Sea
+Docked at Melbourne, Australia
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 9
+
+Cruise Title: 7 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+
+Cruise Subtitle: Australia → Loyalty Island → New Caledonia
+
+Dates:
+2018-04-08 - 2018-04-15
+
+Prices:
+Regular Price: 769
+Sale Price: 461.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 10
+
+Cruise Title: 7 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+
+Cruise Subtitle: Australia → Loyalty Island → New Caledonia
+
+Dates:
+2018-04-15 - 2018-04-22
+
+Prices:
+Regular Price: 769
+Sale Price: 461.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Pacific Coastal Cruise 
+**************************************************************
+
+Index: 11
+
+Cruise Title: 7 Night - Pacific Coastal Cruise 
+
+Departure Location: Seattle, Washington
+
+Return Location: Seattle, Washington
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Seattle, Washington
+Astoria, Oregon
+San Francisco, California
+Victoria, British Columbia
+
+Port Tags:
+Washington
+Oregon
+California
+British Columbia
+
+Cruise Subtitle: Washington → Oregon → California → British Columbia
+
+Dates:
+2017-09-15 - 2017-09-22
+2017-09-22 - 2017-09-29
+2017-09-29 - 2017-10-06
+
+Prices:
+Regular Price: 442
+Sale Price: 265.20
+
+Itinerary:
+Depart from Seattle, Washington
+Docked at Astoria, Oregon
+Day at Sea
+Docked at San Francisco, California
+Docked at San Francisco, California
+Day at Sea
+Docked at Victoria, British Columbia
+Disembark at Seattle, Washington
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 12
+
+Cruise Title: 8 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Maré, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu
+
+Dates:
+2017-02-14 - 2017-02-22
+
+Prices:
+Regular Price: 1377
+Sale Price: 826.20
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Tendered at Maré, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 13
+
+Cruise Title: 8 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Maré, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu
+
+Dates:
+2018-01-04 - 2018-01-12
+
+Prices:
+Regular Price: 1259
+Sale Price: 755.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Tendered at Maré, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 14
+
+Cruise Title: 8 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Lifou, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu → Loyalty Island
+
+Dates:
+2018-01-12 - 2018-01-20
+
+Prices:
+Regular Price: 979
+Sale Price: 587.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Tendered at Lifou, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 15
+
+Cruise Title: 9 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Vila, Vanuatu
+Mystery Island, Vanuatu
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → Loyalty Island → Vanuatu → New Caledonia
+
+Dates:
+2017-11-26 - 2017-12-05
+
+Prices:
+Regular Price: 839
+Sale Price: 503.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Docked at Vila, Vanuatu
+Tendered at Mystery Island, Vanuatu
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 16
+
+Cruise Title: 9 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Lifou, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu → Loyalty Island
+
+Dates:
+2017-12-15 - 2017-12-24
+
+Prices:
+Regular Price: 1119
+Sale Price: 671.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Tendered at Lifou, New Caledonia
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 17
+
+Cruise Title: 9 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Maré, New Caledonia
+Vila, Vanuatu
+Mystery Island, Vanuatu
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu
+
+Dates:
+2018-02-12 - 2018-02-21
+
+Prices:
+Regular Price: 874
+Sale Price: 524.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Maré, New Caledonia
+Docked at Vila, Vanuatu
+Tendered at Mystery Island, Vanuatu
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 18
+
+Cruise Title: 9 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Mystery Island, Vanuatu
+Vila, Vanuatu
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → Loyalty Island → Vanuatu → New Caledonia
+
+Dates:
+2018-03-19 - 2018-03-28
+
+Prices:
+Regular Price: 839
+Sale Price: 503.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Docked at Vila, Vanuatu
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 19
+
+Cruise Title: 10 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Isle of Pines, New Caledonia
+Maré, New Caledonia
+Mystery Island, Vanuatu
+Vila, Vanuatu
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu
+
+Dates:
+2017-02-22 - 2017-03-04
+
+Prices:
+Regular Price: 978
+Sale Price: 586.80
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Isle of Pines, New Caledonia
+Tendered at Maré, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Docked at Vila, Vanuatu
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 20
+
+Cruise Title: 10 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Vila, Vanuatu
+Maré, New Caledonia
+Isle of Pines, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu
+
+Dates:
+2017-03-30 - 2017-04-09
+
+Prices:
+Regular Price: 605
+Sale Price: 363.00
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Docked at Vila, Vanuatu
+Tendered at Maré, New Caledonia
+Tendered at Isle of Pines, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 21
+
+Cruise Title: 10 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Vila, Vanuatu
+Mystery Island, Vanuatu
+Maré, New Caledonia
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → Loyalty Island → Vanuatu → New Caledonia
+
+Dates:
+2017-11-09 - 2017-11-19
+
+Prices:
+Regular Price: 909
+Sale Price: 545.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Docked at Vila, Vanuatu
+Tendered at Mystery Island, Vanuatu
+Tendered at Maré, New Caledonia
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 22
+
+Cruise Title: 10 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Vila, Vanuatu
+Maré, New Caledonia
+Lifou, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu → Loyalty Island
+
+Dates:
+2018-01-20 - 2018-01-30
+
+Prices:
+Regular Price: 1084
+Sale Price: 650.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Docked at Vila, Vanuatu
+Tendered at Maré, New Caledonia
+Tendered at Lifou, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - South Pacific Cruise 
+**************************************************************
+
+Index: 23
+
+Cruise Title: 10 Night - South Pacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Lifou, New Caledonia
+Mystery Island, Vanuatu
+Vila, Vanuatu
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+
+Cruise Subtitle: Australia → Loyalty Island → Vanuatu → New Caledonia
+
+Dates:
+2018-01-30 - 2018-02-09
+
+Prices:
+Regular Price: 909
+Sale Price: 545.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Lifou, New Caledonia
+Day at Sea
+Tendered at Mystery Island, Vanuatu
+Docked at Vila, Vanuatu
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - South Pacific & Fiji Cruise 
+**************************************************************
+
+Index: 24
+
+Cruise Title: 11 Night - South Pacific & Fiji Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Suva, Fiji
+Lautoka, Fiji
+Noumea, New Caledonia
+Isle of Pines, New Caledonia
+
+Port Tags:
+Australia
+Fiji
+New Caledonia
+
+Cruise Subtitle: Australia → Fiji → New Caledonia
+
+Dates:
+2017-03-19 - 2017-03-30
+
+Prices:
+Regular Price: 664
+Sale Price: 398.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Suva, Fiji
+Docked at Lautoka, Fiji
+Day at Sea
+Tendered at Noumea, New Caledonia
+Docked at Isle of Pines, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - South Pacific & Fiji Cruise 
+**************************************************************
+
+Index: 25
+
+Cruise Title: 11 Night - South Pacific & Fiji Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Lautoka, Fiji
+Suva, Fiji
+Lifou, New Caledonia
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+Fiji
+New Caledonia
+
+Cruise Subtitle: Australia → Fiji → Loyalty Island → New Caledonia
+
+Dates:
+2017-10-29 - 2017-11-09
+
+Prices:
+Regular Price: 1189
+Sale Price: 713.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Lautoka, Fiji
+Docked at Suva, Fiji
+Day at Sea
+Tendered at Lifou, New Caledonia
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - South Pacific & Fiji Holiday 
+**************************************************************
+
+Index: 26
+
+Cruise Title: 11 Night - South Pacific & Fiji Holiday 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Lifou, New Caledonia
+Suva, Fiji
+Lautoka, Fiji
+
+Port Tags:
+Australia
+New Caledonia
+Fiji
+
+Cruise Subtitle: Australia → New Caledonia → Loyalty Island → Fiji
+
+Dates:
+2017-12-24 - 2018-01-04
+
+Prices:
+Regular Price: 1884
+Sale Price: 1130.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Lifou, New Caledonia
+Day at Sea
+Docked at Suva, Fiji
+Docked at Lautoka, Fiji
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - South Pacific & Fiji Cruise 
+**************************************************************
+
+Index: 27
+
+Cruise Title: 11 Night - South Pacific & Fiji Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Lautoka, Fiji
+Suva, Fiji
+Lifou, New Caledonia
+Noumea, New Caledonia
+
+Port Tags:
+Australia
+Fiji
+New Caledonia
+
+Cruise Subtitle: Australia → Fiji → Loyalty Island → New Caledonia
+
+Dates:
+2018-03-28 - 2018-04-08
+
+Prices:
+Regular Price: 1049
+Sale Price: 629.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Lautoka, Fiji
+Docked at Suva, Fiji
+Day at Sea
+Tendered at Lifou, New Caledonia
+Docked at Noumea, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - South Pacific & Fiji Cruise 
+**************************************************************
+
+Index: 28
+
+Cruise Title: 12 Night - South Pacific & Fiji Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Isle of Pines, New Caledonia
+Lautoka, Fiji
+Suva, Fiji
+
+Port Tags:
+Australia
+New Caledonia
+Fiji
+
+Cruise Subtitle: Australia → New Caledonia → Fiji
+
+Dates:
+2017-03-04 - 2017-03-16
+
+Prices:
+Regular Price: 1084
+Sale Price: 650.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Isle of Pines, New Caledonia
+Day at Sea
+Day at Sea
+Docked at Lautoka, Fiji
+Docked at Suva, Fiji
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - South Pacific & Fiji Cruise 
+**************************************************************
+
+Index: 29
+
+Cruise Title: 12 Night - South Pacific & Fiji Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Vila, Vanuatu
+Lautoka, Fiji
+Suva, Fiji
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+Fiji
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu → Fiji
+
+Dates:
+2018-02-21 - 2018-03-05
+
+Prices:
+Regular Price: 1119
+Sale Price: 671.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Docked at Vila, Vanuatu
+Day at Sea
+Docked at Lautoka, Fiji
+Docked at Suva, Fiji
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+13 Night - South Pacific & Fiji Cruise 
+**************************************************************
+
+Index: 30
+
+Cruise Title: 13 Night - South Pacific & Fiji Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Isle of Pines, New Caledonia
+Mystery Island, Vanuatu
+Lautoka, Fiji
+Suva, Fiji
+Maré, New Caledonia
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+Fiji
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu → Fiji
+
+Dates:
+2017-04-09 - 2017-04-22
+
+Prices:
+Regular Price: 993
+Sale Price: 595.80
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Isle of Pines, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Day at Sea
+Docked at Lautoka, Fiji
+Docked at Suva, Fiji
+Day at Sea
+Tendered at Maré, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+23 Night - Transpacific Cruise 
+**************************************************************
+
+Index: 31
+
+Cruise Title: 23 Night - Transpacific Cruise 
+
+Departure Location: Seattle, Washington
+
+Return Location: Sydney, Australia
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Seattle, Washington
+Honolulu (Oahu), Hawaii
+Maui (Lahaina), Hawaii
+Lautoka, Fiji
+Suva, Fiji
+Mystery Island, Vanuatu
+Lifou, New Caledonia
+Maré, New Caledonia
+Sydney, Australia
+
+Port Tags:
+Washington
+Hawaii
+Fiji
+Vanuatu
+New Caledonia
+Australia
+
+Cruise Subtitle: Washington → Hawaii → Fiji → Vanuatu → Loyalty Island → New Caledonia → Australia
+
+Dates:
+2017-10-06 - 2017-10-29
+
+Prices:
+Regular Price: 1980
+Sale Price: 1188.00
+
+Itinerary:
+Depart from Seattle, Washington
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Honolulu (Oahu), Hawaii
+Tendered at Maui (Lahaina), Hawaii
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Lautoka, Fiji
+Docked at Suva, Fiji
+Day at Sea
+Tendered at Mystery Island, Vanuatu
+Tendered at Lifou, New Caledonia
+Tendered at Maré, New Caledonia
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+23 Night - Transpacific Cruise 
+**************************************************************
+
+Index: 32
+
+Cruise Title: 23 Night - Transpacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Seattle, Washington
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Lifou, New Caledonia
+Mystery Island, Vanuatu
+Suva, Fiji
+Lautoka, Fiji
+Honolulu (Oahu), Hawaii
+Maui (Lahaina), Hawaii
+Seattle, Washington
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+Fiji
+Hawaii
+Washington
+
+Cruise Subtitle: Australia → New Caledonia → Loyalty Island → Vanuatu → Fiji → Hawaii → Washington
+
+Dates:
+2018-04-22 - 2018-05-15
+
+Prices:
+Regular Price: 1819
+Sale Price: 1091.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Lifou, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Day at Sea
+Docked at Suva, Fiji
+Docked at Lautoka, Fiji
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Honolulu (Oahu), Hawaii
+Docked at Honolulu (Oahu), Hawaii
+Tendered at Maui (Lahaina), Hawaii
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Seattle, Washington
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+24 Night - Transpacific Cruise 
+**************************************************************
+
+Index: 33
+
+Cruise Title: 24 Night - Transpacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Seattle, Washington
+
+Ship Name: Explorer of the Seas
+
+Port Locations:
+Sydney, Australia
+Isle of Pines, New Caledonia
+Noumea, New Caledonia
+Mystery Island, Vanuatu
+Suva, Fiji
+Kailua Kona, Hawaii
+Maui (Lahaina), Hawaii
+Honolulu (Oahu), Hawaii
+Seattle, Washington
+
+Port Tags:
+Australia
+New Caledonia
+Vanuatu
+Fiji
+Hawaii
+Washington
+
+Cruise Subtitle: Australia → New Caledonia → Vanuatu → Fiji → Hawaii → Washington
+
+Dates:
+2017-04-22 - 2017-05-16
+
+Prices:
+Regular Price: 1466
+Sale Price: 879.60
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Isle of Pines, New Caledonia
+Docked at Noumea, New Caledonia
+Tendered at Mystery Island, Vanuatu
+Day at Sea
+Docked at Suva, Fiji
+Docked at Suva, Fiji
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Tendered at Kailua Kona, Hawaii
+Tendered at Maui (Lahaina), Hawaii
+Docked at Honolulu (Oahu), Hawaii
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Seattle, Washington
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (4):
+
+7 Night - Alaska Glacier Cruise 
+23 Night - Transpacific Cruise 
+23 Night - Transpacific Cruise 
+24 Night - Transpacific Cruise 

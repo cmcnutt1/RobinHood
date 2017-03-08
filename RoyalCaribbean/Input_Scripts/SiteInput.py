@@ -19,14 +19,14 @@ HIBERNATE = 30
 #Get Selenium WebDriver
 def init_driver():
 
-    driver = webdriver.Chrome(os.getcwd() + "/chromedriver")
+    driver = webdriver.Chrome(os.getcwd() + "../chromedriver")
 
     return driver
 
 #Initialize TinyDB for retrieving cruise info
 def init_db():
 
-    db = TinyDB('individual_ships/empress.json')
+    db = TinyDB('../individual_ships/jewel.json')
 
     return db
 
@@ -565,7 +565,7 @@ def publish_ship(driver):
 
     publish_button.click()
 
-    time.sleep(1)
+    time.sleep(10)
     try:
         publish_button.click()
     except StaleElementReferenceException:
@@ -589,7 +589,7 @@ def get_individual_result_info(driver):
     not_written = []
 
     #Change for index to start at in input
-    i = 5
+    i = 12
 
     while(i < (db_len + 1)):
 

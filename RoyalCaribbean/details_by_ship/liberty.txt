@@ -1,0 +1,552 @@
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Galveston, Texas
+
+Return Location: Galveston, Texas
+
+Ship Name: Liberty of the Seas
+
+Port Locations:
+Galveston, Texas
+Roatan, Honduras
+Belize City, Belize
+Cozumel, Mexico
+
+Port Tags:
+Texas
+Honduras
+Belize
+Mexico
+
+Cruise Subtitle: Texas → Honduras → Belize → Mexico
+
+Dates:
+2017-02-19 - 2017-02-26
+2017-03-05 - 2017-03-12
+2017-03-19 - 2017-03-26
+2017-04-02 - 2017-04-09
+2017-04-16 - 2017-04-23
+
+Prices:
+Regular Price: 630
+Sale Price: 378.00
+
+Itinerary:
+Depart from Galveston, Texas
+Day at Sea
+Day at Sea
+Docked at Roatan, Honduras
+Tendered at Belize City, Belize
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Galveston, Texas
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Galveston, Texas
+
+Return Location: Galveston, Texas
+
+Ship Name: Liberty of the Seas
+
+Port Locations:
+Galveston, Texas
+Cozumel, Mexico
+George Town, Cayman Islands
+Falmouth, Jamaica
+
+Port Tags:
+Texas
+Mexico
+Cayman Islands
+Jamaica
+
+Cruise Subtitle: Texas → Mexico → Grand Cayman → Jamaica
+
+Dates:
+2017-02-26 - 2017-03-05
+2017-03-12 - 2017-03-19
+2017-03-26 - 2017-04-02
+2017-04-09 - 2017-04-16
+
+Prices:
+Regular Price: 670
+Sale Price: 402.00
+
+Itinerary:
+Depart from Galveston, Texas
+Day at Sea
+Docked at Cozumel, Mexico
+Tendered at George Town, Cayman Islands
+Docked at Falmouth, Jamaica
+Day at Sea
+Day at Sea
+Disembark at Galveston, Texas
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 3
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Galveston, Texas
+
+Return Location: Galveston, Texas
+
+Ship Name: Liberty of the Seas
+
+Port Locations:
+Galveston, Texas
+Cozumel, Mexico
+George Town, Cayman Islands
+Falmouth, Jamaica
+
+Port Tags:
+Texas
+Mexico
+Cayman Islands
+Jamaica
+
+Cruise Subtitle: Texas → Mexico → Grand Cayman → Jamaica
+
+Dates:
+2017-04-23 - 2017-04-30
+
+Prices:
+Regular Price: 555
+Sale Price: 333.00
+
+Itinerary:
+Depart from Galveston, Texas
+Day at Sea
+Docked at Cozumel, Mexico
+Tendered at George Town, Cayman Islands
+Docked at Falmouth, Jamaica
+Day at Sea
+Day at Sea
+Disembark at Galveston, Texas
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 4
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Galveston, Texas
+
+Return Location: Galveston, Texas
+
+Ship Name: Liberty of the Seas
+
+Port Locations:
+Galveston, Texas
+Roatan, Honduras
+Belize City, Belize
+Cozumel, Mexico
+
+Port Tags:
+Texas
+Honduras
+Belize
+Mexico
+
+Cruise Subtitle: Texas → Honduras → Belize → Mexico
+
+Dates:
+2017-04-30 - 2017-05-07
+
+Prices:
+Regular Price: 630
+Sale Price: 378.00
+
+Itinerary:
+Depart from Galveston, Texas
+Day at Sea
+Day at Sea
+Docked at Roatan, Honduras
+Tendered at Belize City, Belize
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Galveston, Texas
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 5
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Galveston, Texas
+
+Return Location: Galveston, Texas
+
+Ship Name: Liberty of the Seas
+
+Port Locations:
+Galveston, Texas
+Cozumel, Mexico
+George Town, Cayman Islands
+Falmouth, Jamaica
+
+Port Tags:
+Texas
+Mexico
+Cayman Islands
+Jamaica
+
+Cruise Subtitle: Texas → Mexico → Grand Cayman → Jamaica
+
+Dates:
+2017-05-07 - 2017-05-14
+2017-05-21 - 2017-05-28
+2017-06-04 - 2017-06-11
+2017-06-18 - 2017-06-25
+2017-07-02 - 2017-07-09
+2017-07-16 - 2017-07-23
+2017-07-30 - 2017-08-06
+2017-08-13 - 2017-08-20
+2017-08-27 - 2017-09-03
+2017-09-10 - 2017-09-17
+2017-09-24 - 2017-10-01
+2017-10-08 - 2017-10-15
+2017-10-22 - 2017-10-29
+
+Prices:
+Regular Price: 490
+Sale Price: 294.00
+
+Itinerary:
+Depart from Galveston, Texas
+Day at Sea
+Docked at Cozumel, Mexico
+Tendered at George Town, Cayman Islands
+Docked at Falmouth, Jamaica
+Day at Sea
+Day at Sea
+Disembark at Galveston, Texas
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 6
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Galveston, Texas
+
+Return Location: Galveston, Texas
+
+Ship Name: Liberty of the Seas
+
+Port Locations:
+Galveston, Texas
+Roatan, Honduras
+Puerto Costa Maya, Mexico
+Cozumel, Mexico
+
+Port Tags:
+Texas
+Honduras
+Mexico
+
+Cruise Subtitle: Texas → Honduras → Mexico
+
+Dates:
+2017-05-14 - 2017-05-21
+2017-05-28 - 2017-06-04
+2017-06-11 - 2017-06-18
+2017-06-25 - 2017-07-02
+2017-07-09 - 2017-07-16
+2017-07-23 - 2017-07-30
+2017-08-06 - 2017-08-13
+2017-08-20 - 2017-08-27
+2017-09-03 - 2017-09-10
+2017-09-17 - 2017-09-24
+2017-10-01 - 2017-10-08
+2017-10-15 - 2017-10-22
+2017-10-29 - 2017-11-05
+
+Prices:
+Regular Price: 479
+Sale Price: 287.40
+
+Itinerary:
+Depart from Galveston, Texas
+Day at Sea
+Day at Sea
+Docked at Roatan, Honduras
+Docked at Puerto Costa Maya, Mexico
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Galveston, Texas
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 7
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Galveston, Texas
+
+Return Location: Galveston, Texas
+
+Ship Name: Liberty of the Seas
+
+Port Locations:
+Galveston, Texas
+Roatan, Honduras
+Puerto Costa Maya, Mexico
+Cozumel, Mexico
+
+Port Tags:
+Texas
+Honduras
+Mexico
+
+Cruise Subtitle: Texas → Honduras → Mexico
+
+Dates:
+2017-11-05 - 2017-11-12
+2017-11-19 - 2017-11-26
+2017-12-03 - 2017-12-10
+2017-12-17 - 2017-12-24
+2018-01-14 - 2018-01-21
+2018-01-28 - 2018-02-04
+2018-02-11 - 2018-02-18
+2018-02-25 - 2018-03-04
+2018-03-11 - 2018-03-18
+2018-03-25 - 2018-04-01
+2018-04-08 - 2018-04-15
+2018-04-22 - 2018-04-29
+
+Prices:
+Regular Price: 479
+Sale Price: 287.40
+
+Itinerary:
+Depart from Galveston, Texas
+Day at Sea
+Day at Sea
+Docked at Roatan, Honduras
+Docked at Puerto Costa Maya, Mexico
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Galveston, Texas
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 8
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Galveston, Texas
+
+Return Location: Galveston, Texas
+
+Ship Name: Liberty of the Seas
+
+Port Locations:
+Galveston, Texas
+Cozumel, Mexico
+George Town, Cayman Islands
+Falmouth, Jamaica
+
+Port Tags:
+Texas
+Mexico
+Cayman Islands
+Jamaica
+
+Cruise Subtitle: Texas → Mexico → Grand Cayman → Jamaica
+
+Dates:
+2017-11-12 - 2017-11-19
+2017-11-26 - 2017-12-03
+2017-12-10 - 2017-12-17
+2018-01-07 - 2018-01-14
+2018-01-21 - 2018-01-28
+2018-02-04 - 2018-02-11
+2018-02-18 - 2018-02-25
+2018-03-04 - 2018-03-11
+2018-03-18 - 2018-03-25
+2018-04-01 - 2018-04-08
+2018-04-15 - 2018-04-22
+2018-04-29 - 2018-05-06
+
+Prices:
+Regular Price: 536
+Sale Price: 321.60
+
+Itinerary:
+Depart from Galveston, Texas
+Day at Sea
+Docked at Cozumel, Mexico
+Tendered at George Town, Cayman Islands
+Docked at Falmouth, Jamaica
+Day at Sea
+Day at Sea
+Disembark at Galveston, Texas
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Holiday Cruise 
+**************************************************************
+
+Index: 9
+
+Cruise Title: 7 Night - Western Caribbean Holiday Cruise 
+
+Departure Location: Galveston, Texas
+
+Return Location: Galveston, Texas
+
+Ship Name: Liberty of the Seas
+
+Port Locations:
+Galveston, Texas
+Cozumel, Mexico
+George Town, Cayman Islands
+Falmouth, Jamaica
+
+Port Tags:
+Texas
+Mexico
+Cayman Islands
+Jamaica
+
+Cruise Subtitle: Texas → Mexico → Grand Cayman → Jamaica
+
+Dates:
+2017-12-24 - 2017-12-31
+
+Prices:
+Regular Price: 1394
+Sale Price: 836.40
+
+Itinerary:
+Depart from Galveston, Texas
+Day at Sea
+Docked at Cozumel, Mexico
+Tendered at George Town, Cayman Islands
+Docked at Falmouth, Jamaica
+Day at Sea
+Day at Sea
+Disembark at Galveston, Texas
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Holiday Cruise 
+**************************************************************
+
+Index: 10
+
+Cruise Title: 7 Night - Western Caribbean Holiday Cruise 
+
+Departure Location: Galveston, Texas
+
+Return Location: Galveston, Texas
+
+Ship Name: Liberty of the Seas
+
+Port Locations:
+Galveston, Texas
+Cozumel, Mexico
+Roatan, Honduras
+Puerto Costa Maya, Mexico
+
+Port Tags:
+Texas
+Mexico
+Honduras
+
+Cruise Subtitle: Texas → Mexico → Honduras
+
+Dates:
+2017-12-31 - 2018-01-07
+
+Prices:
+Regular Price: 1049
+Sale Price: 629.40
+
+Itinerary:
+Depart from Galveston, Texas
+Day at Sea
+Docked at Cozumel, Mexico
+Docked at Roatan, Honduras
+Docked at Puerto Costa Maya, Mexico
+Day at Sea
+Day at Sea
+Disembark at Galveston, Texas
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (0):
+

@@ -1,0 +1,1114 @@
+
+
+**************************************************************
+4 Night - Bermuda Cruise 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 4 Night - Bermuda Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+King's Wharf, Bermuda
+
+Port Tags:
+New Jersey
+Bermuda
+
+Cruise Subtitle: New Jersey → Bermuda
+
+Dates:
+2017-06-22 - 2017-06-26
+
+Prices:
+Regular Price: 804
+Sale Price: 482.40
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Docked at King's Wharf, Bermuda
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Bermuda Cruise 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 5 Night - Bermuda Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+King's Wharf, Bermuda
+
+Port Tags:
+New Jersey
+Bermuda
+
+Cruise Subtitle: New Jersey → Bermuda
+
+Dates:
+2017-05-06 - 2017-05-11
+2017-05-20 - 2017-05-25
+2017-06-03 - 2017-06-08
+2017-06-17 - 2017-06-22
+2017-07-01 - 2017-07-06
+2017-07-15 - 2017-07-20
+2017-07-29 - 2017-08-03
+2017-08-12 - 2017-08-17
+2017-08-26 - 2017-08-31
+2017-09-09 - 2017-09-14
+2017-09-23 - 2017-09-28
+2017-10-07 - 2017-10-12
+
+Prices:
+Regular Price: 639
+Sale Price: 383.40
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Docked at King's Wharf, Bermuda
+Docked at King's Wharf, Bermuda
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Canada & New England Cruise 
+**************************************************************
+
+Index: 3
+
+Cruise Title: 5 Night - Canada & New England Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Bar Harbor, Maine
+Halifax, Nova Scotia
+
+Port Tags:
+New Jersey
+Maine
+Nova Scotia
+
+Cruise Subtitle: New Jersey → Maine → Nova Scotia
+
+Dates:
+2017-06-26 - 2017-07-01
+
+Prices:
+Regular Price: 998
+Sale Price: 598.80
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Tendered at Bar Harbor, Maine
+Docked at Halifax, Nova Scotia
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Bermuda & Boston Cruise 
+**************************************************************
+
+Index: 4
+
+Cruise Title: 7 Night - Bermuda & Boston Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+King's Wharf, Bermuda
+Boston, Massachusetts
+
+Port Tags:
+New Jersey
+Bermuda
+Massachusetts
+
+Cruise Subtitle: New Jersey → Bermuda → Massachusetts
+
+Dates:
+2017-04-29 - 2017-05-06
+
+Prices:
+Regular Price: 708
+Sale Price: 424.80
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Docked at King's Wharf, Bermuda
+Docked at King's Wharf, Bermuda
+Day at Sea
+Docked at Boston, Massachusetts
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 5
+
+Cruise Title: 7 Night - Bahamas Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Orlando (Port Canaveral), Florida
+CocoCay, Bahamas
+Nassau, Bahamas
+
+Port Tags:
+New Jersey
+Florida
+Bahamas
+
+Cruise Subtitle: New Jersey → Florida → Bahamas
+
+Dates:
+
+Prices:
+Regular Price: 776
+Sale Price: 465.60
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Docked at Orlando (Port Canaveral), Florida
+Tendered at CocoCay, Bahamas
+Docked at Nassau, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 6
+
+Cruise Title: 7 Night - Bahamas Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Orlando (Port Canaveral), Florida
+CocoCay, Bahamas
+Nassau, Bahamas
+
+Port Tags:
+New Jersey
+Florida
+Bahamas
+
+Cruise Subtitle: New Jersey → Florida → Bahamas
+
+Dates:
+2017-10-21 - 2017-10-28
+
+Prices:
+Regular Price: 724
+Sale Price: 434.40
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Docked at Orlando (Port Canaveral), Florida
+Tendered at CocoCay, Bahamas
+Docked at Nassau, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 7
+
+Cruise Title: 7 Night - Bahamas Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Orlando (Port Canaveral), Florida
+CocoCay, Bahamas
+Nassau, Bahamas
+
+Port Tags:
+New Jersey
+Florida
+Bahamas
+
+Cruise Subtitle: New Jersey → Florida → Bahamas
+
+Dates:
+2017-10-28 - 2017-11-04
+2017-11-04 - 2017-11-11
+2017-11-11 - 2017-11-18
+2017-11-18 - 2017-11-25
+2017-11-25 - 2017-12-02
+2018-03-17 - 2018-03-24
+2018-03-24 - 2018-03-31
+2018-03-31 - 2018-04-07
+2018-04-07 - 2018-04-14
+2018-04-14 - 2018-04-21
+2018-04-21 - 2018-04-28
+
+Prices:
+Regular Price: 675
+Sale Price: 405.00
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Docked at Orlando (Port Canaveral), Florida
+Tendered at CocoCay, Bahamas
+Docked at Nassau, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 8
+
+Cruise Title: 8 Night - Bahamas Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Orlando (Port Canaveral), Florida
+CocoCay, Bahamas
+Nassau, Bahamas
+
+Port Tags:
+New Jersey
+Florida
+Bahamas
+
+Cruise Subtitle: New Jersey → Florida → Bahamas
+
+Dates:
+2017-04-09 - 2017-04-17
+
+Prices:
+Regular Price: 2229
+Sale Price: 1337.40
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Day at Sea
+Docked at Orlando (Port Canaveral), Florida
+Tendered at CocoCay, Bahamas
+Docked at Nassau, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 9
+
+Cruise Title: 8 Night - Bahamas Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Orlando (Port Canaveral), Florida
+CocoCay, Bahamas
+Nassau, Bahamas
+
+Port Tags:
+New Jersey
+Florida
+Bahamas
+
+Cruise Subtitle: New Jersey → Florida → Bahamas
+
+Dates:
+2017-12-14 - 2017-12-22
+
+Prices:
+Regular Price: 674
+Sale Price: 404.40
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Day at Sea
+Docked at Orlando (Port Canaveral), Florida
+Tendered at CocoCay, Bahamas
+Docked at Nassau, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Bahamas Holiday Cruise 
+**************************************************************
+
+Index: 10
+
+Cruise Title: 8 Night - Bahamas Holiday Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Orlando (Port Canaveral), Florida
+CocoCay, Bahamas
+Nassau, Bahamas
+
+Port Tags:
+New Jersey
+Florida
+Bahamas
+
+Cruise Subtitle: New Jersey → Florida → Bahamas
+
+Dates:
+2017-12-22 - 2017-12-30
+
+Prices:
+Regular Price: 1189
+Sale Price: 713.40
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Day at Sea
+Docked at Orlando (Port Canaveral), Florida
+Tendered at CocoCay, Bahamas
+Docked at Nassau, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Bahamas Holiday Cruise 
+**************************************************************
+
+Index: 11
+
+Cruise Title: 8 Night - Bahamas Holiday Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Orlando (Port Canaveral), Florida
+Nassau, Bahamas
+CocoCay, Bahamas
+
+Port Tags:
+New Jersey
+Florida
+Bahamas
+
+Cruise Subtitle: New Jersey → Florida → Bahamas
+
+Dates:
+2017-12-30 - 2018-01-07
+
+Prices:
+Regular Price: 1174
+Sale Price: 704.40
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Day at Sea
+Docked at Orlando (Port Canaveral), Florida
+Docked at Nassau, Bahamas
+Tendered at CocoCay, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 12
+
+Cruise Title: 8 Night - Bahamas Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Orlando (Port Canaveral), Florida
+CocoCay, Bahamas
+Nassau, Bahamas
+
+Port Tags:
+New Jersey
+Florida
+Bahamas
+
+Cruise Subtitle: New Jersey → Florida → Bahamas
+
+Dates:
+2018-02-09 - 2018-02-17
+2018-03-09 - 2018-03-17
+
+Prices:
+Regular Price: 877
+Sale Price: 526.20
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Day at Sea
+Docked at Orlando (Port Canaveral), Florida
+Tendered at CocoCay, Bahamas
+Docked at Nassau, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 13
+
+Cruise Title: 8 Night - Bahamas Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Orlando (Port Canaveral), Florida
+Nassau, Bahamas
+CocoCay, Bahamas
+
+Port Tags:
+New Jersey
+Florida
+Bahamas
+
+Cruise Subtitle: New Jersey → Florida → Bahamas
+
+Dates:
+2018-02-17 - 2018-02-25
+
+Prices:
+Regular Price: 884
+Sale Price: 530.40
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Day at Sea
+Docked at Orlando (Port Canaveral), Florida
+Docked at Nassau, Bahamas
+Tendered at CocoCay, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Canada & New England Cruise 
+**************************************************************
+
+Index: 14
+
+Cruise Title: 9 Night - Canada & New England Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Boston, Massachusetts
+Portland, Maine
+Bar Harbor, Maine
+Saint John, New Brunswick
+Halifax, Nova Scotia
+
+Port Tags:
+New Jersey
+Massachusetts
+Maine
+New Brunswick
+Nova Scotia
+
+Cruise Subtitle: New Jersey → Massachusetts → Maine → New Brunswick → Nova Scotia
+
+Dates:
+2017-08-31 - 2017-09-09
+2017-09-14 - 2017-09-23
+
+Prices:
+Regular Price: 914
+Sale Price: 548.40
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Docked at Boston, Massachusetts
+Docked at Portland, Maine
+Tendered at Bar Harbor, Maine
+Docked at Saint John, New Brunswick
+Day at Sea
+Docked at Halifax, Nova Scotia
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Canada & New England Cruise 
+**************************************************************
+
+Index: 15
+
+Cruise Title: 9 Night - Canada & New England Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Boston, Massachusetts
+Portland, Maine
+Bar Harbor, Maine
+Halifax, Nova Scotia
+Saint John, New Brunswick
+
+Port Tags:
+New Jersey
+Massachusetts
+Maine
+Nova Scotia
+New Brunswick
+
+Cruise Subtitle: New Jersey → Massachusetts → Maine → Nova Scotia → New Brunswick
+
+Dates:
+2017-09-28 - 2017-10-07
+
+Prices:
+Regular Price: 969
+Sale Price: 581.40
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Docked at Boston, Massachusetts
+Docked at Portland, Maine
+Tendered at Bar Harbor, Maine
+Docked at Halifax, Nova Scotia
+Day at Sea
+Docked at Saint John, New Brunswick
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Canada & New England Cruise 
+**************************************************************
+
+Index: 16
+
+Cruise Title: 9 Night - Canada & New England Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Boston, Massachusetts
+Bar Harbor, Maine
+Portland, Maine
+Halifax, Nova Scotia
+Saint John, New Brunswick
+
+Port Tags:
+New Jersey
+Massachusetts
+Maine
+Nova Scotia
+New Brunswick
+
+Cruise Subtitle: New Jersey → Massachusetts → Maine → Nova Scotia → New Brunswick
+
+Dates:
+2017-10-12 - 2017-10-21
+
+Prices:
+Regular Price: 976
+Sale Price: 585.60
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Docked at Boston, Massachusetts
+Tendered at Bar Harbor, Maine
+Docked at Portland, Maine
+Docked at Halifax, Nova Scotia
+Day at Sea
+Docked at Saint John, New Brunswick
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Bermuda And Caribbean Cruise 
+**************************************************************
+
+Index: 17
+
+Cruise Title: 9 Night - Bermuda And Caribbean Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+King's Wharf, Bermuda
+Philipsburg, St. Maarten
+San Juan, Puerto Rico
+Labadee, Haiti
+
+Port Tags:
+New Jersey
+Bermuda
+St. Maarten
+Puerto Rico
+Haiti
+
+Cruise Subtitle: New Jersey → Bermuda → St. Maarten → Puerto Rico → Haiti
+
+Dates:
+2017-05-11 - 2017-05-20
+2017-05-25 - 2017-06-03
+2017-06-08 - 2017-06-17
+2017-07-06 - 2017-07-15
+2017-07-20 - 2017-07-29
+2017-08-03 - 2017-08-12
+2017-08-17 - 2017-08-26
+
+Prices:
+Regular Price: 1298
+Sale Price: 778.80
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Docked at King's Wharf, Bermuda
+Day at Sea
+Docked at Philipsburg, St. Maarten
+Docked at San Juan, Puerto Rico
+Docked at Labadee, Haiti
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 18
+
+Cruise Title: 9 Night - Bahamas Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+Orlando (Port Canaveral), Florida
+Miami, Florida
+Nassau, Bahamas
+CocoCay, Bahamas
+
+Port Tags:
+New Jersey
+Florida
+Bahamas
+
+Cruise Subtitle: New Jersey → Florida → Bahamas
+
+Dates:
+2018-01-19 - 2018-01-28
+
+Prices:
+Regular Price: 967
+Sale Price: 580.20
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Day at Sea
+Docked at Orlando (Port Canaveral), Florida
+Docked at Miami, Florida
+Docked at Nassau, Bahamas
+Tendered at CocoCay, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 19
+
+Cruise Title: 12 Night - Southern Caribbean Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+San Juan, Puerto Rico
+Philipsburg, St. Maarten
+St. Johns, Antigua
+Fort de France, Martinique
+Bridgetown, Barbados
+Basseterre, St. Kitts
+
+Port Tags:
+New Jersey
+Puerto Rico
+St. Maarten
+Antigua
+Martinique
+Barbados
+St. Kitts
+
+Cruise Subtitle: New Jersey → Puerto Rico → St. Maarten → Antigua → Martinique → Barbados → St. Kitts
+
+Dates:
+2017-04-17 - 2017-04-29
+
+Prices:
+Regular Price: 1389
+Sale Price: 833.40
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Day at Sea
+Docked at San Juan, Puerto Rico
+Docked at Philipsburg, St. Maarten
+Docked at St. Johns, Antigua
+Docked at Fort de France, Martinique
+Docked at Bridgetown, Barbados
+Docked at Basseterre, St. Kitts
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 20
+
+Cruise Title: 12 Night - Southern Caribbean Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+San Juan, Puerto Rico
+Philipsburg, St. Maarten
+Castries, St. Lucia
+Bridgetown, Barbados
+St. Johns, Antigua
+Basseterre, St. Kitts
+
+Port Tags:
+New Jersey
+Puerto Rico
+St. Maarten
+St. Lucia
+Barbados
+Antigua
+St. Kitts
+
+Cruise Subtitle: New Jersey → Puerto Rico → St. Maarten → St. Lucia → Barbados → Antigua → St. Kitts
+
+Dates:
+2017-12-02 - 2017-12-14
+
+Prices:
+Regular Price: 1232
+Sale Price: 739.20
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Day at Sea
+Docked at San Juan, Puerto Rico
+Docked at Philipsburg, St. Maarten
+Docked at Castries, St. Lucia
+Docked at Bridgetown, Barbados
+Docked at St. Johns, Antigua
+Docked at Basseterre, St. Kitts
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 21
+
+Cruise Title: 12 Night - Southern Caribbean Cruise 
+
+Departure Location: Cape Liberty, New Jersey
+
+Return Location: Cape Liberty, New Jersey
+
+Ship Name: Anthem of the Seas
+
+Port Locations:
+Cape Liberty, New Jersey
+San Juan, Puerto Rico
+Philipsburg, St. Maarten
+St. Johns, Antigua
+Castries, St. Lucia
+Bridgetown, Barbados
+Basseterre, St. Kitts
+
+Port Tags:
+New Jersey
+Puerto Rico
+St. Maarten
+Antigua
+St. Lucia
+Barbados
+St. Kitts
+
+Cruise Subtitle: New Jersey → Puerto Rico → St. Maarten → Antigua → St. Lucia → Barbados → St. Kitts
+
+Dates:
+2018-01-07 - 2018-01-19
+2018-01-28 - 2018-02-09
+2018-02-25 - 2018-03-09
+
+Prices:
+Regular Price: 1252
+Sale Price: 751.20
+
+Itinerary:
+Depart from Cape Liberty, New Jersey
+Day at Sea
+Day at Sea
+Docked at San Juan, Puerto Rico
+Docked at Philipsburg, St. Maarten
+Docked at St. Johns, Antigua
+Docked at Castries, St. Lucia
+Docked at Bridgetown, Barbados
+Docked at Basseterre, St. Kitts
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Cape Liberty, New Jersey
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (0):
+

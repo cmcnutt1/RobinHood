@@ -1,0 +1,514 @@
+
+
+**************************************************************
+5 Night - Bermuda Cruise 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 5 Night - Bermuda Cruise 
+
+Departure Location: Baltimore, Maryland
+
+Return Location: Baltimore, Maryland
+
+Ship Name: Grandeur of the Seas
+
+Port Locations:
+Baltimore, Maryland
+King's Wharf, Bermuda
+
+Port Tags:
+Maryland
+Bermuda
+
+Cruise Subtitle: Maryland → Bermuda
+
+Dates:
+2017-05-13 - 2017-05-18
+2017-05-27 - 2017-06-01
+2017-06-10 - 2017-06-15
+2017-06-24 - 2017-06-29
+2017-07-08 - 2017-07-13
+2017-07-22 - 2017-07-27
+2017-08-05 - 2017-08-10
+2017-08-19 - 2017-08-24
+2017-09-02 - 2017-09-07
+2017-09-16 - 2017-09-21
+2017-09-30 - 2017-10-05
+2017-10-14 - 2017-10-19
+
+Prices:
+Regular Price: 568
+Sale Price: 340.80
+
+Itinerary:
+Depart from Baltimore, Maryland
+Day at Sea
+Docked at King's Wharf, Bermuda
+Docked at King's Wharf, Bermuda
+Day at Sea
+Disembark at Baltimore, Maryland
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Bahamas Cruise 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 7 Night - Bahamas Cruise 
+
+Departure Location: Baltimore, Maryland
+
+Return Location: Baltimore, Maryland
+
+Ship Name: Grandeur of the Seas
+
+Port Locations:
+Baltimore, Maryland
+Orlando (Port Canaveral), Florida
+Nassau, Bahamas
+CocoCay, Bahamas
+
+Port Tags:
+Maryland
+Florida
+Bahamas
+
+Cruise Subtitle: Maryland → Florida → Bahamas
+
+Dates:
+2017-04-17 - 2017-04-24
+
+Prices:
+Regular Price: 857
+Sale Price: 514.20
+
+Itinerary:
+Depart from Baltimore, Maryland
+Day at Sea
+Docked at Orlando (Port Canaveral), Florida
+Docked at Nassau, Bahamas
+Tendered at CocoCay, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Baltimore, Maryland
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Canada & New England Cruise 
+**************************************************************
+
+Index: 3
+
+Cruise Title: 9 Night - Canada & New England Cruise 
+
+Departure Location: Baltimore, Maryland
+
+Return Location: Baltimore, Maryland
+
+Ship Name: Grandeur of the Seas
+
+Port Locations:
+Baltimore, Maryland
+Boston, Massachusetts
+Portland, Maine
+Bar Harbor, Maine
+Saint John, New Brunswick
+Halifax, Nova Scotia
+
+Port Tags:
+Maryland
+Massachusetts
+Maine
+New Brunswick
+Nova Scotia
+
+Cruise Subtitle: Maryland → Massachusetts → Maine → New Brunswick → Nova Scotia
+
+Dates:
+2017-06-01 - 2017-06-10
+2017-06-29 - 2017-07-08
+2017-07-27 - 2017-08-05
+2017-09-07 - 2017-09-16
+2017-09-21 - 2017-09-30
+2017-10-05 - 2017-10-14
+2017-10-19 - 2017-10-28
+
+Prices:
+Regular Price: 835
+Sale Price: 501.00
+
+Itinerary:
+Depart from Baltimore, Maryland
+Day at Sea
+Docked at Boston, Massachusetts
+Docked at Portland, Maine
+Tendered at Bar Harbor, Maine
+Docked at Saint John, New Brunswick
+Docked at Halifax, Nova Scotia
+Day at Sea
+Day at Sea
+Disembark at Baltimore, Maryland
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Bermuda & Bahamas Cruise 
+**************************************************************
+
+Index: 4
+
+Cruise Title: 9 Night - Bermuda & Bahamas Cruise 
+
+Departure Location: Baltimore, Maryland
+
+Return Location: Baltimore, Maryland
+
+Ship Name: Grandeur of the Seas
+
+Port Locations:
+Baltimore, Maryland
+King's Wharf, Bermuda
+Nassau, Bahamas
+CocoCay, Bahamas
+
+Port Tags:
+Maryland
+Bermuda
+Bahamas
+
+Cruise Subtitle: Maryland → Bermuda → Bahamas
+
+Dates:
+2017-05-18 - 2017-05-27
+2017-06-15 - 2017-06-24
+2017-07-13 - 2017-07-22
+2017-08-10 - 2017-08-19
+2017-08-24 - 2017-09-02
+
+Prices:
+Regular Price: 857
+Sale Price: 514.20
+
+Itinerary:
+Depart from Baltimore, Maryland
+Day at Sea
+Docked at King's Wharf, Bermuda
+Docked at King's Wharf, Bermuda
+Day at Sea
+Docked at Nassau, Bahamas
+Tendered at CocoCay, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Baltimore, Maryland
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Southeast Coast & Bahamas Cruise 
+**************************************************************
+
+Index: 5
+
+Cruise Title: 9 Night - Southeast Coast & Bahamas Cruise 
+
+Departure Location: Baltimore, Maryland
+
+Return Location: Baltimore, Maryland
+
+Ship Name: Grandeur of the Seas
+
+Port Locations:
+Baltimore, Maryland
+Orlando (Port Canaveral), Florida
+Grand Bahama, Bahamas
+CocoCay, Bahamas
+Nassau, Bahamas
+Miami, Florida
+
+Port Tags:
+Maryland
+Florida
+Bahamas
+
+Cruise Subtitle: Maryland → Florida → Bahamas
+
+Dates:
+2017-11-09 - 2017-11-18
+2018-02-01 - 2018-02-10
+2018-03-15 - 2018-03-24
+2018-04-26 - 2018-05-05
+
+Prices:
+Regular Price: 613
+Sale Price: 367.80
+
+Itinerary:
+Depart from Baltimore, Maryland
+Day at Sea
+Docked at Charleston, South Carolina
+Docked at Orlando (Port Canaveral), Florida
+Docked at Miami, Florida
+Docked at Nassau, Bahamas
+Tendered at CocoCay, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Baltimore, Maryland
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Southeast Coast & Bahamas Cruise 
+**************************************************************
+
+Index: 6
+
+Cruise Title: 9 Night - Southeast Coast & Bahamas Cruise 
+
+Departure Location: Baltimore, Maryland
+
+Return Location: Baltimore, Maryland
+
+Ship Name: Grandeur of the Seas
+
+Port Locations:
+Baltimore, Maryland
+Charleston, South Carolina
+Orlando (Port Canaveral), Florida
+Grand Bahama, Bahamas
+Nassau, Bahamas
+CocoCay, Bahamas
+
+Port Tags:
+Maryland
+South Carolina
+Florida
+Bahamas
+
+Cruise Subtitle: Maryland → South Carolina → Florida → Bahamas
+
+Dates:
+2017-11-30 - 2017-12-09
+2018-01-11 - 2018-01-20
+2018-02-22 - 2018-03-03
+2018-04-05 - 2018-04-14
+
+Prices:
+Regular Price: 596
+Sale Price: 357.60
+
+Itinerary:
+Depart from Baltimore, Maryland
+Day at Sea
+Docked at Charleston, South Carolina
+Docked at Orlando (Port Canaveral), Florida
+Docked at Grand Bahama, Bahamas
+Docked at Nassau, Bahamas
+Tendered at CocoCay, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Baltimore, Maryland
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Southeast Coast & Bahamas Cruise 
+**************************************************************
+
+Index: 7
+
+Cruise Title: 9 Night - Southeast Coast & Bahamas Cruise 
+
+Departure Location: Baltimore, Maryland
+
+Return Location: Baltimore, Maryland
+
+Ship Name: Grandeur of the Seas
+
+Port Locations:
+Baltimore, Maryland
+Charleston, South Carolina
+Orlando (Port Canaveral), Florida
+Grand Bahama, Bahamas
+Nassau, Bahamas
+CocoCay, Bahamas
+
+Port Tags:
+Maryland
+South Carolina
+Florida
+Bahamas
+
+Cruise Subtitle: Maryland → South Carolina → Florida → Bahamas
+
+Dates:
+2018-01-02 - 2018-01-11
+
+Prices:
+Regular Price: 633
+Sale Price: 379.80
+
+Itinerary:
+Depart from Baltimore, Maryland
+Day at Sea
+Docked at Charleston, South Carolina
+Docked at Orlando (Port Canaveral), Florida
+Docked at Grand Bahama, Bahamas
+Docked at Nassau, Bahamas
+Tendered at CocoCay, Bahamas
+Day at Sea
+Day at Sea
+Disembark at Baltimore, Maryland
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 8
+
+Cruise Title: 12 Night - Southern Caribbean Cruise 
+
+Departure Location: Baltimore, Maryland
+
+Return Location: Baltimore, Maryland
+
+Ship Name: Grandeur of the Seas
+
+Port Locations:
+Baltimore, Maryland
+St. Thomas, U.S. Virgin Islands
+St. Johns, Antigua
+Castries, St. Lucia
+Basseterre, St. Kitts
+Philipsburg, St. Maarten
+
+Port Tags:
+Maryland
+U.S. Virgin Islands
+Antigua
+St. Lucia
+St. Kitts
+St. Maarten
+
+Cruise Subtitle: Maryland → St. Thomas → Antigua → St. Lucia → St. Kitts → St. Maarten
+
+Dates:
+2017-10-28 - 2017-11-09
+2017-11-18 - 2017-11-30
+2017-12-09 - 2017-12-21
+2018-01-20 - 2018-02-01
+2018-02-10 - 2018-02-22
+2018-03-03 - 2018-03-15
+2018-03-24 - 2018-04-05
+2018-04-14 - 2018-04-26
+
+Prices:
+Regular Price: 902
+Sale Price: 541.20
+
+Itinerary:
+Depart from Baltimore, Maryland
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at St. Thomas, U.S. Virgin Islands
+Docked at St. Johns, Antigua
+Docked at Castries, St. Lucia
+Docked at Basseterre, St. Kitts
+Docked at Philipsburg, St. Maarten
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Baltimore, Maryland
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Southern Caribbean Holidays 
+**************************************************************
+
+Index: 9
+
+Cruise Title: 12 Night - Southern Caribbean Holidays 
+
+Departure Location: Baltimore, Maryland
+
+Return Location: Baltimore, Maryland
+
+Ship Name: Grandeur of the Seas
+
+Port Locations:
+Baltimore, Maryland
+St. Thomas, U.S. Virgin Islands
+St. Johns, Antigua
+Fort de France, Martinique
+Basseterre, St. Kitts
+Philipsburg, St. Maarten
+
+Port Tags:
+Maryland
+U.S. Virgin Islands
+Antigua
+Martinique
+St. Kitts
+St. Maarten
+
+Cruise Subtitle: Maryland → St. Thomas → Antigua → Martinique → St. Kitts → St. Maarten
+
+Dates:
+2017-12-21 - 2018-01-02
+
+Prices:
+Regular Price: 1504
+Sale Price: 902.40
+
+Itinerary:
+Depart from Baltimore, Maryland
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at St. Thomas, U.S. Virgin Islands
+Docked at St. Johns, Antigua
+Docked at Fort de France, Martinique
+Docked at Basseterre, St. Kitts
+Docked at Philipsburg, St. Maarten
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Baltimore, Maryland
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (0):
+

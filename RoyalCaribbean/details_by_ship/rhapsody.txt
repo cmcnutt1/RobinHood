@@ -1,0 +1,820 @@
+
+
+**************************************************************
+6 Night - Croatia & Greece Cruise 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 6 Night - Croatia & Greece Cruise 
+
+Departure Location: Venice, Italy
+
+Return Location: Venice, Italy
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Venice, Italy
+Split, Croatia
+Athens (Piraeus), Greece
+Katakolon, Greece
+
+Port Tags:
+Italy
+Croatia
+Greece
+
+Cruise Subtitle: Italy → Croatia → Greece
+
+Dates:
+2017-07-08 - 2017-07-14
+
+Prices:
+Regular Price: 699
+Sale Price: 419.40
+
+Itinerary:
+Depart from Venice, Italy
+Docked at Split, Croatia
+Day at Sea
+Docked at Athens (Piraeus), Greece
+Docked at Katakolon, Greece
+Day at Sea
+Disembark at Venice, Italy
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Barcelona To Venice Cruise 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 7 Night - Barcelona To Venice Cruise 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Venice, Italy
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Barcelona, Spain
+Monte Carlo (Cannes), France
+Rome (Civitavecchia), Italy
+Naples (Salerno), Italy
+Sicily (Catania), Italy
+Venice, Italy
+
+Port Tags:
+Spain
+France
+Italy
+
+Cruise Subtitle: Spain → France → Italy → Sicily
+
+Dates:
+2017-05-13 - 2017-05-20
+
+Prices:
+Regular Price: 867
+Sale Price: 520.20
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Monte Carlo (Cannes), France
+Day at Sea
+Docked at Rome (Civitavecchia), Italy
+Docked at Naples (Salerno), Italy
+Docked at Sicily (Catania), Italy
+Day at Sea
+Disembark at Venice, Italy
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Greece & Croatia Cruise 
+**************************************************************
+
+Index: 3
+
+Cruise Title: 7 Night - Greece & Croatia Cruise 
+
+Departure Location: Venice, Italy
+
+Return Location: Venice, Italy
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Venice, Italy
+Dubrovnik, Croatia
+Ephesus (Kusadasi), Turkey
+Santorini, Greece
+Katakolon, Greece
+
+Port Tags:
+Italy
+Croatia
+Turkey
+Greece
+
+Cruise Subtitle: Italy → Croatia → Turkey → Greece
+
+Dates:
+2017-05-20 - 2017-05-27
+2017-06-03 - 2017-06-10
+2017-06-17 - 2017-06-24
+2017-07-01 - 2017-07-08
+2017-07-29 - 2017-08-05
+2017-08-12 - 2017-08-19
+2017-08-26 - 2017-09-02
+
+Prices:
+Regular Price: 799
+Sale Price: 479.40
+
+Itinerary:
+Depart from Venice, Italy
+Docked at Dubrovnik, Croatia
+Day at Sea
+Docked at Ephesus (Kusadasi), Turkey
+Tendered at Santorini, Greece
+Docked at Katakolon, Greece
+Day at Sea
+Disembark at Venice, Italy
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Greek Isles Cruise 
+**************************************************************
+
+Index: 4
+
+Cruise Title: 7 Night - Greek Isles Cruise 
+
+Departure Location: Venice, Italy
+
+Return Location: Venice, Italy
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Venice, Italy
+Kotor, Montenegro
+Corfu, Greece
+Athens (Piraeus), Greece
+Mykonos, Greece
+Argostoli, Greece
+
+Port Tags:
+Italy
+Montenegro
+Greece
+
+Cruise Subtitle: Italy → Montenegro → Greece
+
+Dates:
+2017-05-27 - 2017-06-03
+2017-06-10 - 2017-06-17
+2017-06-24 - 2017-07-01
+2017-07-22 - 2017-07-29
+2017-08-05 - 2017-08-12
+2017-08-19 - 2017-08-26
+2017-09-02 - 2017-09-09
+
+Prices:
+Regular Price: 799
+Sale Price: 479.40
+
+Itinerary:
+Depart from Venice, Italy
+Tendered at Kotor, Montenegro
+Docked at Corfu, Greece
+Docked at Athens (Piraeus), Greece
+Tendered at Mykonos, Greece
+Docked at Argostoli, Greece
+Day at Sea
+Disembark at Venice, Italy
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Greece & Croatia Cruise 
+**************************************************************
+
+Index: 5
+
+Cruise Title: 7 Night - Greece & Croatia Cruise 
+
+Departure Location: Venice, Italy
+
+Return Location: Venice, Italy
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Venice, Italy
+Split, Croatia
+Ephesus (Kusadasi), Turkey
+Santorini, Greece
+Katakolon, Greece
+
+Port Tags:
+Italy
+Croatia
+Turkey
+Greece
+
+Cruise Subtitle: Italy → Croatia → Turkey → Greece
+
+Dates:
+2017-09-09 - 2017-09-16
+
+Prices:
+Regular Price: 767
+Sale Price: 460.20
+
+Itinerary:
+Depart from Venice, Italy
+Docked at Split, Croatia
+Day at Sea
+Docked at Ephesus (Kusadasi), Turkey
+Tendered at Santorini, Greece
+Docked at Katakolon, Greece
+Day at Sea
+Disembark at Venice, Italy
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Greek Isles Cruise 
+**************************************************************
+
+Index: 6
+
+Cruise Title: 7 Night - Greek Isles Cruise 
+
+Departure Location: Venice, Italy
+
+Return Location: Venice, Italy
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Venice, Italy
+Kotor, Montenegro
+Corfu, Greece
+Athens (Piraeus), Greece
+Mykonos, Greece
+Argostoli, Greece
+
+Port Tags:
+Italy
+Montenegro
+Greece
+
+Cruise Subtitle: Italy → Montenegro → Greece
+
+Dates:
+2017-09-16 - 2017-09-23
+2017-09-30 - 2017-10-07
+2017-10-14 - 2017-10-21
+
+Prices:
+Regular Price: 717
+Sale Price: 430.20
+
+Itinerary:
+Depart from Venice, Italy
+Tendered at Kotor, Montenegro
+Docked at Corfu, Greece
+Docked at Athens (Piraeus), Greece
+Tendered at Mykonos, Greece
+Docked at Argostoli, Greece
+Day at Sea
+Disembark at Venice, Italy
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Greece & Croatia Cruise 
+**************************************************************
+
+Index: 7
+
+Cruise Title: 7 Night - Greece & Croatia Cruise 
+
+Departure Location: Venice, Italy
+
+Return Location: Venice, Italy
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Venice, Italy
+Dubrovnik, Croatia
+Ephesus (Kusadasi), Turkey
+Santorini, Greece
+Katakolon, Greece
+
+Port Tags:
+Italy
+Croatia
+Turkey
+Greece
+
+Cruise Subtitle: Italy → Croatia → Turkey → Greece
+
+Dates:
+2017-09-23 - 2017-09-30
+2017-10-07 - 2017-10-14
+2017-10-21 - 2017-10-28
+
+Prices:
+Regular Price: 717
+Sale Price: 430.20
+
+Itinerary:
+Depart from Venice, Italy
+Docked at Dubrovnik, Croatia
+Day at Sea
+Docked at Ephesus (Kusadasi), Turkey
+Tendered at Santorini, Greece
+Docked at Katakolon, Greece
+Day at Sea
+Disembark at Venice, Italy
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 8
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Tampa, Florida
+Roatan, Honduras
+Belize City, Belize
+Puerto Costa Maya, Mexico
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Honduras
+Belize
+Mexico
+
+Cruise Subtitle: Florida → Honduras → Belize → Mexico
+
+Dates:
+
+Prices:
+Regular Price: 594
+Sale Price: 356.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Roatan, Honduras
+Tendered at Belize City, Belize
+Docked at Puerto Costa Maya, Mexico
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 9
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Tampa, Florida
+George Town, Cayman Islands
+Cozumel, Mexico
+Belize City, Belize
+Puerto Costa Maya, Mexico
+
+Port Tags:
+Florida
+Cayman Islands
+Mexico
+Belize
+
+Cruise Subtitle: Florida → Grand Cayman → Mexico → Belize
+
+Dates:
+2018-01-07 - 2018-01-14
+2018-01-28 - 2018-02-04
+2018-02-04 - 2018-02-11
+2018-02-11 - 2018-02-18
+2018-02-25 - 2018-03-04
+2018-03-04 - 2018-03-11
+2018-04-01 - 2018-04-08
+2018-04-08 - 2018-04-15
+
+Prices:
+Regular Price: 629
+Sale Price: 377.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Tendered at George Town, Cayman Islands
+Docked at Cozumel, Mexico
+Tendered at Belize City, Belize
+Docked at Puerto Costa Maya, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 10
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Cozumel, Mexico
+Belize City, Belize
+Puerto Costa Maya, Mexico
+
+Port Tags:
+Florida
+Mexico
+Belize
+
+Cruise Subtitle: Florida → Mexico → Belize
+
+Dates:
+2017-11-19 - 2017-11-26
+2017-11-26 - 2017-12-03
+2017-12-03 - 2017-12-10
+2017-12-10 - 2017-12-17
+2017-12-17 - 2017-12-24
+2018-01-14 - 2018-01-21
+2018-01-21 - 2018-01-28
+2018-02-18 - 2018-02-25
+2018-03-11 - 2018-03-18
+2018-03-18 - 2018-03-25
+2018-03-25 - 2018-04-01
+2018-04-15 - 2018-04-22
+2018-04-22 - 2018-04-29
+2018-04-29 - 2018-05-06
+
+Prices:
+Regular Price: 569
+Sale Price: 341.40
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Tendered at Belize City, Belize
+Docked at Puerto Costa Maya, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Holiday Cruise 
+**************************************************************
+
+Index: 11
+
+Cruise Title: 7 Night - Western Caribbean Holiday Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Tampa, Florida
+George Town, Cayman Islands
+Cozumel, Mexico
+Belize City, Belize
+Puerto Costa Maya, Mexico
+
+Port Tags:
+Florida
+Cayman Islands
+Mexico
+Belize
+
+Cruise Subtitle: Florida → Grand Cayman → Mexico → Belize
+
+Dates:
+2017-12-24 - 2017-12-31
+2017-12-31 - 2018-01-07
+
+Prices:
+Regular Price: 859
+Sale Price: 515.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Tendered at George Town, Cayman Islands
+Docked at Cozumel, Mexico
+Tendered at Belize City, Belize
+Docked at Puerto Costa Maya, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Croatia & Greece Cruise 
+**************************************************************
+
+Index: 12
+
+Cruise Title: 8 Night - Croatia & Greece Cruise 
+
+Departure Location: Venice, Italy
+
+Return Location: Venice, Italy
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Venice, Italy
+Dubrovnik, Croatia
+Corfu, Greece
+Santorini, Greece
+Ephesus (Kusadasi), Turkey
+Athens (Piraeus), Greece
+Katakolon, Greece
+
+Port Tags:
+Italy
+Croatia
+Greece
+Turkey
+
+Cruise Subtitle: Italy → Croatia → Greece → Turkey
+
+Dates:
+2017-07-14 - 2017-07-22
+
+Prices:
+Regular Price: 1199
+Sale Price: 719.40
+
+Itinerary:
+Depart from Venice, Italy
+Docked at Dubrovnik, Croatia
+Docked at Corfu, Greece
+Tendered at Santorini, Greece
+Docked at Ephesus (Kusadasi), Turkey
+Docked at Athens (Piraeus), Greece
+Docked at Katakolon, Greece
+Day at Sea
+Disembark at Venice, Italy
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Adriatic & Italy Cruise 
+**************************************************************
+
+Index: 13
+
+Cruise Title: 8 Night - Adriatic & Italy Cruise 
+
+Departure Location: Venice, Italy
+
+Return Location: Barcelona, Spain
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Venice, Italy
+Dubrovnik, Croatia
+Kotor, Montenegro
+Naples (Capri), Italy
+Rome (Civitavecchia), Italy
+Florence/Pisa (Livorno), Italy
+Barcelona, Spain
+
+Port Tags:
+Italy
+Croatia
+Montenegro
+Spain
+
+Cruise Subtitle: Italy → Croatia → Montenegro → Spain
+
+Dates:
+2017-10-28 - 2017-11-05
+
+Prices:
+Regular Price: 816
+Sale Price: 489.60
+
+Itinerary:
+Depart from Venice, Italy
+Docked at Dubrovnik, Croatia
+Tendered at Kotor, Montenegro
+Day at Sea
+Docked at Naples (Capri), Italy
+Docked at Rome (Civitavecchia), Italy
+Docked at Florence/Pisa (Livorno), Italy
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - Florida To Spain Cruise 
+**************************************************************
+
+Index: 14
+
+Cruise Title: 14 Night - Florida To Spain Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Barcelona, Spain
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Philipsburg, St. Maarten
+Malaga, Spain
+Cartagena, Spain
+Barcelona, Spain
+
+Port Tags:
+Florida
+St. Maarten
+Spain
+
+Cruise Subtitle: Florida → St. Maarten → Spain
+
+Dates:
+2017-04-29 - 2017-05-13
+
+Prices:
+Regular Price: 649
+Sale Price: 389.40
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Day at Sea
+Day at Sea
+Docked at Philipsburg, St. Maarten
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Malaga, Spain
+Docked at Cartagena, Spain
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - Canary Islands & Cococay Cruise 
+**************************************************************
+
+Index: 15
+
+Cruise Title: 14 Night - Canary Islands & Cococay Cruise 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Tampa, Florida
+
+Ship Name: Rhapsody of the Seas
+
+Port Locations:
+Barcelona, Spain
+Lanzarote, Canary Islands
+Gran Canaria, Canary Islands
+La Palma, Canary Islands
+CocoCay, Bahamas
+Tampa, Florida
+
+Port Tags:
+Spain
+Canary Islands
+Bahamas
+Florida
+
+Cruise Subtitle: Spain → Canary Islands → Bahamas → Florida
+
+Dates:
+2017-11-05 - 2017-11-19
+
+Prices:
+Regular Price: 659
+Sale Price: 395.40
+
+Itinerary:
+Depart from Barcelona, Spain
+Day at Sea
+Day at Sea
+Docked at Lanzarote, Canary Islands
+Docked at Gran Canaria, Canary Islands
+Docked at La Palma, Canary Islands
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Tendered at CocoCay, Bahamas
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (0):
+

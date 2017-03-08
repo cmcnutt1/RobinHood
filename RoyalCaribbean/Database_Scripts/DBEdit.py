@@ -10,7 +10,7 @@ from LearnMoreScrape import get_itin_learn_more
 #Initialize TinyDB for storing cruise info
 def init_db():
 
-    db = TinyDB('cruise.json')
+    db = TinyDB('../cruise.json')
     return db
 
 def get_dbs():

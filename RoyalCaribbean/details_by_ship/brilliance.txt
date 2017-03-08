@@ -1,0 +1,1532 @@
+
+
+**************************************************************
+4 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 4 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+
+Prices:
+Regular Price: 309
+Sale Price: 185.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 4 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-11-30 - 2017-12-04
+2018-01-11 - 2018-01-15
+2018-01-25 - 2018-01-29
+2018-02-08 - 2018-02-12
+2018-02-22 - 2018-02-26
+2018-03-08 - 2018-03-12
+2018-03-22 - 2018-03-26
+
+Prices:
+Regular Price: 349
+Sale Price: 209.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+4 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 3
+
+Cruise Title: 4 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2018-01-02 - 2018-01-06
+
+Prices:
+Regular Price: 349
+Sale Price: 209.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 4
+
+Cruise Title: 5 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-02-25 - 2017-03-02
+2017-03-11 - 2017-03-16
+2017-03-25 - 2017-03-30
+2017-04-08 - 2017-04-13
+
+Prices:
+Regular Price: 535
+Sale Price: 321.00
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 5
+
+Cruise Title: 5 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+George Town, Cayman Islands
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Cayman Islands
+Mexico
+
+Cruise Subtitle: Florida → Grand Cayman → Mexico
+
+Dates:
+
+Prices:
+Regular Price: 580
+Sale Price: 348.00
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Tendered at George Town, Cayman Islands
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 6
+
+Cruise Title: 5 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+George Town, Cayman Islands
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Cayman Islands
+Mexico
+
+Cruise Subtitle: Florida → Grand Cayman → Mexico
+
+Dates:
+2018-01-06 - 2018-01-11
+2018-01-20 - 2018-01-25
+2018-02-17 - 2018-02-22
+2018-03-03 - 2018-03-08
+2018-03-17 - 2018-03-22
+2018-03-31 - 2018-04-05
+
+Prices:
+Regular Price: 439
+Sale Price: 263.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Tendered at George Town, Cayman Islands
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 7
+
+Cruise Title: 5 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-12-18 - 2017-12-23
+2018-01-29 - 2018-02-03
+2018-02-26 - 2018-03-03
+2018-03-12 - 2018-03-17
+2018-03-26 - 2018-03-31
+
+Prices:
+Regular Price: 449
+Sale Price: 269.40
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Holiday Cruise 
+**************************************************************
+
+Index: 8
+
+Cruise Title: 5 Night - Western Caribbean Holiday Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+George Town, Cayman Islands
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Cayman Islands
+Mexico
+
+Cruise Subtitle: Florida → Grand Cayman → Mexico
+
+Dates:
+2017-12-23 - 2017-12-28
+
+Prices:
+Regular Price: 789
+Sale Price: 473.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Tendered at George Town, Cayman Islands
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+5 Night - Western Caribbean Holiday Cruise 
+**************************************************************
+
+Index: 9
+
+Cruise Title: 5 Night - Western Caribbean Holiday Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Cozumel, Mexico
+
+Port Tags:
+Florida
+Mexico
+
+Cruise Subtitle: Florida → Mexico
+
+Dates:
+2017-12-28 - 2018-01-02
+
+Prices:
+Regular Price: 937
+Sale Price: 562.20
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Day at Sea
+Docked at Cozumel, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 10
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+Roatan, Honduras
+Cozumel, Mexico
+George Town, Cayman Islands
+
+Port Tags:
+Florida
+Honduras
+Mexico
+Cayman Islands
+
+Cruise Subtitle: Florida → Honduras → Mexico → Grand Cayman
+
+Dates:
+2017-11-23 - 2017-11-30
+
+Prices:
+Regular Price: 689
+Sale Price: 413.40
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Day at Sea
+Docked at Roatan, Honduras
+Docked at Cozumel, Mexico
+Tendered at George Town, Cayman Islands
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Western Caribbean Cruise 
+**************************************************************
+
+Index: 11
+
+Cruise Title: 7 Night - Western Caribbean Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+Key West, Florida
+George Town, Cayman Islands
+Cozumel, Mexico
+Puerto Costa Maya, Mexico
+
+Port Tags:
+Florida
+Cayman Islands
+Mexico
+
+Cruise Subtitle: Florida → Grand Cayman → Mexico
+
+Dates:
+2017-12-11 - 2017-12-18
+
+Prices:
+Regular Price: 610
+Sale Price: 366.00
+
+Itinerary:
+Depart from Tampa, Florida
+Docked at Key West, Florida
+Day at Sea
+Tendered at George Town, Cayman Islands
+Docked at Cozumel, Mexico
+Docked at Puerto Costa Maya, Mexico
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Italy And Spain Cruise 
+**************************************************************
+
+Index: 12
+
+Cruise Title: 8 Night - Italy And Spain Cruise 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Monte Carlo (Cannes), France
+Florence/Pisa (La Spezia), Italy
+Rome (Civitavecchia), Italy
+Corsica (Ajaccio), France
+Palma de Mallorca, Spain
+
+Port Tags:
+Spain
+France
+Italy
+
+Cruise Subtitle: Spain → France → Italy → Corsica
+
+Dates:
+2017-06-06 - 2017-06-14
+
+Prices:
+Regular Price: 1000
+Sale Price: 600.00
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Monte Carlo (Cannes), France
+Docked at Florence/Pisa (La Spezia), Italy
+Docked at Rome (Civitavecchia), Italy
+Tendered at Corsica (Ajaccio), France
+Day at Sea
+Docked at Palma de Mallorca, Spain
+Docked at Palma de Mallorca, Spain
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Venice Cruise 
+**************************************************************
+
+Index: 13
+
+Cruise Title: 12 Night - Mediterranean Venice Cruise 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Nice (Villefranche), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Naples (Salerno), Italy
+Venice, Italy
+Ravenna, Italy
+Kotor, Montenegro
+
+Port Tags:
+Spain
+France
+Italy
+Montenegro
+
+Cruise Subtitle: Spain → France → Italy → Montenegro
+
+Dates:
+2017-05-01 - 2017-05-13
+
+Prices:
+Regular Price: 1176
+Sale Price: 705.60
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Nice (Villefranche), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Docked at Naples (Salerno), Italy
+Day at Sea
+Docked at Venice, Italy
+Docked at Venice, Italy
+Docked at Ravenna, Italy
+Tendered at Kotor, Montenegro
+Day at Sea
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Greek Isles 
+**************************************************************
+
+Index: 14
+
+Cruise Title: 12 Night - Mediterranean Greek Isles 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Monte Carlo (Cannes), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Athens (Piraeus), Greece
+Ephesus (Kusadasi), Turkey
+Santorini, Greece
+Valletta, Malta
+
+Port Tags:
+Spain
+France
+Italy
+Greece
+Turkey
+Malta
+
+Cruise Subtitle: Spain → France → Italy → Greece → Turkey → Malta
+
+Dates:
+2017-05-13 - 2017-05-25
+2017-10-28 - 2017-11-09
+
+Prices:
+Regular Price: 1199
+Sale Price: 719.40
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Monte Carlo (Cannes), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Day at Sea
+Day at Sea
+Docked at Athens (Piraeus), Greece
+Docked at Ephesus (Kusadasi), Turkey
+Tendered at Santorini, Greece
+Day at Sea
+Docked at Valletta, Malta
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Venice Cruise 
+**************************************************************
+
+Index: 15
+
+Cruise Title: 12 Night - Mediterranean Venice Cruise 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Nice (Villefranche), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Naples (Salerno), Italy
+Venice, Italy
+Zadar, Croatia
+Kotor, Montenegro
+
+Port Tags:
+Spain
+France
+Italy
+Croatia
+Montenegro
+
+Cruise Subtitle: Spain → France → Italy → Croatia → Montenegro
+
+Dates:
+2017-05-25 - 2017-06-06
+
+Prices:
+Regular Price: 1399
+Sale Price: 839.40
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Nice (Villefranche), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Docked at Naples (Salerno), Italy
+Day at Sea
+Docked at Venice, Italy
+Docked at Venice, Italy
+Docked at Zadar, Croatia
+Tendered at Kotor, Montenegro
+Day at Sea
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Venice Cruise 
+**************************************************************
+
+Index: 16
+
+Cruise Title: 12 Night - Mediterranean Venice Cruise 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Nice (Villefranche), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Naples (Salerno), Italy
+Venice, Italy
+Zadar, Croatia
+Kotor, Montenegro
+
+Port Tags:
+Spain
+France
+Italy
+Croatia
+Montenegro
+
+Cruise Subtitle: Spain → France → Italy → Croatia → Montenegro
+
+Dates:
+2017-06-18 - 2017-06-30
+
+Prices:
+Regular Price: 1660
+Sale Price: 996.00
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Nice (Villefranche), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Docked at Naples (Salerno), Italy
+Day at Sea
+Docked at Venice, Italy
+Docked at Venice, Italy
+Docked at Zadar, Croatia
+Tendered at Kotor, Montenegro
+Day at Sea
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Greek Isles 
+**************************************************************
+
+Index: 17
+
+Cruise Title: 12 Night - Mediterranean Greek Isles 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Monte Carlo (Cannes), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Athens (Piraeus), Greece
+Ephesus (Kusadasi), Turkey
+Santorini, Greece
+Valletta, Malta
+
+Port Tags:
+Spain
+France
+Italy
+Greece
+Turkey
+Malta
+
+Cruise Subtitle: Spain → France → Italy → Greece → Turkey → Malta
+
+Dates:
+2017-06-30 - 2017-07-12
+
+Prices:
+Regular Price: 2099
+Sale Price: 1259.40
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Monte Carlo (Cannes), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Day at Sea
+Day at Sea
+Docked at Athens (Piraeus), Greece
+Docked at Ephesus (Kusadasi), Turkey
+Tendered at Santorini, Greece
+Day at Sea
+Docked at Valletta, Malta
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Venice Cruise 
+**************************************************************
+
+Index: 18
+
+Cruise Title: 12 Night - Mediterranean Venice Cruise 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Nice (Villefranche), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Naples (Salerno), Italy
+Venice, Italy
+Ravenna, Italy
+Kotor, Montenegro
+
+Port Tags:
+Spain
+France
+Italy
+Montenegro
+
+Cruise Subtitle: Spain → France → Italy → Montenegro
+
+Dates:
+2017-07-12 - 2017-07-24
+
+Prices:
+Regular Price: 1700
+Sale Price: 1020.00
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Nice (Villefranche), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Docked at Naples (Salerno), Italy
+Day at Sea
+Docked at Venice, Italy
+Docked at Venice, Italy
+Docked at Ravenna, Italy
+Tendered at Kotor, Montenegro
+Day at Sea
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Greek Isles 
+**************************************************************
+
+Index: 19
+
+Cruise Title: 12 Night - Mediterranean Greek Isles 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Monte Carlo (Cannes), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Athens (Piraeus), Greece
+Ephesus (Kusadasi), Turkey
+Santorini, Greece
+Valletta, Malta
+
+Port Tags:
+Spain
+France
+Italy
+Greece
+Turkey
+Malta
+
+Cruise Subtitle: Spain → France → Italy → Greece → Turkey → Malta
+
+Dates:
+2017-07-24 - 2017-08-05
+
+Prices:
+Regular Price: 2381
+Sale Price: 1428.60
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Monte Carlo (Cannes), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Day at Sea
+Day at Sea
+Docked at Athens (Piraeus), Greece
+Docked at Ephesus (Kusadasi), Turkey
+Tendered at Santorini, Greece
+Day at Sea
+Docked at Valletta, Malta
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Venice Cruise 
+**************************************************************
+
+Index: 20
+
+Cruise Title: 12 Night - Mediterranean Venice Cruise 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Nice (Villefranche), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Naples (Salerno), Italy
+Venice, Italy
+Ravenna, Italy
+Kotor, Montenegro
+
+Port Tags:
+Spain
+France
+Italy
+Montenegro
+
+Cruise Subtitle: Spain → France → Italy → Montenegro
+
+Dates:
+2017-08-05 - 2017-08-17
+
+Prices:
+Regular Price: 1699
+Sale Price: 1019.40
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Nice (Villefranche), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Docked at Naples (Salerno), Italy
+Day at Sea
+Docked at Venice, Italy
+Docked at Venice, Italy
+Docked at Ravenna, Italy
+Tendered at Kotor, Montenegro
+Day at Sea
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Greek Isles 
+**************************************************************
+
+Index: 21
+
+Cruise Title: 12 Night - Mediterranean Greek Isles 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Monte Carlo (Cannes), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Athens (Piraeus), Greece
+Ephesus (Kusadasi), Turkey
+Santorini, Greece
+Valletta, Malta
+
+Port Tags:
+Spain
+France
+Italy
+Greece
+Turkey
+Malta
+
+Cruise Subtitle: Spain → France → Italy → Greece → Turkey → Malta
+
+Dates:
+2017-08-17 - 2017-08-29
+
+Prices:
+Regular Price: 2005
+Sale Price: 1203.00
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Monte Carlo (Cannes), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Day at Sea
+Day at Sea
+Docked at Athens (Piraeus), Greece
+Docked at Ephesus (Kusadasi), Turkey
+Tendered at Santorini, Greece
+Day at Sea
+Docked at Valletta, Malta
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Venice Cruise 
+**************************************************************
+
+Index: 22
+
+Cruise Title: 12 Night - Mediterranean Venice Cruise 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Nice (Villefranche), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Naples (Salerno), Italy
+Venice, Italy
+Ravenna, Italy
+Kotor, Montenegro
+
+Port Tags:
+Spain
+France
+Italy
+Montenegro
+
+Cruise Subtitle: Spain → France → Italy → Montenegro
+
+Dates:
+2017-08-29 - 2017-09-10
+
+Prices:
+Regular Price: 1300
+Sale Price: 780.00
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Nice (Villefranche), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Docked at Naples (Salerno), Italy
+Day at Sea
+Docked at Venice, Italy
+Docked at Venice, Italy
+Docked at Ravenna, Italy
+Tendered at Kotor, Montenegro
+Day at Sea
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Greek Isles 
+**************************************************************
+
+Index: 23
+
+Cruise Title: 12 Night - Mediterranean Greek Isles 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Monte Carlo (Cannes), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Athens (Piraeus), Greece
+Ephesus (Kusadasi), Turkey
+Santorini, Greece
+Valletta, Malta
+
+Port Tags:
+Spain
+France
+Italy
+Greece
+Turkey
+Malta
+
+Cruise Subtitle: Spain → France → Italy → Greece → Turkey → Malta
+
+Dates:
+2017-09-10 - 2017-09-22
+
+Prices:
+Regular Price: 1765
+Sale Price: 1059.00
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Monte Carlo (Cannes), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Day at Sea
+Day at Sea
+Docked at Athens (Piraeus), Greece
+Docked at Ephesus (Kusadasi), Turkey
+Tendered at Santorini, Greece
+Day at Sea
+Docked at Valletta, Malta
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Venice Cruise 
+**************************************************************
+
+Index: 24
+
+Cruise Title: 12 Night - Mediterranean Venice Cruise 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Nice (Villefranche), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Naples (Salerno), Italy
+Venice, Italy
+Ravenna, Italy
+Kotor, Montenegro
+
+Port Tags:
+Spain
+France
+Italy
+Montenegro
+
+Cruise Subtitle: Spain → France → Italy → Montenegro
+
+Dates:
+2017-09-22 - 2017-10-04
+
+Prices:
+Regular Price: 1369
+Sale Price: 821.40
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Nice (Villefranche), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Docked at Naples (Salerno), Italy
+Day at Sea
+Docked at Venice, Italy
+Docked at Venice, Italy
+Docked at Ravenna, Italy
+Tendered at Kotor, Montenegro
+Day at Sea
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Greek Isles 
+**************************************************************
+
+Index: 25
+
+Cruise Title: 12 Night - Mediterranean Greek Isles 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Monte Carlo (Cannes), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Athens (Piraeus), Greece
+Ephesus (Kusadasi), Turkey
+Santorini, Greece
+Valletta, Malta
+
+Port Tags:
+Spain
+France
+Italy
+Greece
+Turkey
+Malta
+
+Cruise Subtitle: Spain → France → Italy → Greece → Turkey → Malta
+
+Dates:
+2017-10-04 - 2017-10-16
+
+Prices:
+Regular Price: 1300
+Sale Price: 780.00
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Monte Carlo (Cannes), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Day at Sea
+Day at Sea
+Docked at Athens (Piraeus), Greece
+Docked at Ephesus (Kusadasi), Turkey
+Tendered at Santorini, Greece
+Day at Sea
+Docked at Valletta, Malta
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Mediterranean Venice Cruise 
+**************************************************************
+
+Index: 26
+
+Cruise Title: 12 Night - Mediterranean Venice Cruise 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Monte Carlo (Cannes), France
+Florence/Pisa (Livorno), Italy
+Rome (Civitavecchia), Italy
+Naples (Salerno), Italy
+Venice, Italy
+Ravenna, Italy
+Kotor, Montenegro
+
+Port Tags:
+Spain
+France
+Italy
+Montenegro
+
+Cruise Subtitle: Spain → France → Italy → Montenegro
+
+Dates:
+2017-10-16 - 2017-10-28
+
+Prices:
+Regular Price: 1249
+Sale Price: 749.40
+
+Itinerary:
+Depart from Barcelona, Spain
+Tendered at Monte Carlo (Cannes), France
+Docked at Florence/Pisa (Livorno), Italy
+Docked at Rome (Civitavecchia), Italy
+Docked at Naples (Salerno), Italy
+Day at Sea
+Docked at Venice, Italy
+Docked at Venice, Italy
+Docked at Ravenna, Italy
+Tendered at Kotor, Montenegro
+Day at Sea
+Day at Sea
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - South Florida To Spain Cruise 
+**************************************************************
+
+Index: 27
+
+Cruise Title: 14 Night - South Florida To Spain Cruise 
+
+Departure Location: Tampa, Florida
+
+Return Location: Barcelona, Spain
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Tampa, Florida
+San Juan, Puerto Rico
+Ponta Delgada, Azores
+Malaga, Spain
+Ibiza, Spain
+Barcelona, Spain
+
+Port Tags:
+Florida
+Puerto Rico
+Azores
+Spain
+
+Cruise Subtitle: Florida → Puerto Rico → Azores → Spain
+
+Dates:
+2017-04-17 - 2017-05-01
+
+Prices:
+Regular Price: 599
+Sale Price: 359.40
+
+Itinerary:
+Depart from Tampa, Florida
+Day at Sea
+Day at Sea
+Docked at San Juan, Puerto Rico
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Ponta Delgada, Azores
+Day at Sea
+Day at Sea
+Docked at Malaga, Spain
+Docked at Ibiza, Spain
+Disembark at Barcelona, Spain
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - Spain To S. Florida Transatlant 
+**************************************************************
+
+Index: 28
+
+Cruise Title: 14 Night - Spain To S. Florida Transatlant 
+
+Departure Location: Barcelona, Spain
+
+Return Location: Tampa, Florida
+
+Ship Name: Brilliance of the Seas
+
+Port Locations:
+Barcelona, Spain
+Cartagena, Spain
+Malaga, Spain
+Madeira (Funchal), Portugal
+San Juan, Puerto Rico
+Tampa, Florida
+
+Port Tags:
+Spain
+Portugal
+Puerto Rico
+Florida
+
+Cruise Subtitle: Spain → Portugal → Puerto Rico → Florida
+
+Dates:
+2017-11-09 - 2017-11-23
+
+Prices:
+Regular Price: 699
+Sale Price: 419.40
+
+Itinerary:
+Depart from Barcelona, Spain
+Docked at Cartagena, Spain
+Docked at Malaga, Spain
+Day at Sea
+Docked at Madeira (Funchal), Portugal
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at San Juan, Puerto Rico
+Day at Sea
+Day at Sea
+Disembark at Tampa, Florida
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (0):
+

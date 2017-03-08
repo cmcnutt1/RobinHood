@@ -1,0 +1,108 @@
+
+
+**************************************************************
+10 Night - The Spice Route Cruise 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 10 Night - The Spice Route Cruise 
+
+Departure Location: Singapore
+
+Return Location: Dubai, United Arab Emirates
+
+Ship Name: Legend of the Seas
+
+Port Locations:
+Singapore 
+Penang, Malaysia
+Cochin, India
+Bombay (Mumbai), India
+Dubai, United Arab Emirates
+
+Port Tags:
+Singapore
+Malaysia
+India
+United Arab Emirates
+
+Cruise Subtitle: Singapore → Malaysia → India → United Arab Emirates
+
+Dates:
+2017-03-03 - 2017-03-13
+
+Prices:
+Regular Price: 3802
+Sale Price: 2281.20
+
+Itinerary:
+Depart from Singapore, Singapore
+Docked at Penang, Malaysia
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Cochin, India
+Day at Sea
+Docked at Bombay (Mumbai), India
+Day at Sea
+Day at Sea
+Disembark at Dubai, United Arab Emirates
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - Brisbane To Singapore Cruise 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 11 Night - Brisbane To Singapore Cruise 
+
+Departure Location: Brisbane, Australia
+
+Return Location: Singapore
+
+Ship Name: Legend of the Seas
+
+Port Locations:
+Brisbane, Australia
+Cairns, Australia
+Darwin, Australia
+Singapore 
+
+Port Tags:
+Australia
+Singapore
+
+Cruise Subtitle: Australia → Singapore
+
+Dates:
+2017-02-20 - 2017-03-03
+
+Prices:
+Regular Price: 978
+Sale Price: 586.80
+
+Itinerary:
+Depart from Brisbane, Australia
+Day at Sea
+Docked at Cairns, Australia
+Docked at Cairns, Australia
+Day at Sea
+Day at Sea
+Docked at Darwin, Australia
+Docked at Darwin, Australia
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Singapore
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (0):
+

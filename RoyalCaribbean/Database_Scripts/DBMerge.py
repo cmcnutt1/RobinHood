@@ -79,8 +79,11 @@ def print_individual_entry(ship_prefix):
 
 if __name__ == "__main__":
 
-    print("Working...")
-    print_individual_entry("Empress")
-    print("Done")
+    ship_list = ['Harmony', 'Oasis', 'Freedom', 'Independence', 'Liberty', 'Adventure', 'Explorer', 'Mariner', 'Navigator', 'Brilliance', 'Jewel', 'Radiance', 'Serenade', 'Enchantment', 'Grandeur', 'Legend', 'Rhapsody', 'Vision', 'Majesty']
+
+    for item in ship_list:
+        print(item + "Working...")
+        print_individual_entry(item)
+        print(item + "Done")
 
     

@@ -1,0 +1,792 @@
+
+
+**************************************************************
+7 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 7 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+Philipsburg, St. Maarten
+Basseterre, St. Kitts
+St. Johns, Antigua
+Castries, St. Lucia
+Bridgetown, Barbados
+
+Port Tags:
+Puerto Rico
+St. Maarten
+St. Kitts
+Antigua
+St. Lucia
+Barbados
+
+Cruise Subtitle: Puerto Rico → St. Maarten → St. Kitts → Antigua → St. Lucia → Barbados
+
+Dates:
+
+Prices:
+Regular Price: 599
+Sale Price: 359.40
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Docked at Philipsburg, St. Maarten
+Docked at Basseterre, St. Kitts
+Docked at St. Johns, Antigua
+Docked at Castries, St. Lucia
+Docked at Bridgetown, Barbados
+Day at Sea
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 7 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+St. Thomas, U.S. Virgin Islands
+Basseterre, St. Kitts
+Willemstad, Curacao
+Oranjestad, Aruba
+
+Port Tags:
+Puerto Rico
+U.S. Virgin Islands
+St. Kitts
+Curacao
+Aruba
+
+Cruise Subtitle: Puerto Rico → St. Thomas → St. Kitts → Curacao → Aruba
+
+Dates:
+2017-04-15 - 2017-04-22
+
+Prices:
+Regular Price: 590
+Sale Price: 354.00
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Docked at St. Thomas, U.S. Virgin Islands
+Docked at Basseterre, St. Kitts
+Day at Sea
+Docked at Willemstad, Curacao
+Docked at Oranjestad, Aruba
+Day at Sea
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 3
+
+Cruise Title: 7 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+Philipsburg, St. Maarten
+Kralendijk, Bonaire
+Oranjestad, Aruba
+Willemstad, Curacao
+
+Port Tags:
+Puerto Rico
+St. Maarten
+Bonaire
+Aruba
+Curacao
+
+Cruise Subtitle: Puerto Rico → St. Maarten → Bonaire → Aruba → Curacao
+
+Dates:
+2017-04-29 - 2017-05-06
+
+Prices:
+Regular Price: 549
+Sale Price: 329.40
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Docked at Philipsburg, St. Maarten
+Day at Sea
+Docked at Kralendijk, Bonaire
+Docked at Oranjestad, Aruba
+Docked at Willemstad, Curacao
+Day at Sea
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 4
+
+Cruise Title: 7 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+St. Thomas, U.S. Virgin Islands
+Basseterre, St. Kitts
+Oranjestad, Aruba
+Willemstad, Curacao
+
+Port Tags:
+Puerto Rico
+U.S. Virgin Islands
+St. Kitts
+Aruba
+Curacao
+
+Cruise Subtitle: Puerto Rico → St. Thomas → St. Kitts → Aruba → Curacao
+
+Dates:
+2017-03-11 - 2017-03-18
+
+Prices:
+Regular Price: 853
+Sale Price: 511.80
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Docked at St. Thomas, U.S. Virgin Islands
+Docked at Basseterre, St. Kitts
+Day at Sea
+Docked at Oranjestad, Aruba
+Docked at Willemstad, Curacao
+Day at Sea
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 5
+
+Cruise Title: 7 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+Bridgetown, Barbados
+Castries, St. Lucia
+St. Johns, Antigua
+Philipsburg, St. Maarten
+Basseterre, St. Kitts
+
+Port Tags:
+Puerto Rico
+Barbados
+St. Lucia
+Antigua
+St. Maarten
+St. Kitts
+
+Cruise Subtitle: Puerto Rico → Barbados → St. Lucia → Antigua → St. Maarten → St. Kitts
+
+Dates:
+2017-03-04 - 2017-03-11
+
+Prices:
+Regular Price: 1024
+Sale Price: 614.40
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Day at Sea
+Docked at Bridgetown, Barbados
+Docked at Castries, St. Lucia
+Docked at St. Johns, Antigua
+Docked at Philipsburg, St. Maarten
+Docked at Basseterre, St. Kitts
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 6
+
+Cruise Title: 7 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+Kralendijk, Bonaire
+Willemstad, Curacao
+Oranjestad, Aruba
+Philipsburg, St. Maarten
+
+Port Tags:
+Puerto Rico
+Bonaire
+Curacao
+Aruba
+St. Maarten
+
+Cruise Subtitle: Puerto Rico → Bonaire → Curacao → Aruba → St. Maarten
+
+Dates:
+2017-05-06 - 2017-05-13
+2017-05-27 - 2017-06-03
+2017-06-17 - 2017-06-24
+2017-07-08 - 2017-07-15
+2017-07-29 - 2017-08-05
+2017-08-19 - 2017-08-26
+2017-09-09 - 2017-09-16
+2017-09-30 - 2017-10-07
+2017-10-21 - 2017-10-28
+
+Prices:
+Regular Price: 629
+Sale Price: 377.40
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Day at Sea
+Docked at Kralendijk, Bonaire
+Docked at Willemstad, Curacao
+Docked at Oranjestad, Aruba
+Day at Sea
+Docked at Philipsburg, St. Maarten
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 7
+
+Cruise Title: 7 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+Philipsburg, St. Maarten
+Basseterre, St. Kitts
+St. Johns, Antigua
+Castries, St. Lucia
+Bridgetown, Barbados
+
+Port Tags:
+Puerto Rico
+St. Maarten
+St. Kitts
+Antigua
+St. Lucia
+Barbados
+
+Cruise Subtitle: Puerto Rico → St. Maarten → St. Kitts → Antigua → St. Lucia → Barbados
+
+Dates:
+2017-05-13 - 2017-05-20
+2017-06-03 - 2017-06-10
+2017-06-24 - 2017-07-01
+2017-07-15 - 2017-07-22
+2017-08-05 - 2017-08-12
+2017-08-26 - 2017-09-02
+2017-09-16 - 2017-09-23
+2017-10-07 - 2017-10-14
+2017-10-28 - 2017-11-04
+
+Prices:
+Regular Price: 599
+Sale Price: 359.40
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Docked at Philipsburg, St. Maarten
+Docked at Basseterre, St. Kitts
+Docked at St. Johns, Antigua
+Docked at Castries, St. Lucia
+Docked at Bridgetown, Barbados
+Day at Sea
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 8
+
+Cruise Title: 7 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+St. Thomas, U.S. Virgin Islands
+Willemstad, Curacao
+Oranjestad, Aruba
+Basseterre, St. Kitts
+
+Port Tags:
+Puerto Rico
+U.S. Virgin Islands
+Curacao
+Aruba
+St. Kitts
+
+Cruise Subtitle: Puerto Rico → St. Thomas → Curacao → Aruba → St. Kitts
+
+Dates:
+2017-05-20 - 2017-05-27
+2017-06-10 - 2017-06-17
+2017-07-01 - 2017-07-08
+2017-07-22 - 2017-07-29
+2017-08-12 - 2017-08-19
+2017-09-02 - 2017-09-09
+2017-09-23 - 2017-09-30
+2017-10-14 - 2017-10-21
+
+Prices:
+Regular Price: 675
+Sale Price: 405.00
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Docked at St. Thomas, U.S. Virgin Islands
+Day at Sea
+Docked at Willemstad, Curacao
+Docked at Oranjestad, Aruba
+Day at Sea
+Docked at Basseterre, St. Kitts
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 9
+
+Cruise Title: 7 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+Philipsburg, St. Maarten
+Basseterre, St. Kitts
+St. Johns, Antigua
+Castries, St. Lucia
+Bridgetown, Barbados
+
+Port Tags:
+Puerto Rico
+St. Maarten
+St. Kitts
+Antigua
+St. Lucia
+Barbados
+
+Cruise Subtitle: Puerto Rico → St. Maarten → St. Kitts → Antigua → St. Lucia → Barbados
+
+Dates:
+2017-11-04 - 2017-11-11
+2017-11-18 - 2017-11-25
+2017-12-02 - 2017-12-09
+2017-12-16 - 2017-12-23
+2018-01-13 - 2018-01-20
+2018-01-27 - 2018-02-03
+2018-02-10 - 2018-02-17
+2018-02-24 - 2018-03-03
+2018-03-10 - 2018-03-17
+2018-03-24 - 2018-03-31
+2018-04-07 - 2018-04-14
+2018-04-21 - 2018-04-28
+
+Prices:
+Regular Price: 651
+Sale Price: 390.60
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Docked at Philipsburg, St. Maarten
+Docked at Basseterre, St. Kitts
+Docked at St. Johns, Antigua
+Docked at Castries, St. Lucia
+Docked at Bridgetown, Barbados
+Day at Sea
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 10
+
+Cruise Title: 7 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+Willemstad, Curacao
+Kralendijk, Bonaire
+Oranjestad, Aruba
+Philipsburg, St. Maarten
+
+Port Tags:
+Puerto Rico
+Curacao
+Bonaire
+Aruba
+St. Maarten
+
+Cruise Subtitle: Puerto Rico → Curacao → Bonaire → Aruba → St. Maarten
+
+Dates:
+2017-11-11 - 2017-11-18
+2017-12-09 - 2017-12-16
+2018-01-06 - 2018-01-13
+2018-02-03 - 2018-02-10
+2018-03-03 - 2018-03-10
+2018-03-31 - 2018-04-07
+2018-04-28 - 2018-05-05
+
+Prices:
+Regular Price: 688
+Sale Price: 412.80
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Day at Sea
+Docked at Willemstad, Curacao
+Docked at Kralendijk, Bonaire
+Docked at Oranjestad, Aruba
+Day at Sea
+Docked at Philipsburg, St. Maarten
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 11
+
+Cruise Title: 7 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+St. Thomas, U.S. Virgin Islands
+Basseterre, St. Kitts
+Willemstad, Curacao
+Oranjestad, Aruba
+
+Port Tags:
+Puerto Rico
+U.S. Virgin Islands
+St. Kitts
+Curacao
+Aruba
+
+Cruise Subtitle: Puerto Rico → St. Thomas → St. Kitts → Curacao → Aruba
+
+Dates:
+2017-11-25 - 2017-12-02
+2018-01-20 - 2018-01-27
+2018-02-17 - 2018-02-24
+2018-03-17 - 2018-03-24
+2018-04-14 - 2018-04-21
+
+Prices:
+Regular Price: 633
+Sale Price: 379.80
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Docked at St. Thomas, U.S. Virgin Islands
+Docked at Basseterre, St. Kitts
+Day at Sea
+Docked at Willemstad, Curacao
+Docked at Oranjestad, Aruba
+Day at Sea
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Holiday 
+**************************************************************
+
+Index: 12
+
+Cruise Title: 7 Night - Southern Caribbean Holiday 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+St. Thomas, U.S. Virgin Islands
+Basseterre, St. Kitts
+Willemstad, Curacao
+Oranjestad, Aruba
+
+Port Tags:
+Puerto Rico
+U.S. Virgin Islands
+St. Kitts
+Curacao
+Aruba
+
+Cruise Subtitle: Puerto Rico → St. Thomas → St. Kitts → Curacao → Aruba
+
+Dates:
+2017-12-23 - 2017-12-30
+
+Prices:
+Regular Price: 1099
+Sale Price: 659.40
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Docked at St. Thomas, U.S. Virgin Islands
+Docked at Basseterre, St. Kitts
+Day at Sea
+Docked at Willemstad, Curacao
+Docked at Oranjestad, Aruba
+Day at Sea
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Southern Caribbean Holiday 
+**************************************************************
+
+Index: 13
+
+Cruise Title: 7 Night - Southern Caribbean Holiday 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+Philipsburg, St. Maarten
+Basseterre, St. Kitts
+St. Johns, Antigua
+Castries, St. Lucia
+Bridgetown, Barbados
+
+Port Tags:
+Puerto Rico
+St. Maarten
+St. Kitts
+Antigua
+St. Lucia
+Barbados
+
+Cruise Subtitle: Puerto Rico → St. Maarten → St. Kitts → Antigua → St. Lucia → Barbados
+
+Dates:
+2017-12-30 - 2018-01-06
+
+Prices:
+Regular Price: 1140
+Sale Price: 684.00
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Docked at Philipsburg, St. Maarten
+Docked at Basseterre, St. Kitts
+Docked at St. Johns, Antigua
+Docked at Castries, St. Lucia
+Docked at Bridgetown, Barbados
+Day at Sea
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - Southern Caribbean Cruise 
+**************************************************************
+
+Index: 14
+
+Cruise Title: 10 Night - Southern Caribbean Cruise 
+
+Departure Location: San Juan, Puerto Rico
+
+Return Location: San Juan, Puerto Rico
+
+Ship Name: Adventure of the Seas
+
+Port Locations:
+San Juan, Puerto Rico
+St. Thomas, U.S. Virgin Islands
+St. Johns, Antigua
+Castries, St. Lucia
+Bridgetown, Barbados
+Kralendijk, Bonaire
+Willemstad, Curacao
+Oranjestad, Aruba
+
+Port Tags:
+Puerto Rico
+U.S. Virgin Islands
+Antigua
+St. Lucia
+Barbados
+Bonaire
+Curacao
+Aruba
+
+Cruise Subtitle: Puerto Rico → St. Thomas → Antigua → St. Lucia → Barbados → Bonaire → Curacao → Aruba
+
+Dates:
+2017-03-29 - 2017-04-08
+
+Prices:
+Regular Price: 699
+Sale Price: 419.40
+
+Itinerary:
+Depart from San Juan, Puerto Rico
+Docked at St. Thomas, U.S. Virgin Islands
+Docked at St. Johns, Antigua
+Docked at Castries, St. Lucia
+Docked at Bridgetown, Barbados
+Day at Sea
+Docked at Kralendijk, Bonaire
+Docked at Willemstad, Curacao
+Docked at Oranjestad, Aruba
+Day at Sea
+Disembark at San Juan, Puerto Rico
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (0):
+

@@ -8,15 +8,17 @@ from LearnMoreScrape import get_itin_learn_more
 
 
 #Initialize TinyDB for storing cruise info
-def init_db():
+def init_db(ship_prefix):
 
-    db = TinyDB('individual_ships/empress.json')
+    db = TinyDB('individual_ships/' + ship_prefix + '.json')
     return db
 
 
-def print_individual_entry():
+def print_individual_entry(ship_name):
 
-    db = init_db()
+    ship_prefix = ship_name.lower()
+
+    db = init_db(ship_prefix)
 
     i = 1
 
@@ -92,6 +94,6 @@ def print_individual_entry():
 
 if __name__ == "__main__":
 
-    print_individual_entry()
+    print_individual_entry("Anthem")
 
     

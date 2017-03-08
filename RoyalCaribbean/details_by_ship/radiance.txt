@@ -1,0 +1,1456 @@
+
+
+**************************************************************
+7 Night - Southbound Alaska & Hubbard Glacier 
+**************************************************************
+
+Index: 1
+
+Cruise Title: 7 Night - Southbound Alaska & Hubbard Glacier 
+
+Departure Location: Seward, Alaska
+
+Return Location: Vancouver, British Columbia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Seward, Alaska
+Hubbard Glacier
+Juneau, Alaska
+Skagway, Alaska
+Icy Strait Point, Alaska
+Ketchikan, Alaska
+Inside Passage
+Vancouver, British Columbia
+
+Port Tags:
+Alaska
+British Columbia
+
+Cruise Subtitle: Alaska → British Columbia
+
+Dates:
+2017-05-26 - 2017-06-02
+2017-06-09 - 2017-06-16
+2017-06-23 - 2017-06-30
+2017-07-07 - 2017-07-14
+2017-07-21 - 2017-07-28
+2017-08-04 - 2017-08-11
+2017-08-18 - 2017-08-25
+2017-09-01 - 2017-09-08
+
+Prices:
+Regular Price: 859
+Sale Price: 515.40
+
+Itinerary:
+Depart from Seward, Alaska
+Day at Sea
+Docked at Juneau, Alaska
+Docked at Skagway, Alaska
+Docked at Icy Strait Point, Alaska
+Docked at Ketchikan, Alaska
+Day at Sea
+Disembark at Vancouver, British Columbia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+7 Night - Northbound Alaska & Hubbard Glacier 
+**************************************************************
+
+Index: 2
+
+Cruise Title: 7 Night - Northbound Alaska & Hubbard Glacier 
+
+Departure Location: Vancouver, British Columbia
+
+Return Location: Seward, Alaska
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Vancouver, British Columbia
+Inside Passage
+Ketchikan, Alaska
+Icy Strait Point, Alaska
+Juneau, Alaska
+Skagway, Alaska
+Hubbard Glacier
+Seward, Alaska
+
+Port Tags:
+British Columbia
+Alaska
+
+Cruise Subtitle: British Columbia → Alaska
+
+Dates:
+2017-06-02 - 2017-06-09
+2017-06-16 - 2017-06-23
+2017-06-30 - 2017-07-07
+2017-07-14 - 2017-07-21
+2017-07-28 - 2017-08-04
+2017-08-11 - 2017-08-18
+2017-08-25 - 2017-09-01
+
+Prices:
+Regular Price: 971
+Sale Price: 582.60
+
+Itinerary:
+Depart from Vancouver, British Columbia
+Day at Sea
+Docked at Ketchikan, Alaska
+Docked at Icy Strait Point, Alaska
+Docked at Juneau, Alaska
+Docked at Skagway, Alaska
+Day at Sea
+Disembark at Seward, Alaska
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Queensland Cruise 
+**************************************************************
+
+Index: 3
+
+Cruise Title: 8 Night - Queensland Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Newcastle, Australia
+Airlie Beach, Australia
+Brisbane, Australia
+
+Port Tags:
+Australia
+
+Cruise Subtitle: Australia
+
+Dates:
+2017-04-10 - 2017-04-18
+
+Prices:
+Regular Price: 909
+Sale Price: 545.40
+
+Itinerary:
+Depart from Sydney, Australia
+Docked at Newcastle, Australia
+Day at Sea
+Day at Sea
+Tendered at Airlie Beach, Australia
+Day at Sea
+Docked at Brisbane, Australia
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+8 Night - Queensland Cruise 
+**************************************************************
+
+Index: 4
+
+Cruise Title: 8 Night - Queensland Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Newcastle, Australia
+Airlie Beach, Australia
+Brisbane, Australia
+
+Port Tags:
+Australia
+
+Cruise Subtitle: Australia
+
+Dates:
+2018-03-29 - 2018-04-06
+
+Prices:
+Regular Price: 909
+Sale Price: 545.40
+
+Itinerary:
+Depart from Sydney, Australia
+Docked at Newcastle, Australia
+Day at Sea
+Day at Sea
+Tendered at Airlie Beach, Australia
+Day at Sea
+Docked at Brisbane, Australia
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Alaska Northern Glacier Cruise 
+**************************************************************
+
+Index: 5
+
+Cruise Title: 9 Night - Alaska Northern Glacier Cruise 
+
+Departure Location: Vancouver, British Columbia
+
+Return Location: Seward, Alaska
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Vancouver, British Columbia
+Ketchikan, Alaska
+Sitka, Alaska
+Haines, Alaska
+Skagway, Alaska
+Juneau, Alaska
+Icy Strait Point, Alaska
+Hubbard Glacier
+Seward, Alaska
+
+Port Tags:
+British Columbia
+Alaska
+
+Cruise Subtitle: British Columbia → Alaska
+
+Dates:
+2017-05-17 - 2017-05-26
+
+Prices:
+Regular Price: 1141
+Sale Price: 684.60
+
+Itinerary:
+Depart from Vancouver, British Columbia
+Day at Sea
+Day at Sea
+Docked at Ketchikan, Alaska
+Docked at Sitka, Alaska
+Docked at Haines, Alaska
+Docked at Skagway, Alaska
+Docked at Juneau, Alaska
+Docked at Icy Strait Point, Alaska
+Day at Sea
+Disembark at Seward, Alaska
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+9 Night - Tasmania & Australia Cruise 
+**************************************************************
+
+Index: 6
+
+Cruise Title: 9 Night - Tasmania & Australia Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Hobart, Australia
+Adelaide, Australia
+Melbourne, Australia
+
+Port Tags:
+Australia
+
+Cruise Subtitle: Australia
+
+Dates:
+2017-12-13 - 2017-12-22
+
+Prices:
+Regular Price: 1157
+Sale Price: 694.20
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Docked at Hobart, Australia
+Day at Sea
+Docked at Adelaide, Australia
+Docked at Adelaide, Australia
+Day at Sea
+Docked at Melbourne, Australia
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+10 Night - Hawaii Cruise 
+**************************************************************
+
+Index: 7
+
+Cruise Title: 10 Night - Hawaii Cruise 
+
+Departure Location: Honolulu (Oahu), Hawaii
+
+Return Location: Vancouver, British Columbia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Honolulu (Oahu), Hawaii
+Maui (Lahaina), Hawaii
+Kailua Kona, Hawaii
+Kauai (Nawiliwili), Hawaii
+Hilo, Hawaii
+Vancouver, British Columbia
+
+Port Tags:
+Hawaii
+British Columbia
+
+Cruise Subtitle: Hawaii → British Columbia
+
+Dates:
+2018-05-03 - 2018-05-13
+
+Prices:
+Regular Price: 1483
+Sale Price: 889.80
+
+Itinerary:
+Depart from Honolulu (Oahu), Hawaii
+Tendered at Maui (Lahaina), Hawaii
+Tendered at Kailua Kona, Hawaii
+Docked at Kauai (Nawiliwili), Hawaii
+Docked at Hilo, Hawaii
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Vancouver, British Columbia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - Hawaii Cruise 
+**************************************************************
+
+Index: 8
+
+Cruise Title: 11 Night - Hawaii Cruise 
+
+Departure Location: Vancouver, British Columbia
+
+Return Location: Honolulu (Oahu), Hawaii
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Vancouver, British Columbia
+Maui (Lahaina), Hawaii
+Hilo, Hawaii
+Kailua Kona, Hawaii
+Kauai (Nawiliwili), Hawaii
+Honolulu (Oahu), Hawaii
+
+Port Tags:
+British Columbia
+Hawaii
+
+Cruise Subtitle: British Columbia → Hawaii
+
+Dates:
+2017-09-08 - 2017-09-19
+
+Prices:
+Regular Price: 1436
+Sale Price: 861.60
+
+Itinerary:
+Depart from Vancouver, British Columbia
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Tendered at Maui (Lahaina), Hawaii
+Tendered at Maui (Lahaina), Hawaii
+Docked at Hilo, Hawaii
+Tendered at Kailua Kona, Hawaii
+Docked at Kauai (Nawiliwili), Hawaii
+Disembark at Honolulu (Oahu), Hawaii
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - New Zealand Cruise 
+**************************************************************
+
+Index: 9
+
+Cruise Title: 11 Night - New Zealand Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Milford Sound
+Doubtful Sound
+Dusky Sound
+Dunedin, New Zealand
+Akaroa, New Zealand
+Auckland, New Zealand
+Bay of Islands, New Zealand
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2017-11-07 - 2017-11-18
+
+Prices:
+Regular Price: 1294
+Sale Price: 776.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Cruising Through Milford Sound, Doubtful Sound, Dusky Sound
+Docked at Dunedin, New Zealand
+Tendered at Akaroa, New Zealand
+Day at Sea
+Docked at Auckland, New Zealand
+Tendered at Bay of Islands, New Zealand
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - New Zealand Cruise 
+**************************************************************
+
+Index: 10
+
+Cruise Title: 11 Night - New Zealand Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Milford Sound
+Doubtful Sound
+Dusky Sound
+Dunedin, New Zealand
+Akaroa, New Zealand
+Auckland, New Zealand
+Bay of Islands, New Zealand
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2017-11-18 - 2017-11-29
+
+Prices:
+Regular Price: 1294
+Sale Price: 776.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Cruising Through Milford Sound, Doubtful Sound, Dusky Sound
+Docked at Dunedin, New Zealand
+Tendered at Akaroa, New Zealand
+Day at Sea
+Docked at Auckland, New Zealand
+Tendered at Bay of Islands, New Zealand
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - New Zealand Cruise 
+**************************************************************
+
+Index: 11
+
+Cruise Title: 11 Night - New Zealand Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Milford Sound
+Doubtful Sound
+Dusky Sound
+Dunedin, New Zealand
+Akaroa, New Zealand
+Auckland, New Zealand
+Bay of Islands, New Zealand
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2018-03-18 - 2018-03-29
+
+Prices:
+Regular Price: 1259
+Sale Price: 755.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Cruising Through Milford Sound, Doubtful Sound, Dusky Sound
+Docked at Dunedin, New Zealand
+Tendered at Akaroa, New Zealand
+Day at Sea
+Docked at Auckland, New Zealand
+Tendered at Bay of Islands, New Zealand
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+11 Night - New Zealand Cruise 
+**************************************************************
+
+Index: 12
+
+Cruise Title: 11 Night - New Zealand Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Bay of Islands, New Zealand
+Auckland, New Zealand
+Akaroa, New Zealand
+Dunedin, New Zealand
+Dusky Sound
+Doubtful Sound
+Milford Sound
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2018-04-06 - 2018-04-17
+
+Prices:
+Regular Price: 1329
+Sale Price: 797.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Bay of Islands, New Zealand
+Docked at Auckland, New Zealand
+Day at Sea
+Tendered at Akaroa, New Zealand
+Docked at Dunedin, New Zealand
+Cruising Through Dusky Sound, Doubtful Sound, Milford Sound
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - Hawaii Cruise 
+**************************************************************
+
+Index: 13
+
+Cruise Title: 12 Night - Hawaii Cruise 
+
+Departure Location: Honolulu (Oahu), Hawaii
+
+Return Location: Vancouver, British Columbia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Honolulu (Oahu), Hawaii
+Kailua Kona, Hawaii
+Hilo, Hawaii
+Kauai (Nawiliwili), Hawaii
+Maui (Lahaina), Hawaii
+Vancouver, British Columbia
+
+Port Tags:
+Hawaii
+British Columbia
+
+Cruise Subtitle: Hawaii → British Columbia
+
+Dates:
+2017-05-05 - 2017-05-17
+
+Prices:
+Regular Price: 1399
+Sale Price: 839.40
+
+Itinerary:
+Depart from Honolulu (Oahu), Hawaii
+Tendered at Kailua Kona, Hawaii
+Docked at Hilo, Hawaii
+Docked at Kauai (Nawiliwili), Hawaii
+Docked at Kauai (Nawiliwili), Hawaii
+Tendered at Maui (Lahaina), Hawaii
+Tendered at Maui (Lahaina), Hawaii
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Vancouver, British Columbia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+12 Night - New Zealand Holiday Cruise 
+**************************************************************
+
+Index: 14
+
+Cruise Title: 12 Night - New Zealand Holiday Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Milford Sound
+Doubtful Sound
+Dusky Sound
+Dunedin, New Zealand
+Akaroa, New Zealand
+Auckland, New Zealand
+Tauranga, New Zealand
+Bay of Islands, New Zealand
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2017-12-22 - 2018-01-03
+
+Prices:
+Regular Price: 2134
+Sale Price: 1280.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Cruising Through Milford Sound, Doubtful Sound, Dusky Sound
+Docked at Dunedin, New Zealand
+Tendered at Akaroa, New Zealand
+Day at Sea
+Docked at Auckland, New Zealand
+Docked at Tauranga, New Zealand
+Tendered at Bay of Islands, New Zealand
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+13 Night - New Zealand Cruise 
+**************************************************************
+
+Index: 15
+
+Cruise Title: 13 Night - New Zealand Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Bay of Islands, New Zealand
+Auckland, New Zealand
+Tauranga, New Zealand
+Wellington, New Zealand
+Akaroa, New Zealand
+Dunedin, New Zealand
+Dusky Sound
+Doubtful Sound
+Milford Sound
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2017-03-28 - 2017-04-10
+
+Prices:
+Regular Price: 1819
+Sale Price: 1091.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Bay of Islands, New Zealand
+Docked at Auckland, New Zealand
+Docked at Tauranga, New Zealand
+Day at Sea
+Docked at Wellington, New Zealand
+Tendered at Akaroa, New Zealand
+Docked at Dunedin, New Zealand
+Cruising Through Dusky Sound, Doubtful Sound, Milford Sound
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+13 Night - New Zealand Cruise 
+**************************************************************
+
+Index: 16
+
+Cruise Title: 13 Night - New Zealand Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Milford Sound
+Doubtful Sound
+Dusky Sound
+Dunedin, New Zealand
+Akaroa, New Zealand
+Wellington, New Zealand
+Tauranga, New Zealand
+Auckland, New Zealand
+Bay of Islands, New Zealand
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2018-01-31 - 2018-02-13
+
+Prices:
+Regular Price: 1399
+Sale Price: 839.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Cruising Through Milford Sound, Doubtful Sound, Dusky Sound
+Docked at Dunedin, New Zealand
+Tendered at Akaroa, New Zealand
+Docked at Wellington, New Zealand
+Day at Sea
+Docked at Tauranga, New Zealand
+Docked at Auckland, New Zealand
+Tendered at Bay of Islands, New Zealand
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - New Zealand Cruise 
+**************************************************************
+
+Index: 17
+
+Cruise Title: 14 Night - New Zealand Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Bay of Islands, New Zealand
+Auckland, New Zealand
+Tauranga, New Zealand
+Napier, New Zealand
+Picton, New Zealand
+Wellington, New Zealand
+Dunedin, New Zealand
+Dusky Sound
+Doubtful Sound
+Milford Sound
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2017-03-14 - 2017-03-28
+
+Prices:
+Regular Price: 2029
+Sale Price: 1217.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Bay of Islands, New Zealand
+Docked at Auckland, New Zealand
+Docked at Tauranga, New Zealand
+Docked at Napier, New Zealand
+Docked at Picton, New Zealand
+Docked at Wellington, New Zealand
+Day at Sea
+Docked at Dunedin, New Zealand
+Cruising Through Dusky Sound, Doubtful Sound, Milford Sound
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - New Zealand Cruise 
+**************************************************************
+
+Index: 18
+
+Cruise Title: 14 Night - New Zealand Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Bay of Islands, New Zealand
+Tauranga, New Zealand
+Auckland, New Zealand
+Picton, New Zealand
+Wellington, New Zealand
+Akaroa, New Zealand
+Dunedin, New Zealand
+Dusky Sound
+Doubtful Sound
+Milford Sound
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2017-11-29 - 2017-12-13
+
+Prices:
+Regular Price: 1714
+Sale Price: 1028.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Tendered at Bay of Islands, New Zealand
+Docked at Tauranga, New Zealand
+Docked at Auckland, New Zealand
+Day at Sea
+Docked at Picton, New Zealand
+Docked at Wellington, New Zealand
+Tendered at Akaroa, New Zealand
+Docked at Dunedin, New Zealand
+Cruising Through Dusky Sound, Doubtful Sound, Milford Sound
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - South Pacific & Tonga Cruise 
+**************************************************************
+
+Index: 19
+
+Cruise Title: 14 Night - South Pacific & Tonga Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Auckland, New Zealand
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Noumea, New Caledonia
+Maré, New Caledonia
+Lifou, New Caledonia
+Suva, Fiji
+Lautoka, Fiji
+Vavau (Neiafu), Tonga
+Nuku'alofa, Tonga
+Auckland, New Zealand
+
+Port Tags:
+Australia
+New Caledonia
+Fiji
+Tonga
+New Zealand
+
+Cruise Subtitle: Australia → New Caledonia → Loyalty Island → Fiji → Tonga → New Zealand
+
+Dates:
+2018-01-03 - 2018-01-17
+
+Prices:
+Regular Price: 1814
+Sale Price: 1088.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Noumea, New Caledonia
+Tendered at Maré, New Caledonia
+Tendered at Lifou, New Caledonia
+Day at Sea
+Docked at Suva, Fiji
+Docked at Lautoka, Fiji
+Day at Sea
+Tendered at Vavau (Neiafu), Tonga
+Docked at Nuku'alofa, Tonga
+Day at Sea
+Day at Sea
+Disembark at Auckland, New Zealand
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+14 Night - New Zealand Cruise 
+**************************************************************
+
+Index: 20
+
+Cruise Title: 14 Night - New Zealand Cruise 
+
+Departure Location: Auckland, New Zealand
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Auckland, New Zealand
+Bay of Islands, New Zealand
+Tauranga, New Zealand
+Wellington, New Zealand
+Akaroa, New Zealand
+Dunedin, New Zealand
+Dusky Sound
+Doubtful Sound
+Milford Sound
+Melbourne, Australia
+Wollongong (Port Kembla), Australia
+Newcastle, Australia
+Sydney, Australia
+
+Port Tags:
+New Zealand
+Australia
+
+Cruise Subtitle: New Zealand → Australia
+
+Dates:
+2018-01-17 - 2018-01-31
+
+Prices:
+Regular Price: 1504
+Sale Price: 902.40
+
+Itinerary:
+Depart from Auckland, New Zealand
+Tendered at Bay of Islands, New Zealand
+Docked at Tauranga, New Zealand
+Day at Sea
+Docked at Wellington, New Zealand
+Tendered at Akaroa, New Zealand
+Docked at Dunedin, New Zealand
+Cruising Through Dusky Sound, Doubtful Sound, Milford Sound
+Day at Sea
+Day at Sea
+Docked at Melbourne, Australia
+Day at Sea
+Docked at Wollongong (Port Kembla), Australia
+Docked at Newcastle, Australia
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+16 Night - Australia Top End Cruise 
+**************************************************************
+
+Index: 21
+
+Cruise Title: 16 Night - Australia Top End Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Perth (Fremantle), Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Brisbane, Australia
+Cairns, Australia
+Darwin, Australia
+Bali (Benoa), Indonesia
+Port Hedland, Australia
+Geraldton, Australia
+Perth (Fremantle), Australia
+
+Port Tags:
+Australia
+Indonesia
+
+Cruise Subtitle: Australia → Yorkey's Knob → Indonesia
+
+Dates:
+2018-02-13 - 2018-03-01
+
+Prices:
+Regular Price: 1889
+Sale Price: 1133.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Docked at Brisbane, Australia
+Day at Sea
+Day at Sea
+Tendered at Cairns, Australia
+Day at Sea
+Day at Sea
+Docked at Darwin, Australia
+Day at Sea
+Day at Sea
+Tendered at Bali (Benoa), Indonesia
+Day at Sea
+Docked at Port Hedland, Australia
+Day at Sea
+Tendered at Geraldton, Australia
+Disembark at Perth (Fremantle), Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+16 Night - Transpacific Cruise 
+**************************************************************
+
+Index: 22
+
+Cruise Title: 16 Night - Transpacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Honolulu (Oahu), Hawaii
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Picton, New Zealand
+Wellington, New Zealand
+Tahiti, French Polynesia
+Bora Bora, French Polynesia
+Honolulu (Oahu), Hawaii
+
+Port Tags:
+Australia
+New Zealand
+Tahiti
+French Polynesia
+Hawaii
+
+Cruise Subtitle: Australia → New Zealand → Tahiti → French Polynesia → Hawaii
+
+Dates:
+2018-04-17 - 2018-05-03
+
+Prices:
+Regular Price: 2099
+Sale Price: 1259.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Picton, New Zealand
+Docked at Wellington, New Zealand
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Tahiti, French Polynesia
+Tendered at Bora Bora, French Polynesia
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Honolulu (Oahu), Hawaii
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+17 Night - Australia & New Zealand Cruise 
+**************************************************************
+
+Index: 23
+
+Cruise Title: 17 Night - Australia & New Zealand Cruise 
+
+Departure Location: Perth (Fremantle), Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Perth (Fremantle), Australia
+Esperance, Australia
+Adelaide, Australia
+Melbourne, Australia
+Milford Sound
+Doubtful Sound
+Dusky Sound
+Dunedin, New Zealand
+Akaroa, New Zealand
+Wellington, New Zealand
+Picton, New Zealand
+Sydney, Australia
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2017-02-25 - 2017-03-14
+
+Prices:
+Regular Price: 4829
+Sale Price: 2897.40
+
+Itinerary:
+Depart from Perth (Fremantle), Australia
+Day at Sea
+Tendered at Esperance, Australia
+Day at Sea
+Day at Sea
+Docked at Adelaide, Australia
+Day at Sea
+Docked at Melbourne, Australia
+Day at Sea
+Day at Sea
+Cruising Through Milford Sound, Doubtful Sound, Dusky Sound
+Docked at Dunedin, New Zealand
+Tendered at Akaroa, New Zealand
+Docked at Wellington, New Zealand
+Docked at Picton, New Zealand
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+17 Night - Australia Bottom End Cruise 
+**************************************************************
+
+Index: 24
+
+Cruise Title: 17 Night - Australia Bottom End Cruise 
+
+Departure Location: Perth (Fremantle), Australia
+
+Return Location: Sydney, Australia
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Perth (Fremantle), Australia
+Esperance, Australia
+Adelaide, Australia
+Melbourne, Australia
+Milford Sound
+Doubtful Sound
+Dusky Sound
+Dunedin, New Zealand
+Akaroa, New Zealand
+Picton, New Zealand
+Wellington, New Zealand
+Sydney, Australia
+
+Port Tags:
+Australia
+New Zealand
+
+Cruise Subtitle: Australia → New Zealand
+
+Dates:
+2018-03-01 - 2018-03-18
+
+Prices:
+Regular Price: 2099
+Sale Price: 1259.40
+
+Itinerary:
+Depart from Perth (Fremantle), Australia
+Day at Sea
+Tendered at Esperance, Australia
+Day at Sea
+Day at Sea
+Docked at Adelaide, Australia
+Day at Sea
+Docked at Melbourne, Australia
+Day at Sea
+Day at Sea
+Cruising Through Milford Sound, Doubtful Sound, Dusky Sound
+Docked at Dunedin, New Zealand
+Tendered at Akaroa, New Zealand
+Docked at Picton, New Zealand
+Docked at Wellington, New Zealand
+Day at Sea
+Day at Sea
+Disembark at Sydney, Australia
+
+
+**************************************************************
+**************************************************************
+
+
+**************************************************************
+18 Night - Transpacific Cruise 
+**************************************************************
+
+Index: 25
+
+Cruise Title: 18 Night - Transpacific Cruise 
+
+Departure Location: Sydney, Australia
+
+Return Location: Honolulu (Oahu), Hawaii
+
+Ship Name: Radiance of the Seas
+
+Port Locations:
+Sydney, Australia
+Picton, New Zealand
+Wellington, New Zealand
+Tahiti, French Polynesia
+Moorea, French Polynesia
+Bora Bora, French Polynesia
+Honolulu (Oahu), Hawaii
+
+Port Tags:
+Australia
+New Zealand
+Tahiti
+French Polynesia
+Hawaii
+
+Cruise Subtitle: Australia → New Zealand → Tahiti → French Polynesia → Hawaii
+
+Dates:
+2017-04-18 - 2017-05-06
+
+Prices:
+Regular Price: 2239
+Sale Price: 1343.40
+
+Itinerary:
+Depart from Sydney, Australia
+Day at Sea
+Day at Sea
+Docked at Picton, New Zealand
+Docked at Wellington, New Zealand
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Docked at Tahiti, French Polynesia
+Tendered at Moorea, French Polynesia
+Tendered at Bora Bora, French Polynesia
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Day at Sea
+Disembark at Honolulu (Oahu), Hawaii
+
+
+**************************************************************
+**************************************************************
+Incorrect Entries (2):
+
+9 Night - Alaska Northern Glacier Cruise 
+18 Night - Transpacific Cruise 

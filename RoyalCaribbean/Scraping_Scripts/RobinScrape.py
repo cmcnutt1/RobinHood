@@ -10,14 +10,14 @@ from LearnMoreScrape import get_itin_learn_more
 #Get Selenium WebDriver
 def init_driver():
 
-    driver = webdriver.Chrome(os.getcwd() + "/chromedriver")
+    driver = webdriver.Chrome(os.getcwd() + "../chromedriver")
 
     return driver
 
 #Initialize TinyDB for storing cruise info
 def init_db():
 
-    db = TinyDB('cruise2.json')
+    db = TinyDB('../cruise.json')
     return db
 
 #Get list of search result HTML elements (10 per page)
@@ -422,9 +422,11 @@ def get_individual_result_info(result_list,driver):
 if __name__ == "__main__":
 
     drive = init_driver()
-    #Testing scrape is currently on page 27
-    it = 35
-    while(it < 64):
+
+    #it is the search result page number
+    it = 0
+    number_of_pages = 64
+    while(it < number_of_pages):
 
         #link = "https://secure.royalcaribbean.com/cruises?currentPage=" + str(it) + "&action=update"
             

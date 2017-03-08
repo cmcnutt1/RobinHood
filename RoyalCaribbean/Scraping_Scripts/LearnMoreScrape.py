@@ -8,14 +8,14 @@ from datetime import datetime, timedelta
 # Initialize Selenium WebDriver
 def init_driver():
 
-    driver = webdriver.Chrome(os.getcwd() + "/chromedriver")
+    driver = webdriver.Chrome(os.getcwd() + "../chromedriver")
 
     return driver
 
 # Initialize cruise listing database (TinyDB)
 def init_db():
 
-    db = TinyDB('cruisedb.json')
+    db = TinyDB('../cruise.json')
 
 # Get the reference to the itenerary HTML 
 def get_page_result(driver, page_link):
